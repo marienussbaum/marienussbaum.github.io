@@ -1,4 +1,5 @@
 ---
+import config from "@/config/config.json";
 import { getSinglePage } from "@/lib/contentParser.astro";
 
 export async function getStaticPaths() {
@@ -13,22 +14,22 @@ export async function getStaticPaths() {
   return paths;
 }
 
-const target = `/en/${Astro.params.regular}/`;
+const { regular } = Astro.params;
+
+const rawBasePath = config.site.base_path || "/";
+const basePath = rawBasePath === "/" ? "" : rawBasePath.replace(/\/$/, "");
+const target = `${basePath}/en/${regular}/`;
 ---
 
 <html lang="en">
-  ---
-  import config from "@/config/config.json";
-
-  const { regular } = Astro.params;
-
-  const rawBasePath = config.site.base_path || "/";
-  const basePath = rawBasePath === "/" ? "" : rawBasePath.replace(/\/$/, "");
-  const target = `${basePath}/en/${regular}/`;
-  ---
-    <title>Redirecting…</title>
-  </head>
-  <body>
-    <a href={target}>Redirecting…</a>
-  </body>
+	<head>
+		<meta charset="utf-8" />
+		<meta http-equiv="refresh" content={`0;url=${target}`} />
+		<link rel="canonical" href={target} />
+		<meta name="robots" content="noindex" />
+		<title>Redirecting…</title>
+	</head>
+	<body>
+		<a href={target}>Redirecting…</a>
+	</body>
 </html>
