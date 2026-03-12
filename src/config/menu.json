@@ -1,0 +1,42 @@
+{
+  "main": [
+    {
+      "name": "About",
+      "url": "/"
+    },
+    {
+      "name": "Blog",
+      "url": "/blog"
+    },
+    {
+      "name": "Approach",
+      "url": "/approach"
+    },
+    {
+      "name": "FAQ",
+      "url": "/faq"
+    },
+    {
+      "name": "Contact",
+      "url": "/contact"
+    }
+  ],
+  "footer": [
+    {
+      "name": "About",
+      "url": "/"
+    },
+    {
+      "name": "Approach",
+      "url": "/approach"
+    },
+    {
+      "name": "FAQ",
+      "url": "/faq"
+    },
+    {
+      "name": "Contact",
+      "url": "/contact"
+    }
+  ]
+}

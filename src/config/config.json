@@ -1,0 +1,39 @@
+{
+  "site": {
+    "title": "Marie — Psychologist",
+    "base_url": "https://knservis.github.io",
+    "base_path": "/msn2",
+    "trailing_slash": "ignore",
+    "favicon": "/images/favicon.png",
+    "logo": "",
+    "logo_width": "200",
+    "logo_height": "34",
+    "logo_text": "Marie Nussbaum"
+  },
+
+  "settings": {
+    "pagination": 10
+  },
+
+  "metadata": {
+    "meta_author": "Marie Nussbaum",
+    "meta_image": "/images/marie-nussbaum.jpg",
+    "meta_description": "Marie Nussbaum — Clinical Psychologist & Psychoanalyst"
+  },
+
+  "google_tag_manager": {
+    "enable": false,
+    "gtm_id": "GTM-XXXXXX"
+  },
+
+  "params": {
+    "contact_form_action": "#",
+    "copyright": "Copyright © 2025 Marie Nussbaum"
+  },
+
+  "contactinfo": {
+    "address": "Marseille, France",
+    "email": "[email protected]",
+    "phone": ""
+  }
+}

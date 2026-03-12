@@ -1,0 +1,25 @@
+---
+import Base from "@/layouts/Base.astro";
+import { getRelativeLocaleUrl } from "astro:i18n";
+
+const locale = (
+  Astro.currentLocale ?? (Astro.url.pathname.startsWith("/fr") ? "fr" : "en")
+) as "en" | "fr";
+const homeHref = getRelativeLocaleUrl(locale, "/");
+---
+
+<Base title="Page Not Found">
+  <section class="section">
+    <div class="container">
+      <div class="flex h-[40vh] items-center justify-center">
+        <div class="text-center">
+          <h1 class="h2 md:h1 mb-4">Error 404</h1>
+          <div class="content">
+            <p>Page Not Found</p>
+          </div>
+          <a href={homeHref} class="btn btn-primary mt-8">Back to home</a>
+        </div>
+      </div>
+    </div>
+  </section>
+</Base>
