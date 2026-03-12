@@ -1,4 +1,5 @@
 import dateFormat from "@/lib/utils/dateFormat";
+import { withBase } from "@/lib/utils/publicUrl";
 import { humanize, slugify } from "@/lib/utils/textConverter";
 import Fuse from "fuse.js";
 import React, { useEffect, useRef, useState } from "react";
@@ -97,7 +98,7 @@ export default function SearchBar({ searchList }: Props) {
               >
                 <img
                   className="group-hover:scale-[1.03] transition duration-300 w-full"
-                  src={item.data.image}
+                  src={withBase(item.data.image)}
                   alt={item.data.title}
                   width={445}
                   height={230}
