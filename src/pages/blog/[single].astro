@@ -18,11 +18,15 @@ const target = `/en/blog/${Astro.params.single}/`;
 ---
 
 <html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <meta http-equiv="refresh" content={`0;url=${target}`} />
-    <link rel="canonical" href={target} />
-    <meta name="robots" content="noindex" />
+  ---
+  import config from "@/config/config.json";
+
+  const { single } = Astro.params;
+
+  const rawBasePath = config.site.base_path || "/";
+  const basePath = rawBasePath === "/" ? "" : rawBasePath.replace(/\/$/, "");
+  const target = `${basePath}/en/blog/${single}/`;
+  ---
     <title>Redirecting…</title>
   </head>
   <body>
