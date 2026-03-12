@@ -3,6 +3,7 @@ import Share from "@/components/Share.astro";
 import SimilarPosts from "@/components/SimilarPosts.astro";
 import { getSinglePage } from "@/lib/contentParser.astro";
 import dateFormat from "@/lib/utils/dateFormat";
+import { withBase } from "@/lib/utils/publicUrl";
 import similerItems from "@/lib/utils/similarItems";
 import { humanize, markdownify, slugify } from "@/lib/utils/textConverter";
 import { Image } from "astro:assets";
@@ -48,7 +49,7 @@ const { title, description, authors, categories, image, date, tags } =
                   >
                     {author.data.image && (
                       <Image
-                        src={author.data.image}
+                        src={withBase(author.data.image)}
                         alt={author.data.title}
                         height={50}
                         width={50}
@@ -90,7 +91,7 @@ const { title, description, authors, categories, image, date, tags } =
         {
           image && (
             <Image
-              src={image}
+              src={withBase(image)}
               height={500}
               width={1000}
               alt={title}

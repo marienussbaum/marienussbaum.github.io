@@ -4,12 +4,21 @@ import menu from "@/config/menu.json";
 import { getRelativeLocaleUrl } from "astro:i18n";
 
 const pathname = Astro.url.pathname;
+
+const baseUrl = import.meta.env.BASE_URL ?? "/";
+const basePrefix = baseUrl.endsWith("/") ? baseUrl.slice(0, -1) : baseUrl;
+const pathnameWithoutBase =
+  basePrefix && basePrefix !== "/" && pathname.startsWith(basePrefix)
+    ? pathname.slice(basePrefix.length) || "/"
+    : pathname;
+
 const locale = (
-  Astro.currentLocale ?? (pathname.startsWith("/fr") ? "fr" : "en")
+  Astro.currentLocale ?? (pathnameWithoutBase.startsWith("/fr") ? "fr" : "en")
 ) as "en" | "fr";
 const isFrench = locale === "fr";
 
-const pathnameWithoutLocale = pathname.replace(/^\/(en|fr)(?=\/|$)/, "") || "/";
+const pathnameWithoutLocale =
+  pathnameWithoutBase.replace(/^\/(en|fr)(?=\/|$)/, "") || "/";
 
 const enUrl = getRelativeLocaleUrl("en", pathnameWithoutLocale);
 const frUrl = getRelativeLocaleUrl("fr", pathnameWithoutLocale);

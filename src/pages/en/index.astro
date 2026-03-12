@@ -1,6 +1,7 @@
 ---
 import Base from "@/layouts/Base.astro";
 import { markdownify } from "@/lib/utils/textConverter";
+import { withBase } from "@/lib/utils/publicUrl";
 import { Image } from "astro:assets";
 import type { CollectionEntry } from "astro:content";
 import { getEntry, render } from "astro:content";
@@ -9,6 +10,7 @@ import { getRelativeLocaleUrl } from "astro:i18n";
 const entry = (await getEntry("enAbout", "-index")) as CollectionEntry<"enAbout">;
 const { Content } = await render(entry);
 const { title, meta_title, image, what_i_do } = entry.data;
+const imageUrl = withBase(image);
 
 const locale = (
   Astro.currentLocale ?? (Astro.url.pathname.startsWith("/fr") ? "fr" : "en")
@@ -22,10 +24,10 @@ const contactHref = getRelativeLocaleUrl(locale, "/contact");
       <div class="row md:gx-4">
         <div class="sm:col-5 md:col-4">
           {
-            image && (
+            imageUrl && (
               <div class="img-cover mb-8">
                 <Image
-                  src={image}
+                  src={imageUrl}
                   width={295}
                   height={395}
                   alt={title}
