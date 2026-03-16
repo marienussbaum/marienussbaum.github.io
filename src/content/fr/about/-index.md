@@ -82,6 +82,4 @@ what_i_do:
         inquiétudes que ces situations peuvent susciter.
       further_reading: Children and family follow-up
 ---
-J’accompagne adultes, adolescents et enfants en cabinet à Marseille ou en visioconférence. Ma pratique, s’appuyant sur une expérience institutionnelle, offre un soutien adapté aux difficultés émotionnelles et périodes de vie complexes.
-
-Si vous ressentez des émotions douloureuses (stress, anxiété), traversez des épreuves (deuil, rupture, trauma) ou rencontrez des difficultés relationnelles ou identitaires, je vous propose un espace d’écoute pour retrouver votre équilibre.
+Passionnée par la rencontre clinique, j’accueille des patients et leurs familles d’horizons culturels divers (Asie, Europe, Amérique, Afrique). Mon intérêt pour la recherche et les pratiques contemporaines m’amène à participer régulièrement à des supervisions individuelles et collectives pour enrichir ma pratique.
