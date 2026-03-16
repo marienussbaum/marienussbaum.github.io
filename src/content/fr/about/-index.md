@@ -10,10 +10,13 @@ service_intro:
     J’accompagne adultes, adolescents et enfants en cabinet à Marseille ou en
     visioconférence. Ma pratique, s’appuyant sur une expérience
     institutionnelle, offre un soutien adapté aux difficultés émotionnelles et
-    périodes de vie complexes. Si vous ressentez des émotions douloureuses
-    (stress, anxiété), traversez des épreuves (deuil, rupture, trauma) ou
-    rencontrez des difficultés relationnelles ou identitaires, je vous propose
-    un espace d’écoute pour retrouver votre équilibre.
+    périodes de vie complexes.
+
+
+    Si vous ressentez des émotions douloureuses (stress, anxiété), traversez des
+    épreuves (deuil, rupture, trauma) ou rencontrez des difficultés
+    relationnelles ou identitaires, je vous propose un espace d’écoute pour
+    retrouver votre équilibre.
   image: /images/IMG_9032.JPG
 
 what_i_do:
