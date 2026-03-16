@@ -6,15 +6,18 @@ draft: false
 
 service_intro:
   title: Clinical support for children, adolescents, and adults
-  description: >-
-    My practice offers a confidential, non-judgmental space where you can
-    explore what brings you — whether a specific difficulty, a recurring
-    pattern, or simply a sense that something needs to change.
+  description: >
+    I offer therapy for adults, teenagers, and children, either in my
+    consultation in Marseille or occasionally in Paris or through online
+    sessions. My practice, grounded in extensive institutional experience,
+    provides tailored support for emotional difficulties and challenging life
+    transitions.
 
 
-    I work with individuals, adolescents, children and families using
-    psychodynamic and psychoanalytic approaches, adapted to your pace and your
-    needs. Sessions take place in Marseille, Paris, and occasionally online.
+    Whether you’re experiencing painful emotions (stress, anxiety), going
+    through a difficult time (bereavement, separation, trauma), or facing
+    relational or identity-related struggles, I offer a therapeutic space where
+    you can be heard and begin to regain your balance.
   image: /images/IMG_9032.JPG
 
 what_i_do:
