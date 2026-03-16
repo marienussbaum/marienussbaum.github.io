@@ -1,21 +1,21 @@
 ---
 title: "Marie Nussbaum"
 meta_title: "About"
-image: "/images/marie-nussbaum.jpg"
+image: "/images/IMG_9763.PNG"
 draft: false
 
 what_i_do:
-  title: "What I Do"
+  title: What I Do
   items:
-  - title: "Psychodynamic Psychotherapy"
-    description: "In-depth individual therapy exploring unconscious dynamics, relationship patterns, and emotional history to support lasting change."
-
-  - title: "Psychoanalytic Psychotherapy"
-    description: "Long-term psychoanalytic work for those seeking profound self-understanding and resolution of deep-seated conflicts."
-
-  - title: "Couple & Family Therapy"
-    description: "Therapeutic support for couples and families navigating conflict, attachment difficulties, and relational ruptures."
-
+    - title: Psychodynamic Psychotherapy
+      description: In-depth individual therapy exploring unconscious dynamics,
+        relationship patterns, and emotional history to support lasting change.
+    - title: Psychoanalytic Psychotherapy
+      description: Long-term psychoanalytic work for those seeking profound
+        self-understanding and resolution of deep-seated conflicts.
+    - title: Couple & Family Therapy
+      description: Therapeutic support for couples and families navigating conflict,
+        attachment difficulties, and relational ruptures.
 ---
 
 As a licensed clinical psychologist and psychoanalyst, I use my expertise to explore complex psychological themes and offer insights into personal development and emotional well-being.
