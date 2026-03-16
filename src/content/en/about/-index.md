@@ -6,7 +6,7 @@ draft: false
 
 what_i_do:
   title: My services
-  subtitle: Consultations take place in Marseille, Paris and occasionally online
+  subtitle: "Consultations take place in Marseille, Paris and occasionally online "
   items:
     - title: Adult consultations – individual psychotherapy
       subtitle: Individual approach
