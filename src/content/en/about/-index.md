@@ -2,7 +2,7 @@
 title: "Marie Nussbaum"
 meta_title: "About"
 image: "/images/IMG_9763.PNG"
-draft: false
+draft: true
 
 service_intro:
   title: A space to understand yourself
@@ -15,7 +15,7 @@ service_intro:
     I work with individuals, adolescents, children and families using
     psychodynamic and psychoanalytic approaches, adapted to your pace and your
     needs. Sessions take place in Marseille, Paris, and occasionally online.
-  image: /images/IMG_9763.PNG
+  image: /images/IMG_9032.JPG
 
 what_i_do:
   title: My services
