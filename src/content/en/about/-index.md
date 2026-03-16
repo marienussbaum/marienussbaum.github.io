@@ -2,7 +2,7 @@
 title: "Marie Nussbaum"
 meta_title: "About"
 image: "/images/IMG_9763.PNG"
-draft: true
+draft: false
 
 service_intro:
   title: A space to understand yourself
