@@ -80,6 +80,4 @@ what_i_do:
         situations can generate.
       further_reading: Children and family follow-up
 ---
-I offer therapy for adults, teenagers, and children, either in my consultation in Marseille or occasionally in Paris or through online sessions. My practice, grounded in extensive institutional experience, provides tailored support for emotional difficulties and challenging life transitions.
-
-Whether you’re experiencing painful emotions (stress, anxiety), going through a difficult time (bereavement, separation, trauma), or facing relational or identity-related struggles, I offer a therapeutic space where you can be heard and begin to regain your balance.
+I am deeply committed to the clinical encounter and work with patients and families from diverse cultural backgrounds (Asia, Europe, the Americas, Africa). My interest in research and contemporary therapeutic approaches leads me to participate regularly in both individual and group supervision, allowing me to continually enrich and refine my practice.
