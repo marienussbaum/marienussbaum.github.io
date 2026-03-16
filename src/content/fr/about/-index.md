@@ -6,17 +6,14 @@ draft: false
 
 service_intro:
   title: Accompagnement clinique pour enfants, adolescents, adultes
-  description: >-
-    Mon cabinet offre un espace confidentiel et bienveillant où vous pouvez
-    explorer ce qui vous amène — qu'il s'agisse d'une difficulté précise, d'un
-    schéma récurrent, ou simplement d'un sentiment que quelque chose doit
-    changer.
-
-
-    Je travaille avec des adultes, des adolescents, des enfants et des familles
-    selon des approches psychodynamiques et psychanalytiques, adaptées à votre
-    rythme et à vos besoins. Les séances se déroulent à Marseille, Paris, et
-    occasionnellement en ligne.
+  description: >
+    J’accompagne adultes, adolescents et enfants en cabinet à Marseille ou en
+    visioconférence. Ma pratique, s’appuyant sur une expérience
+    institutionnelle, offre un soutien adapté aux difficultés émotionnelles et
+    périodes de vie complexes. Si vous ressentez des émotions douloureuses
+    (stress, anxiété), traversez des épreuves (deuil, rupture, trauma) ou
+    rencontrez des difficultés relationnelles ou identitaires, je vous propose
+    un espace d’écoute pour retrouver votre équilibre.
   image: /images/IMG_9032.JPG
 
 what_i_do:
