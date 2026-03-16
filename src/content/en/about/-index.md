@@ -7,14 +7,14 @@ draft: false
 service_intro:
   title: A space to understand yourself
   description: >-
-    My practice offers a confidential, non-judgmental space where you can explore
-    what brings you — whether a specific difficulty, a recurring pattern, or simply
-    a sense that something needs to change.
+    My practice offers a confidential, non-judgmental space where you can
+    explore what brings you — whether a specific difficulty, a recurring
+    pattern, or simply a sense that something needs to change.
 
 
-    I work with individuals, adolescents, children and families using psychodynamic
-    and psychoanalytic approaches, adapted to your pace and your needs. Sessions
-    take place in Marseille, Paris, and occasionally online.
+    I work with individuals, adolescents, children and families using
+    psychodynamic and psychoanalytic approaches, adapted to your pace and your
+    needs. Sessions take place in Marseille, Paris, and occasionally online.
   image: /images/IMG_9763.PNG
 
 what_i_do:
@@ -77,9 +77,6 @@ what_i_do:
         situations can generate.
       further_reading: Children and family follow-up
 ---
+I offer therapy for adults, teenagers, and children, either in my consultation in Marseille or occasionally in Paris or through online sessions. My practice, grounded in extensive institutional experience, provides tailored support for emotional difficulties and challenging life transitions.
 
-As a licensed clinical psychologist and psychoanalyst, I use my expertise to explore complex psychological themes and offer insights into personal development and emotional well-being.
-
-With 20 years of experience — first in corporate settings, then in specialised clinical hospital practice — I help clients understand themselves and engage with difficult emotions through psychodynamic and psychoanalytic approaches.
-
-My expertise spans psychology, AI consultation, and humanities research, focusing on ethical innovation at the intersection of science and human care.
+Whether you’re experiencing painful emotions (stress, anxiety), going through a difficult time (bereavement, separation, trauma), or facing relational or identity-related struggles, I offer a therapeutic space where you can be heard and begin to regain your balance.
