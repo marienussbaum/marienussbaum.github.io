@@ -25,9 +25,12 @@ what_i_do:
       further_reading: Adult consultations – individual psychotherapy
     - title: Psychoanalytic Psychotherapy
       subtitle: Deep self-understanding through analytic work
-      image: /images/IMG_9763.PNG
-      description: Long-term psychoanalytic work for those seeking profound
-        self-understanding and resolution of deep-seated conflicts.
+      image: /images/image psychanalyse.jpg
+      description: "Psychoanalytic psychotherapy is particularly suited to people who
+        feel that something keeps repeating itself in their life, without them
+        really knowing why: relationship breakdowns, the feeling of “always
+        ending up in the same place”, difficulties in connecting, or a deep
+        sense of emptiness."
       further_reading: psychoanalytic-psychotherapy
     - title: Couple & Family Therapy
       subtitle: Support for relational difficulties
