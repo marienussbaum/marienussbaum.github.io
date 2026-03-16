@@ -1,8 +1,8 @@
 {
   "site": {
     "title": "Marie — Psychologist",
-    "base_url": "https://knservis.github.io",
-    "base_path": "/msn2",
+    "base_url": "https://marienussbaum.github.io",
+    "base_path": "",
     "trailing_slash": "ignore",
     "favicon": "/images/favicon.png",
     "logo": "",
