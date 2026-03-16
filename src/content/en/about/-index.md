@@ -1,7 +1,7 @@
 ---
 title: "Marie Nussbaum"
 meta_title: "About"
-image: "/images/IMG_9763.PNG"
+image: "/images/IMG_9032.JPG"
 draft: false
 
 service_intro:
