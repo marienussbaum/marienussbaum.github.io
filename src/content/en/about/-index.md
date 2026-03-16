@@ -32,12 +32,21 @@ what_i_do:
         ending up in the same place”, difficulties in connecting, or a deep
         sense of emptiness."
       further_reading: psychoanalytic-psychotherapy
-    - title: Couple & Family Therapy
+    - title: Support for adolescents
       subtitle: Support for relational difficulties
-      image: /images/IMG_9763.PNG
-      description: Therapeutic support for couples and families navigating conflict,
-        attachment difficulties, and relational ruptures.
-      further_reading: couple-family-therapy
+      image: /images/consultation ado3.jpg
+      description: >-
+        Adolescence is a time of transition, sometimes turbulent, for young
+        people and their families. I receive adolescents who are facing strong
+        emotions (anger, anxiety, sadness), difficulties at school, withdrawal,
+        acting out, relationship conflicts or identity questions.
+
+
+        Consultations provide a space where the young person can express
+        themselves freely, be heard without being judged, and start to put words
+        to what they are going through. When relevant, I also meet with parents
+        to think together about how best to support their child.
+      further_reading: Support for adolescents
     - title: Psychological Assessment
       subtitle: Standardised cognitive and personality evaluation
       image: /images/IMG_9763.PNG
