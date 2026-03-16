@@ -8,29 +8,39 @@ what_i_do:
   title: My services
   subtitle: Consultations take place in Marseille, Paris and occasionally online
   items:
-    - title: Psychodynamic Psychotherapy
-      subtitle: Individual therapy for lasting change
-      image: "/images/IMG_9763.PNG"
-      description: In-depth individual therapy exploring unconscious dynamics,
-        relationship patterns, and emotional history to support lasting change.
-      further_reading: psychodynamic-psychotherapy
+    - title: Adult consultations – individual psychotherapy
+      subtitle: Individual approach
+      image: /images/Consultation individuelle.jpg
+      description: >-
+        I offer individual consultations for adults who are facing emotional
+        difficulties (anxiety, sadness, inhibition, irritability), overwhelming
+        life events (trauma, separation, bereavement, illness, burnout,
+        expatriation), or patterns that seem to repeat themselves in
+        relationships, work or family life.
+
+
+        Together, we try to understand what is being replayed, give meaning to
+        what you are experiencing, and gradually open up other ways of relating
+        to yourself and to others.
+      further_reading: Adult consultations – individual psychotherapy
     - title: Psychoanalytic Psychotherapy
       subtitle: Deep self-understanding through analytic work
-      image: "/images/IMG_9763.PNG"
+      image: /images/IMG_9763.PNG
       description: Long-term psychoanalytic work for those seeking profound
         self-understanding and resolution of deep-seated conflicts.
       further_reading: psychoanalytic-psychotherapy
     - title: Couple & Family Therapy
       subtitle: Support for relational difficulties
-      image: "/images/IMG_9763.PNG"
+      image: /images/IMG_9763.PNG
       description: Therapeutic support for couples and families navigating conflict,
         attachment difficulties, and relational ruptures.
       further_reading: couple-family-therapy
     - title: Psychological Assessment
       subtitle: Standardised cognitive and personality evaluation
-      image: "/images/IMG_9763.PNG"
+      image: /images/IMG_9763.PNG
       description: Comprehensive psychological assessments including standardised
-        tests to evaluate cognitive functioning, emotional regulation, and personality.
+        tests to evaluate cognitive functioning, emotional regulation, and
+        personality.
       further_reading: psychological-assessment
 ---
 
