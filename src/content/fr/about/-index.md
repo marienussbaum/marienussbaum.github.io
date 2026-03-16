@@ -17,7 +17,7 @@ service_intro:
     selon des approches psychodynamiques et psychanalytiques, adaptées à votre
     rythme et à vos besoins. Les séances se déroulent à Marseille, Paris, et
     occasionnellement en ligne.
-  image: /images/IMG_9763.PNG
+  image: /images/IMG_9032.JPG
 
 what_i_do:
   title: Mes services
