@@ -11,8 +11,9 @@ const entry = (await getEntry(
   "-index"
 )) as CollectionEntry<"enContact">;
 const { contact_form_action } = config.params;
-const { address, email, phone } = config.contactinfo;
-const { title, description, meta_title, image } = entry.data;
+const { address } = config.contactinfo;
+const { title, description, meta_title, image, email, telephone, booking_form } = entry.data;
+const emailMarkdown = email ? `[${email}](mailto:${email})` : "";
 ---
 
 <Base
@@ -41,17 +42,29 @@ const { title, description, meta_title, image } = entry.data;
                 <p class="font-semibold">Email</p>
               </div>
               <p
-                set:html={markdownify(email)}
+                set:html={markdownify(emailMarkdown)}
                 class="mt-2 leading-5 pl-8 content"
               />
             </li>
+            {telephone && (
             <li>
               <div class="flex text-text-dark items-center text-xl">
                 <FaPhoneAlt className="mr-3 text-primary" />
                 <p class="font-semibold">Phone</p>
               </div>
-              <p set:html={markdownify(phone)} class="mt-2 leading-5 pl-8" />
+              <p class="mt-2 leading-5 pl-8">{telephone}</p>
             </li>
+            )}
+            {booking_form && (
+            <li>
+              <a
+                href={booking_form}
+                target="_blank"
+                rel="noopener noreferrer"
+                class="btn btn-primary mt-2 inline-block"
+              >Book an appointment</a>
+            </li>
+            )}
           </ul>
         </div>
         <div class="sm:col-7 md:col-8">
@@ -90,7 +103,7 @@ const { title, description, meta_title, image } = entry.data;
               <label class="mb-2 block" for="message"
                 >Message <span class="text-red-600">*</span></label
               >
-              <textarea class="form-textarea w-full" rows="4"></textarea>
+              <textarea class="form-textarea w-full" name="message" rows="4" required></textarea>
             </div>
             <div class="col-12">
               <button class="btn btn-primary mt-2">Submit Now</button>

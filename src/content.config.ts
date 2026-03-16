@@ -39,6 +39,9 @@ const contactCollection = defineCollection({
     meta_title: z.string().optional(),
     description: z.string().optional(),
     image: z.string().optional(),
+    email: z.string().optional(),
+    telephone: z.string().optional(),
+    booking_form: z.string().optional(),
     draft: z.boolean().optional(),
   }),
 });
@@ -157,6 +160,9 @@ const frContactCollection = defineCollection({
     meta_title: z.string().optional(),
     description: z.string().optional(),
     image: z.string().optional(),
+    email: z.string().optional(),
+    telephone: z.string().optional(),
+    booking_form: z.string().optional(),
     draft: z.boolean().optional(),
   }),
 });
