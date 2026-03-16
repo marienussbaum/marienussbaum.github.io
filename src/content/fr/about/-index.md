@@ -5,7 +5,7 @@ image: "/images/IMG_9763.PNG"
 draft: false
 
 service_intro:
-  title: Un espace pour se comprendre
+  title: Accompagnement clinique pour enfants, adolescents, adultes
   description: >-
     Mon cabinet offre un espace confidentiel et bienveillant où vous pouvez
     explorer ce qui vous amène — qu'il s'agisse d'une difficulté précise, d'un
