@@ -47,13 +47,22 @@ what_i_do:
         to what they are going through. When relevant, I also meet with parents
         to think together about how best to support their child.
       further_reading: Support for adolescents
-    - title: Psychological Assessment
-      subtitle: Standardised cognitive and personality evaluation
-      image: /images/IMG_9763.PNG
-      description: Comprehensive psychological assessments including standardised
-        tests to evaluate cognitive functioning, emotional regulation, and
-        personality.
-      further_reading: psychological-assessment
+    - title: Children and family follow-up
+      subtitle: Attachement and Development
+      image: /images/consultation enfants fauteuil 2.jpg
+      description: >-
+        With children, the work often takes place through play, drawing, stories
+        and shared moments. I receive children who show changes in behavior
+        (agitation, opposition, withdrawal), emotional difficulties, school
+        problems, or who have experienced significant events (separation,
+        bereavement, illness, move, family conflict…).
+
+
+        Meetings with parents are an integral part of the process. They make it
+        possible to understand the child in their history and environment, and
+        to support the adults in the questions, doubts and worries that these
+        situations can generate.
+      further_reading: Children and family follow-up
 ---
 
 As a licensed clinical psychologist and psychoanalyst, I use my expertise to explore complex psychological themes and offer insights into personal development and emotional well-being.
