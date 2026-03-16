@@ -12,10 +12,14 @@ const aboutCollection = defineCollection({
     draft: z.boolean().optional(),
     what_i_do: z.object({
       title: z.string(),
+      subtitle: z.string().optional(),
       items: z.array(
         z.object({
           title: z.string(),
+          subtitle: z.string().optional(),
+          image: z.string().optional(),
           description: z.string(),
+          further_reading: z.string().optional(),
         }),
       ),
     }),
@@ -122,10 +126,14 @@ const frAboutCollection = defineCollection({
     draft: z.boolean().optional(),
     what_i_do: z.object({
       title: z.string(),
+      subtitle: z.string().optional(),
       items: z.array(
         z.object({
           title: z.string(),
+          subtitle: z.string().optional(),
+          image: z.string().optional(),
           description: z.string(),
+          further_reading: z.string().optional(),
         }),
       ),
     }),

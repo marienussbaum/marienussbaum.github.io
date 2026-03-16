@@ -51,7 +51,28 @@ export default defineConfig({
   output: "static",
   outDir: "./dist",
   image: { service: sharpImageService() },
-  vite: { plugins: [tailwindcss()] },
+  vite: {
+    server: {
+      watch: {
+        usePolling: true,
+        interval: 500,
+      },
+    },
+    plugins: [
+      tailwindcss(),
+      {
+        name: "watch-config-json",
+        configureServer(server) {
+          server.watcher.add("./src/config/*.json");
+          server.watcher.on("change", (file) => {
+            if (file.includes("/src/config/")) {
+              server.ws.send({ type: "full-reload" });
+            }
+          });
+        },
+      },
+    ],
+  },
   fonts: fontsConfig,
   integrations: [
     react(),
