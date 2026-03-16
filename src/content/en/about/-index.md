@@ -4,6 +4,19 @@ meta_title: "About"
 image: "/images/IMG_9763.PNG"
 draft: false
 
+service_intro:
+  title: A space to understand yourself
+  description: >-
+    My practice offers a confidential, non-judgmental space where you can explore
+    what brings you — whether a specific difficulty, a recurring pattern, or simply
+    a sense that something needs to change.
+
+
+    I work with individuals, adolescents, children and families using psychodynamic
+    and psychoanalytic approaches, adapted to your pace and your needs. Sessions
+    take place in Marseille, Paris, and occasionally online.
+  image: /images/IMG_9763.PNG
+
 what_i_do:
   title: My services
   subtitle: "Consultations take place in Marseille, Paris and occasionally online "

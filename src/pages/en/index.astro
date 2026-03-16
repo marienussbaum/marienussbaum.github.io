@@ -9,7 +9,7 @@ import { getRelativeLocaleUrl } from "astro:i18n";
 
 const entry = (await getEntry("enAbout", "-index")) as CollectionEntry<"enAbout">;
 const { Content } = await render(entry);
-const { title, meta_title, image, what_i_do } = entry.data;
+const { title, meta_title, image, what_i_do, service_intro } = entry.data;
 const imageUrl = withBase(image);
 
 const locale = (
@@ -19,25 +19,48 @@ const contactHref = getRelativeLocaleUrl(locale, "/contact");
 ---
 
 <Base title={title} meta_title={meta_title} image={image}>
-  <section class="section">
-    <div class="container">
-      <div class="row md:gx-4">
-        <div class="sm:col-7 md:col-8">
-          <div class="rounded-lg p-8" style="background-color: #b9deea;">
-            <h1 set:html={markdownify(title)} class="h3 mb-8" />
 
-            <div class="content">
-              <Content />
+  <!-- Box 1: Service intro (general) -->
+  {service_intro && (
+    <section class="section">
+      <div class="container">
+        <div class="rounded-lg p-8" style="background-color: #b9deea;">
+          <div class="row md:gx-8 items-center">
+            <div class="col">
+              <h2 class="h3 mb-6">{service_intro.title}</h2>
+              <p class="content">{service_intro.description}</p>
             </div>
-            <a href={contactHref} class="btn btn-primary text-white py-2"
-              >Book an appointment</a
-            >
+            {service_intro.image && (
+              <div class="col-auto">
+                <img
+                  src={service_intro.image}
+                  alt={service_intro.title}
+                  class="rounded-lg object-cover"
+                  style="width: 260px; height: 340px;"
+                />
+              </div>
+            )}
           </div>
         </div>
-        <div class="sm:col-5 md:col-4">
-          {
-            imageUrl && (
-              <div class="img-cover mb-8">
+      </div>
+    </section>
+  )}
+
+  <!-- Box 2: About the person -->
+  <section class="section pt-0">
+    <div class="container">
+      <div class="rounded-lg p-8" style="border: 2px solid #b9deea;">
+        <div class="row md:gx-8 items-center">
+          <div class="sm:col-7 md:col-8">
+            <h2 set:html={markdownify(title)} class="h3 mb-6" />
+            <div class="content mb-6">
+              <Content />
+            </div>
+            <a href={contactHref} class="btn btn-primary text-white py-2">Book an appointment</a>
+          </div>
+          <div class="sm:col-5 md:col-4">
+            {imageUrl && (
+              <div class="img-cover">
                 <Image
                   src={imageUrl}
                   width={295}
@@ -46,38 +69,46 @@ const contactHref = getRelativeLocaleUrl(locale, "/contact");
                   class="rounded-lg w-full"
                 />
               </div>
-            )
+            )}
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Box 3: What I do (service list) -->
+  <section class="section pt-0">
+    <div class="container-xl">
+      <div class="rounded-lg p-8" style="background-color: #f5f5f5;">
+        <h2 class="page-heading mb-4">{what_i_do.title}</h2>
+        {what_i_do.subtitle && <p class="text-center mb-10">{what_i_do.subtitle}</p>}
+        <div class="row gy-6">
+          {
+            what_i_do.items.map((item: any) => (
+              <div class="md:col-6">
+                <div class="row gx-4 items-center">
+                  <div class="col">
+                    <h4 class="text-dark font-weight-700 mb-2">{item.title}</h4>
+                    {item.subtitle && <p class="text-sm font-semibold mb-2">{item.subtitle}</p>}
+                    <p class="mb-3">{item.description}</p>
+                    {item.further_reading && (
+                      <a href={getRelativeLocaleUrl(locale, `/${item.further_reading}`)} class="text-primary text-sm font-semibold hover:underline">
+                        Read more →
+                      </a>
+                    )}
+                  </div>
+                  {item.image && (
+                    <div class="col-auto">
+                      <img src={item.image} alt={item.title} class="rounded-lg object-cover" style="width: 140px; height: 140px;" />
+                    </div>
+                  )}
+                </div>
+              </div>
+            ))
           }
         </div>
       </div>
     </div>
   </section>
 
-  <section class="section pt-0">
-    <div class="container-xl">
-      <h3 class="page-heading mb-4">{what_i_do.title}</h3>
-      {what_i_do.subtitle && <p class="text-center text-light mb-12">{what_i_do.subtitle}</p>}
-      <div class="row gy-4 text-center">
-        {
-          what_i_do.items.map((item: any) => (
-            <div class="lg:col-3 md:col-6">
-              {item.image && (
-                <div class="mb-4">
-                  <img src={item.image} alt={item.title} class="rounded-lg w-full object-cover" style="height: 180px;" />
-                </div>
-              )}
-              <h4 class="text-dark font-weight-700 mb-3">{item.title}</h4>
-              {item.subtitle && <p class="text-sm font-semibold mb-2">{item.subtitle}</p>}
-              <p class="mb-3">{item.description}</p>
-              {item.further_reading && (
-                <a href={getRelativeLocaleUrl(locale, `/${item.further_reading}`)} class="text-primary text-sm font-semibold hover:underline">
-                  Read more →
-                </a>
-              )}
-            </div>
-          ))
-        }
-      </div>
-    </div>
-  </section>
 </Base>
