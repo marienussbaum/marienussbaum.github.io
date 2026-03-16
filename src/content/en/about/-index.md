@@ -5,7 +5,7 @@ image: "/images/IMG_9763.PNG"
 draft: false
 
 service_intro:
-  title: A space to understand yourself
+  title: Clinical support for children, adolescents, and adults
   description: >-
     My practice offers a confidential, non-judgmental space where you can
     explore what brings you — whether a specific difficulty, a recurring
