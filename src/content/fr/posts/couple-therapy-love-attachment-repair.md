@@ -1,10 +1,19 @@
 ---
 title: "Thérapie de couple : entre amour, attachement et réparation"
-description: "Exploration des dynamiques relationnelles, des blessures émotionnelles et des chemins de transformation dans la thérapie de couple, à travers les perspectives d'auteurs internationaux et des situations cliniques."
-date: 2025-11-01T00:00:00Z
-authors: ["Marie Nussbaum"]
-categories: ["Psychologie"]
-tags: ["psychologie"]
+description: "Exploration des dynamiques relationnelles, des blessures
+  émotionnelles et des chemins de transformation dans la thérapie de couple, à
+  travers les perspectives d'auteurs internationaux et des situations
+  cliniques."
+date: 2025-11-01T00:00:00.000Z
+authors:
+  - Marie Nussbaum
+categories:
+  - Couple
+  - Adultes
+  - ""
+tags:
+  - Couple
+  - Adultes
 draft: false
 ---
 
