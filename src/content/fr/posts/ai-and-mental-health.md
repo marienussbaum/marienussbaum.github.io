@@ -1,10 +1,17 @@
 ---
 title: "L'intelligence artificielle au service de la santé mentale"
-description: "Une exploration clinique et philosophique de l'IA comme outil d'accompagnement psychologique, examinant son rôle de facilitateur dans les relations humaines et les enjeux éthiques de son intégration."
-date: 2025-03-01T00:00:00Z
-authors: ["Marie Nussbaum"]
-categories: ["Psychologie"]
-tags: ["psychologie"]
+description: "Une exploration clinique et philosophique de l'IA comme outil
+  d'accompagnement psychologique, examinant son rôle de facilitateur dans les
+  relations humaines et les enjeux éthiques de son intégration."
+date: 2025-03-01T00:00:00.000Z
+authors:
+  - Marie Nussbaum
+categories:
+  - IA
+  - Psychology & Société
+tags:
+  - IA
+  - Psychology & Société
 draft: false
 ---
 
