@@ -9,6 +9,14 @@ const homeHref = getRelativeLocaleUrl(locale, "/");
 ---
 
 <Base title="Page Not Found">
+  <script>
+    const path = window.location.pathname;
+    const isFr = path.startsWith("/fr/");
+    const blogPostPattern = isFr ? /^\/fr\/blog\/.+/ : /^\/(en\/)?blog\/.+/;
+    if (blogPostPattern.test(path)) {
+      window.location.replace(isFr ? "/fr/blog/" : "/en/blog/");
+    }
+  </script>
   <section class="section">
     <div class="container">
       <div class="flex h-[40vh] items-center justify-center">
