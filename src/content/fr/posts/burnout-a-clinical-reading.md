@@ -14,6 +14,7 @@ tags:
   - Maladies
   - ""
 draft: false
+image: ""
 ---
 
 #### Entre épuisement et effondrement subjectif

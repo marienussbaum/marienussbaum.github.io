@@ -16,6 +16,7 @@ tags:
   - Enfants
   - Adoption
 draft: false
+image: ""
 ---
 
 ## Une traversée psychique du lien

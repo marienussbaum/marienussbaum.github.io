@@ -15,6 +15,7 @@ tags:
   - Suicide
   - Adultes
 draft: false
+image: ""
 ---
 
 ## Naviguer le deuil après le suicide d'un proche : Guide pour les patients

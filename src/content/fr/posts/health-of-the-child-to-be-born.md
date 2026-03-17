@@ -17,6 +17,7 @@ tags:
   - Parents
   - Maladies
 draft: false
+image: ""
 ---
 
 #### La santé mentale de parents affecterait-elle la santé de l'enfant à venir ?

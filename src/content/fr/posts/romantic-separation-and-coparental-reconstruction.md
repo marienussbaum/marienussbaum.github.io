@@ -11,6 +11,7 @@ categories:
 tags:
   - Parents
 draft: false
+image: ""
 ---
 
 ## Une lecture psychanalytique

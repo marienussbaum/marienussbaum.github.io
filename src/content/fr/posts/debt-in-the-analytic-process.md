@@ -12,6 +12,7 @@ tags:
   - Psychologie & Société
   - Soins
 draft: false
+image: ""
 ---
 
 ## Une articulation entre économie psychique, cadre thérapeutique et subjectivation

@@ -2,6 +2,7 @@
 title: "Separation and Coparental Reconstruction"
 date: 2025-05-01T00:00:00.000Z
 description: "A psychoanalytic perspective"
+image: ""
 authors:
   - Marie Nussbaum
 categories:

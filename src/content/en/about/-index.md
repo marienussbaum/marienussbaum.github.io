@@ -1,7 +1,7 @@
 ---
 title: "Marie Nussbaum"
 subtitle: "Psychologist"
-meta_title: "About"
+meta_title: "Marie Nussbaum - Psychologist Marseille"
 image: "/images/IMG_9763.PNG"
 draft: false
 

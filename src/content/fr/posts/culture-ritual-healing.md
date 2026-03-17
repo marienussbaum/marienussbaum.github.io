@@ -14,6 +14,7 @@ tags:
   - Psychologie & Société
   - Soins
 draft: false
+image: ""
 ---
 
 ## La catharsis collective face au trauma

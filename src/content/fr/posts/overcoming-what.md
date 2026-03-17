@@ -14,6 +14,7 @@ tags:
   - Psychologie & Société
   - Maladies
 draft: false
+image: ""
 ---
 
 En tant que soignant, peut-on vraiment parler de se battre contre une maladie ou une émotion ? Souvent, nous entendons ou nous voyons des affiches recourir à l'usage de ce terme dans le contexte de la lutte contre l'autisme, la mucoviscidose, le cancer ou le diabète. À plus petite échelle, nous l'entendons dans les discours contre les peurs ou la solitude.

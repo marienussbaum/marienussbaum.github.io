@@ -2,6 +2,7 @@
 title: "The Obligation of Care in France"
 date: 2025-02-01T00:00:00.000Z
 description: "Between legal constraint and therapeutic transformation"
+image: ""
 authors:
   - Marie Nussbaum
 categories:

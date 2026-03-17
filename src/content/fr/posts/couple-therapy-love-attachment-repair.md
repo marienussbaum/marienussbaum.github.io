@@ -10,11 +10,11 @@ authors:
 categories:
   - Couple
   - Adultes
-  - ""
 tags:
   - Couple
   - Adultes
 draft: false
+image: ""
 ---
 
 ## Explorer les blessures, les attentes et les silences

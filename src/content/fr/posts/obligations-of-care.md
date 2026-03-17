@@ -15,6 +15,7 @@ tags:
   - Prison
   - Adultes
 draft: false
+image: ""
 ---
 
 ## Entre contrainte légale et cheminement thérapeutique

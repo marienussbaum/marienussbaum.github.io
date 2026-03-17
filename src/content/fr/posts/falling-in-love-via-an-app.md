@@ -14,6 +14,7 @@ tags:
   - Amour
   - Couple
 draft: false
+image: ""
 ---
 
 #### Colloque du GHU de Saint-Anne (Mai 2024) : notes sur mon intervention sur « Tomber amoureux via une application »

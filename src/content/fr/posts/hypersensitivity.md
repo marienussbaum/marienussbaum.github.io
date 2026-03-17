@@ -13,6 +13,7 @@ tags:
   - Psychologie & Société
   - Hypersensibilité
 draft: false
+image: ""
 ---
 
 ## Une réflexion au service des patients

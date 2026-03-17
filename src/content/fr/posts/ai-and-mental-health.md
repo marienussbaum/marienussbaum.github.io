@@ -13,6 +13,7 @@ tags:
   - IA
   - Psychologie & Société
 draft: false
+image: ""
 ---
 
 ## Une perspective clinique et philosophique

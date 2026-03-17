@@ -15,6 +15,7 @@ tags:
   - Douance
   - HPI
 draft: false
+image: ""
 ---
 
 ## Comprendre et Accompagner au-delà des Résultats

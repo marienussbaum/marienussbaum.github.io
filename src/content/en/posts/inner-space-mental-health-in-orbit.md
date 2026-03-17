@@ -2,6 +2,7 @@
 title: "Inner Space: Mental Health and Subjectivity in Orbit"
 date: 2025-10-01T00:00:00.000Z
 description: "When outer space meets inner emptiness"
+image: ""
 authors:
   - Marie Nussbaum
 categories:

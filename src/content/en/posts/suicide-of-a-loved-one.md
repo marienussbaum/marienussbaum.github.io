@@ -2,6 +2,7 @@
 title: "Suicide of a Loved One"
 date: 2025-01-01T00:00:00.000Z
 description: "Navigating grief after the suicide of a loved one"
+image: ""
 authors:
   - Marie Nussbaum
 categories:

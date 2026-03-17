@@ -2,6 +2,7 @@
 title: "Culture, Ritual and Healing"
 date: 2025-09-01T00:00:00.000Z
 description: "Collective catharsis in the face of trauma"
+image: ""
 authors:
   - Marie Nussbaum
 categories:

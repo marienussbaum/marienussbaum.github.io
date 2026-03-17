@@ -14,6 +14,7 @@ tags:
   - Adultes
   - Intimité & relations
 draft: false
+image: ""
 ---
 
 ## Interroger les modalités de la jouissance et du rapport à l'autre

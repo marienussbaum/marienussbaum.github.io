@@ -16,6 +16,7 @@ tags:
   - NASA
   - Confinement
 draft: false
+image: ""
 ---
 
 ## Quand le vide spatial rencontre le vide psychique

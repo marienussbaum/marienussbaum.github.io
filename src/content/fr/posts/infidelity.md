@@ -13,6 +13,7 @@ tags:
   - Couple
   - Amour
 draft: false
+image: ""
 ---
 
 ## Décoder la crise pour évoluer et guérir
