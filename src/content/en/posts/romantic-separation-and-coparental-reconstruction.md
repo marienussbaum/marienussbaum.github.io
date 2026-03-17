@@ -9,10 +9,6 @@ categories:
   - Parents
   - Children
   - Separation
-tags:
-  - Parents
-  - Children
-  - Seperation
 draft: false
 ---
 

@@ -8,9 +8,6 @@ authors:
 categories:
   - Intimacy & Relationships
   - Adults
-tags:
-  - Intimacy & Relationships
-  - Adults
 draft: false
 ---
 

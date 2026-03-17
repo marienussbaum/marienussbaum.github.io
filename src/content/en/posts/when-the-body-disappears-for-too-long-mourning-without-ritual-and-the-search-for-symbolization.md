@@ -12,11 +12,6 @@ categories:
   - Science
   - Adults
   - Elderly
-tags:
-  - Mourning
-  - Science
-  - Adults
-  - Elderly
 draft: false
 ---
 There are forms of mourning that open in a particular kind of silence. Mourning in which the body of the deceased disappears for months, sometimes years, because it has been donated to science. Mourning in which the relatives remain in a strange suspension, caught between gratitude for the gesture and the pain of being deprived of what has always helped humans say goodbye: a body, a place, a ritual, a name carved somewhere.

@@ -10,10 +10,6 @@ categories:
   - Psychologie & Société
   - Suicide
   - Adultes
-tags:
-  - Psychologie & Société
-  - Suicide
-  - Adultes
 draft: false
 image: ""
 ---

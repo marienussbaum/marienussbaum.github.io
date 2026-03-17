@@ -8,9 +8,6 @@ authors:
 categories:
   - Enfants
   - Parents
-tags:
-  - Enfants
-  - Parents
 draft: false
 ---
 La colère d’un enfant n’est jamais un simple débordement. Elle est un langage. Un appel. Une tentative, parfois maladroite, parfois désespérée, de dire quelque chose qui ne trouve pas encore les mots. À ma consultation, je rencontre des enfants de deux ans, de quatre ans, de sept ans, de dix ans, et chacun porte sa colère comme on porte un vêtement trop grand ou trop serré. Elle ne dit jamais la même chose. Elle ne vient jamais du même endroit. Elle ne demande jamais la même réponse.

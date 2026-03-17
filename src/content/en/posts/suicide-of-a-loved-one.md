@@ -8,10 +8,6 @@ authors:
 categories:
   - Suicide
   - Adults
-tags:
-  - Suicide
-  - Adults
-  - ""
 draft: false
 ---
 

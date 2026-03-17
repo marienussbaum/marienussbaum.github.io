@@ -9,8 +9,6 @@ authors:
   - Marie Nussbaum
 categories:
   - Psychologie & Société
-tags:
-  - Psychologie & Société
 draft: false
 ---
 Il y a quelque chose d’inquiétant et de profondément humain dans notre fascination pour les tueurs en série. Nous les observons à travers des documentaires, des séries, des podcasts, comme si nous cherchions à comprendre ce qui, en eux, a basculé. Comme si, en approchant l’extrême, nous tentions de mieux saisir nos propres zones d’ombre. Ce n’est pas la violence brute qui nous attire, mais l’énigme. L’énigme d’un sujet qui franchit une limite que nous ne franchirons jamais, mais qui nous interroge malgré nous.

@@ -7,8 +7,6 @@ authors:
   - Marie Nussbaum
 categories:
   - Couple
-tags:
-  - Couple
 draft: false
 ---
 

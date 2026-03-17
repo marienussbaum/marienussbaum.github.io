@@ -9,9 +9,6 @@ authors:
 categories:
   - Couple
   - Amour
-tags:
-  - Couple
-  - Amour
 draft: false
 image: ""
 ---

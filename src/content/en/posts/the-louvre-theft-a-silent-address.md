@@ -7,8 +7,6 @@ authors:
   - Marie Nussbaum
 categories:
   - "Psychology & Society  "
-tags:
-  - "Psychology & Society  "
 draft: false
 ---
 Sometimes an external event, almost unreal, sheds light on our most intimate questions. This autumn, the announcement of a jewel theft at the Louvre rippled through the public space like a bright wave: the French crown, its stones, its brilliance, gone like a bird we believed too heavy to fly. People were moved, amused, incredulous. It was as if a star had been removed from the sky: everyone thought it immutable, and suddenly it was no longer there. Such events remind us that theft is never a simple act. It touches value, lack, debt, filiation — the very fabric of what constitutes us. It speaks of the one who takes, but also of the one from whom something is taken.

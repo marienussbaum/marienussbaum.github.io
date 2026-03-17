@@ -8,9 +8,6 @@ authors:
 categories:
   - Children
   - Parents
-tags:
-  - Children
-  - Parents
 draft: false
 ---
 A child’s anger is never just an overflow. It is a language. A call. A sometimes clumsy, sometimes desperate attempt to express something that has not yet found its words. In my consultation, I meet children of two, four, seven, ten years old, and each carries their anger like a garment that is either too big or too tight. It never says the same thing. It never comes from the same place. It never asks for the same response.

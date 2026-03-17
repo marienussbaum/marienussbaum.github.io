@@ -9,10 +9,6 @@ authors:
 categories:
   - Burn-out
   - Maladies
-tags:
-  - Burn-out
-  - Maladies
-  - ""
 draft: false
 image: ""
 ---

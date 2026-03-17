@@ -9,10 +9,6 @@ categories:
   - Parents
   - Children
   - Babies
-tags:
-  - Children
-  - Parents
-  - Babies
 draft: false
 ---
 

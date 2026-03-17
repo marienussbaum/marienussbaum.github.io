@@ -9,9 +9,6 @@ authors:
 categories:
   - Psychologie & Société
   - Hypersensibilité
-tags:
-  - Psychologie & Société
-  - Hypersensibilité
 draft: false
 image: ""
 ---

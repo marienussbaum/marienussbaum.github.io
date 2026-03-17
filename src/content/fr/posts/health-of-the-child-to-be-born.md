@@ -11,11 +11,6 @@ categories:
   - Enfants
   - Parents
   - Maladies
-tags:
-  - Bébés
-  - Enfants
-  - Parents
-  - Maladies
 draft: false
 image: ""
 ---

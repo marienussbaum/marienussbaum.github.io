@@ -9,8 +9,6 @@ authors:
   - Marie Nussbaum
 categories:
   - Elderly
-tags:
-  - Elderly
 draft: false
 ---
 Growing old together is not a simple continuation of what came before. In some couples who have shared a lifetime side by side, something begins to shift almost imperceptibly. The years have settled like thin layers of sediment, the children have grown, grandchildren bring their joyful turbulence, and retirement has become a familiar landscape. One might imagine that everything is stable, that the bond has crystallized into a quiet certainty. Yet around seventy for her, a little later for him, a subtle disturbance sometimes appears, like a change in the internal weather.

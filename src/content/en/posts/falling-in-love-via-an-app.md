@@ -7,8 +7,6 @@ authors:
   - Marie Nussbaum
 categories:
   - Love
-tags:
-  - Love
 draft: false
 ---
 

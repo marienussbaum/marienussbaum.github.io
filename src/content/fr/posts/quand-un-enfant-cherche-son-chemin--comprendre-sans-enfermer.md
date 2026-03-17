@@ -8,9 +8,6 @@ authors:
 categories:
   - Enfants
   - Maladies
-tags:
-  - Enfants
-  - Maladies
 draft: false
 ---
 À ma consultation, il arrive que des parents arrivent avec un mot déjà posé sur leur enfant : autisme, TDAH, « trouble du comportement ». Parfois soufflé par l’école, parfois par un professionnel pressé, parfois par une inquiétude qui a pris trop de place. Ils arrivent avec ce mot comme on arrive avec une explication qui rassure autant qu’elle inquiète. Ils cherchent à comprendre ce qui, chez leur enfant de cinq ou sept ans, résiste, déborde, s’oppose, se retire ou s’agite.

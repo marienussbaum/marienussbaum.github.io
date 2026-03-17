@@ -7,8 +7,6 @@ authors:
   - Marie Nussbaum
 categories:
   - Burn-out
-tags:
-  - Burn-out
 draft: false
 ---
 

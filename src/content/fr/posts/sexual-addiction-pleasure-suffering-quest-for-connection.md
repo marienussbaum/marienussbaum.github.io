@@ -10,9 +10,6 @@ authors:
 categories:
   - Adultes
   - Intimité & relations
-tags:
-  - Adultes
-  - Intimité & relations
 draft: false
 image: ""
 ---

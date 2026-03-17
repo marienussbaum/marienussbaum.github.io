@@ -11,10 +11,6 @@ categories:
   - Parents
   - Enfants
   - Adoption
-tags:
-  - Parents
-  - Enfants
-  - Adoption
 draft: false
 image: ""
 ---

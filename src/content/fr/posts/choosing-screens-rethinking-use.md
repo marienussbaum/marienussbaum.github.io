@@ -9,10 +9,6 @@ categories:
   - Psychologie & Société
   - Enfants
   - Adolescents
-tags:
-  - Psychologyie & Société
-  - Enfants
-  - Adolescents
 draft: false
 ---
 

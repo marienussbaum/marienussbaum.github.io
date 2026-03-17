@@ -10,9 +10,6 @@ authors:
 categories:
   - Psychologie & Société
   - Adultes
-tags:
-  - Psychologie & Société
-  - Adultes
 draft: false
 ---
 Il est parfois utile de déplacer le regard vers les gestes les plus ordinaires pour mieux comprendre les dynamiques invisibles qui nous traversent. Observer les différences de comportements entre soi et les autres — et les tensions internes que cela suscite — peut devenir une opportunité d’apprentissage et d’introspection. Ce que nous percevons comme une gêne ou une provocation, comme un simple pet, peut en réalité être le reflet de notre propre histoire, de notre état intérieur, et de celui d’autrui. Explorer cette interaction, même dans sa trivialité, permet de mieux se situer dans le lien à l’autre, et d’ouvrir une voie vers une clinique du quotidien, où le corps parle autant que les mots.

@@ -7,8 +7,6 @@ authors:
   - Marie Nussbaum
 categories:
   - AI
-tags:
-  - AI
 draft: false
 ---
 

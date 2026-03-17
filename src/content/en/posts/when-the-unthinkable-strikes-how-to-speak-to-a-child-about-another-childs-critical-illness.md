@@ -11,10 +11,6 @@ categories:
   - Parents
   - Children
   - Illness
-tags:
-  - Parents
-  - Children
-  - Illness
 draft: false
 ---
 One morning, a friend called me, his voice trembling. He had just learned that the child of close friends — a three‑year‑old with whom his own daughters had played only days earlier — had been placed in an induced coma. A sudden illness, first mistaken for a simple infection, had turned into a life‑threatening emergency. The child could no longer breathe on his own. Doctors were trying to keep him alive. The outcome remained uncertain.

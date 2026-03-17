@@ -10,9 +10,6 @@ authors:
 categories:
   - "Psychology & Society  "
   - Adults
-tags:
-  - "Psychology & Society  "
-  - Adults
 draft: false
 ---
 Sometimes it’s helpful to shift our gaze toward the most ordinary gestures to better understand the invisible dynamics that shape us. Observing behavioral differences between ourselves and others—and the internal tension this can provoke—can become an opportunity for learning and introspection. What we perceive as discomfort or provocation, such as a simple fart, may in fact reflect our personal history, our inner state, and that of others. Exploring this interaction, even in its triviality, helps us better situate ourselves in relation to others and opens the door to a form of everyday clinical practice, where the body speaks as much as words do.

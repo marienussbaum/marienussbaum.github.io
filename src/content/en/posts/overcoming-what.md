@@ -8,10 +8,6 @@ categories:
   - "Psychology & Society  "
   - Healing
   - Illness
-tags:
-  - "Psychology & Society  "
-  - Healing
-  - Illness
 draft: false
 ---
 

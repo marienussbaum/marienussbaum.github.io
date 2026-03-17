@@ -8,9 +8,6 @@ authors:
 categories:
   - Psychologie & Société
   - Adultes
-tags:
-  - Psychologie & Société
-  - Adultes
 draft: false
 ---
 Il y a quelque chose de profondément humain dans notre fascination pour les polars, les séries criminelles, les récits d’enquêtes qui s’aventurent dans les zones les plus obscures de l’âme. Nous les regardons tard le soir, parfois pour nous distraire, parfois pour nous rassurer, parfois sans savoir ce que nous cherchons vraiment. Comme si, en observant l’impensable chez l’autre, nous tentions d’apprivoiser ce qui, en nous, demeure opaque.

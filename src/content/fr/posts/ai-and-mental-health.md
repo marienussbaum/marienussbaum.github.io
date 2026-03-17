@@ -9,9 +9,6 @@ authors:
 categories:
   - IA
   - Psychologie & Société
-tags:
-  - IA
-  - Psychologie & Société
 draft: false
 image: ""
 ---

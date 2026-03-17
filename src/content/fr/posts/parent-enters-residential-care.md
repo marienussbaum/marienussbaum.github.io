@@ -10,10 +10,6 @@ categories:
   - Psychologie & Société
   - Adultes
   - Vieillesse
-tags:
-  - Psychologie & Société
-  - Adultes
-  - Vieillesse
 draft: false
 image: ""
 ---

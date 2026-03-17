@@ -8,8 +8,6 @@ authors:
   - Marie Nussbaum
 categories:
   - Parents
-tags:
-  - Parents
 draft: false
 image: ""
 ---

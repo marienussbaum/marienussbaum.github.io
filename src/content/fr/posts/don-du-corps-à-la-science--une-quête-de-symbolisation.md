@@ -9,10 +9,6 @@ categories:
   - Deuil
   - Adultes
   - Science
-tags:
-  - Deuil
-  - Adultes
-  - Science
 draft: false
 ---
 Il existe des deuils qui s’ouvrent dans un silence particulier. Des deuils où le corps du défunt disparaît pendant des mois, parfois des années, parce qu’il a été donné à la science. Des deuils où les proches restent dans une attente étrange, suspendus entre la gratitude pour le geste accompli et la douleur d’être privés de ce qui, depuis toujours, aide les humains à dire adieu : un corps, un lieu, un rituel, un nom gravé quelque part.

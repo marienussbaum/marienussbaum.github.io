@@ -11,10 +11,6 @@ categories:
   - Parents
   - Enfants
   - Maladies
-tags:
-  - Parents
-  - Enfants
-  - Maladies
 draft: false
 ---
 Un matin, un ami m’a appelée, la voix tremblante. Il venait d’apprendre que l’enfant de proches — un petit de trois ans, avec qui ses propres filles avaient joué quelques jours auparavant — était plongé dans un coma artificiel. Une maladie fulgurante, d’abord prise pour une infection banale, avait basculé en un péril vital. L’enfant ne respirait plus seul. Les médecins tentaient de le maintenir en vie. L’issue restait incertaine.

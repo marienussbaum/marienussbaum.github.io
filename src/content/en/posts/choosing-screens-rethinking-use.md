@@ -7,8 +7,6 @@ authors:
   - Marie Nussbaum
 categories:
   - Children
-tags:
-  - Children
 draft: false
 ---
 

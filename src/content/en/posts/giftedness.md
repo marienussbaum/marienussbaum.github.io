@@ -7,8 +7,6 @@ authors:
   - Marie Nussbaum
 categories:
   - IQ Tests
-tags:
-  - IQ Tests
 draft: false
 ---
 

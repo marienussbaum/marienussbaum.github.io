@@ -12,12 +12,6 @@ categories:
   - Adultes
   - Maladies
   - TCA
-tags:
-  - Enfants
-  - Adolescents
-  - Adultes
-  - Maladies
-  - TCA
 draft: false
 image: ""
 ---

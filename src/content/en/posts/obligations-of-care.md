@@ -8,9 +8,6 @@ authors:
 categories:
   - "Psychology & Society  "
   - Healing
-tags:
-  - "Psychology & Society  "
-  - Healing
 draft: false
 ---
 

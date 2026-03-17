@@ -8,9 +8,6 @@ authors:
 categories:
   - Parents
   - Children
-tags:
-  - Parents
-  - Children
 draft: false
 ---
 

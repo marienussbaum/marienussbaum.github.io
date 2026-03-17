@@ -10,10 +10,6 @@ categories:
   - Psychologie & Société
   - Prison
   - Adultes
-tags:
-  - Psychologie & Société
-  - Prison
-  - Adultes
 draft: false
 image: ""
 ---

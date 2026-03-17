@@ -10,9 +10,6 @@ authors:
 categories:
   - Couple
   - Adultes
-tags:
-  - Couple
-  - Adultes
 draft: false
 image: ""
 ---

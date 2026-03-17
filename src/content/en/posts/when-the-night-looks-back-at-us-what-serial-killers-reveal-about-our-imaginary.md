@@ -9,8 +9,6 @@ authors:
   - Marie Nussbaum
 categories:
   - "Psychology & Society  "
-tags:
-  - "Psychology & Society  "
 draft: false
 ---
 There is something unsettling and profoundly human in our fascination with serial killers. We observe them through documentaries, series, and podcasts, as if trying to understand what, in them, has tipped over. As if, by approaching the extreme, we were attempting to grasp our own shadows more clearly. It is not raw violence that draws us in, but the enigma. The enigma of a subject who crosses a boundary we will never cross, yet whose transgression questions us despite ourselves.

@@ -7,8 +7,6 @@ authors:
   - Marie Nussbaum
 categories:
   - "Psychology & Society  "
-tags:
-  - "Psychology & Society  "
 draft: false
 ---
 

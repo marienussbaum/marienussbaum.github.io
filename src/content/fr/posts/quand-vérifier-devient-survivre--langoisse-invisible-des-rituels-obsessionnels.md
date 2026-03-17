@@ -10,9 +10,6 @@ authors:
 categories:
   - Adultes
   - Maladies
-tags:
-  - Adultes
-  - Maladies
 draft: false
 ---
 Il arrive que des patients se présentent en consultation dans un état d’épuisement profond, pris dans des rituels qui les dépassent. Ils parlent d’une fatigue qui commence dès le réveil, d’une inquiétude qui s’installe avant même que la journée ne commence. Ils disent : « Je sais que c’est irrationnel, mais je ne peux pas m’en empêcher. » Et derrière cette phrase, il y a souvent des mois, parfois des années de lutte silencieuse.

@@ -8,9 +8,6 @@ authors:
 categories:
   - Psychologie & Société
   - Adultes
-tags:
-  - Psychologie & Société
-  - Adultes
 draft: false
 ---
 Il arrive parfois qu’un événement extérieur, presque irréel, vienne éclairer nos questions les plus intimes. Cet automne, l’annonce du vol de joyaux au Louvre a traversé l’espace public comme une onde brillante : la couronne de France, ses pierres, son éclat, envolés comme un oiseau que l’on croyait trop lourd pour s’échapper. La foule s’en est émue, certains s’en sont amusés, d’autres ont raillé l’audace du geste. C’était un peu comme si l’on avait retiré une étoile du ciel : chacun la croyait immuable, et soudain elle n’y est plus. Ce type d’événement nous rappelle que le vol n’est jamais un acte anodin. Il touche à la valeur, au manque, à la dette, à la filiation — à ce qui nous constitue. Il dit quelque chose de celui qui prend, mais aussi de celui à qui l’on prend.

@@ -10,9 +10,6 @@ authors:
 categories:
   - Psychologie & Société
   - Soins
-tags:
-  - Psychologie & Société
-  - Soins
 draft: false
 image: ""
 ---

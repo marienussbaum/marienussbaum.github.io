@@ -7,8 +7,6 @@ authors:
   - Marie Nussbaum
 categories:
   - Grand âge
-tags:
-  - Grand âge
 draft: false
 ---
 

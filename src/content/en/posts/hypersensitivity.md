@@ -8,10 +8,6 @@ authors:
 categories:
   - Adult
   - Daily Psych
-tags:
-  - Adult
-  - Hypersensitivity
-  - Daily Psych
 draft: false
 ---
 

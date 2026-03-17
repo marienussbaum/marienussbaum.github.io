@@ -7,8 +7,6 @@ authors:
   - Marie Nussbaum
 categories:
   - Therapy
-tags:
-  - Therapy
 draft: false
 ---
 

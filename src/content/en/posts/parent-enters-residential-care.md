@@ -8,9 +8,6 @@ authors:
 categories:
   - Eldery
   - "Psychology & Society  "
-tags:
-  - "Psychology & Society  "
-  - Eldery
 draft: false
 ---
 

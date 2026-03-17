@@ -8,9 +8,6 @@ authors:
 categories:
   - Children
   - Illness
-tags:
-  - Children
-  - Illness
 draft: false
 ---
 In my consultation, parents sometimes arrive with a word already placed upon their child: autism, ADHD, “behavioral disorder.” Sometimes suggested by school, sometimes by a hurried professional, sometimes born from an anxiety that has grown too large. They arrive with this word as one arrives with an explanation that reassures as much as it unsettles. They are trying to understand what, in their five‑ or seven‑year‑old child, resists, overflows, withdraws, opposes, or agitates.

@@ -10,9 +10,6 @@ authors:
 categories:
   - Adults
   - Illness
-tags:
-  - Adults
-  - Illness
 draft: false
 ---
 There are patients who come to therapy in a state of profound exhaustion, caught in rituals that have taken hold of their lives. They speak of a fatigue that begins the moment they wake up, of a worry that settles in before the day has even started. They say, “I know it’s irrational, but I can’t stop.” And behind that sentence lie months, sometimes years, of silent struggle.

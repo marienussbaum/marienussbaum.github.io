@@ -10,9 +10,6 @@ authors:
 categories:
   - Psychologie & Société
   - Maladies
-tags:
-  - Psychologie & Société
-  - Maladies
 draft: false
 image: ""
 ---

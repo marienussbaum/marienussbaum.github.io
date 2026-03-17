@@ -8,9 +8,6 @@ authors:
 categories:
   - Couple
   - Intimacy & Relationships
-tags:
-  - Couple
-  - Intimacy & Relationships
 draft: false
 ---
 
