@@ -8,10 +8,10 @@ authors:
   - Marie Nussbaum
 categories:
   - IA
-  - Psychology & Société
+  - Psychologie & Société
 tags:
   - IA
-  - Psychology & Société
+  - Psychologie & Société
 draft: false
 ---
 
