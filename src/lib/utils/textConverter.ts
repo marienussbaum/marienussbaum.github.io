@@ -3,7 +3,7 @@ import { marked } from "marked";
 
 // slugify
 export const slugify = (content: string) => {
-  return slug(content);
+  return slug(content.trim());
 };
 
 // markdownify
