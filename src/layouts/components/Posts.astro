@@ -34,19 +34,18 @@ const categoryHref = (slug: string) =>
   {
     posts.map((post, i: number) => (
       <div class="col-12">
-        <div class="flex gap-5 items-start">
+        <div class="flex flex-col sm:flex-row gap-3 sm:gap-5 items-start">
           {post.data.image && (
             <a
               href={blogHref(post.id)}
-              class="rounded-lg block hover:text-primary overflow-hidden group shrink-0"
+              class="rounded-lg block hover:text-primary overflow-hidden group shrink-0 w-full sm:w-auto"
             >
               <Image
-                class="group-hover:scale-[1.03] transition duration-300 object-cover"
+                class="group-hover:scale-[1.03] transition duration-300 object-cover w-full h-40 sm:w-[160px] sm:h-[120px]"
                 src={withBase(post.data.image)}
                 alt={post.data.title}
                 width={160}
                 height={120}
-                style="width: 160px; height: 120px;"
               />
             </a>
           )}
