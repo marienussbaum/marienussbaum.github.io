@@ -6,8 +6,10 @@ authors:
   - Marie Nussbaum
 categories:
   - Trauma
+  - "Psychology & Society  "
 tags:
   - Trauma
+  - "Psychology & Society  "
 draft: false
 ---
 
