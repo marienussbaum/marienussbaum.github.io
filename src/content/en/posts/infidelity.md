@@ -1,10 +1,15 @@
 ---
 title: "Infidelity"
-date: 2025-03-01T00:00:00Z
+date: 2025-03-01T00:00:00.000Z
 description: "Decoding the crisis for growth and healing"
-authors: ["Marie Nussbaum"]
-categories: ["Psychology"]
-tags: ["psychology"]
+authors:
+  - Marie Nussbaum
+categories:
+  - Couple
+  - Sexuality
+tags:
+  - Couple
+  - Sexuality
 draft: false
 ---
 
