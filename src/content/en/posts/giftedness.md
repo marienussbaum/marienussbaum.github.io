@@ -1,10 +1,13 @@
 ---
 title: "Beyond IQ Test Results"
-date: 2024-11-01T00:00:00Z
+date: 2024-11-01T00:00:00.000Z
 description: "Understanding and supporting gifted individuals"
-authors: ["Marie Nussbaum"]
-categories: ["Psychology"]
-tags: ["psychology"]
+authors:
+  - Marie Nussbaum
+categories:
+  - IQ Tests
+tags:
+  - IQ Tests
 draft: false
 ---
 
