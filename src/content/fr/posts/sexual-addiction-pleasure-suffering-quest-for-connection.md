@@ -1,10 +1,18 @@
 ---
 title: "Addiction sexuelle : entre jouissance, souffrance et quête de lien"
-description: "Une exploration psychanalytique des mécanismes de l'addiction sexuelle, examinant comment la jouissance peut devenir symptôme lorsqu'elle s'impose comme unique voie de régulation psychique, accompagnée de souffrance et d'isolement."
-date: 2025-10-01T00:00:00Z
-authors: ["Marie Nussbaum"]
-categories: ["Psychologie"]
-tags: ["psychologie"]
+description: "Une exploration psychanalytique des mécanismes de l'addiction
+  sexuelle, examinant comment la jouissance peut devenir symptôme lorsqu'elle
+  s'impose comme unique voie de régulation psychique, accompagnée de souffrance
+  et d'isolement."
+date: 2025-10-01T00:00:00.000Z
+authors:
+  - Marie Nussbaum
+categories:
+  - Adultes
+  - Intimité & relations
+tags:
+  - Adultes
+  - Intimité & relations
 draft: false
 ---
 
