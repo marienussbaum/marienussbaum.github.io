@@ -2,7 +2,7 @@
 title: "When Darkness Draws Us In: What Crime Stories Reveal About Us"
 date: ""
 description: ""
-image: ""
+image: "/images/polar.jpg"
 authors:
   - Marie Nussbaum
 categories:
