@@ -1,10 +1,15 @@
 ---
 title: "Douance et Tests de QI"
-description: "Article explorant l'accompagnement psychologique de la douance au-delà des simples résultats de tests de QI, mettant l'accent sur une compréhension globale et contextuelle du fonctionnement intellectuel."
-date: 2024-11-01T00:00:00Z
-authors: ["Marie Nussbaum"]
-categories: ["Psychologie"]
-tags: ["psychologie"]
+description: "Article explorant l'accompagnement psychologique de la douance
+  au-delà des simples résultats de tests de QI, mettant l'accent sur une
+  compréhension globale et contextuelle du fonctionnement intellectuel."
+date: 2024-11-01T00:00:00.000Z
+authors:
+  - Marie Nussbaum
+categories:
+  - Tests IQ
+tags:
+  - Tests IQ
 draft: false
 ---
 
