@@ -1,10 +1,18 @@
 ---
 title: "Vaincre quoi ?"
-description: "Une réflexion critique sur le langage guerrier utilisé pour décrire la maladie et les émotions, questionnant si cette rhétorique binaire ne risque pas d'enfermer les patients dans un récit d'échec personnel, et proposant une approche alternative basée sur la coexistence et le sens."
-date: 2024-06-01T00:00:00Z
-authors: ["Marie Nussbaum"]
-categories: ["Psychologie"]
-tags: ["psychologie"]
+description: "Une réflexion critique sur le langage guerrier utilisé pour
+  décrire la maladie et les émotions, questionnant si cette rhétorique binaire
+  ne risque pas d'enfermer les patients dans un récit d'échec personnel, et
+  proposant une approche alternative basée sur la coexistence et le sens."
+date: 2024-06-01T00:00:00.000Z
+authors:
+  - Marie Nussbaum
+categories:
+  - Psychologie & Société
+  - Maladies
+tags:
+  - Psychologie & Société
+  - Maladies
 draft: false
 ---
 
