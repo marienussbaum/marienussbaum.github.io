@@ -1,7 +1,7 @@
 ---
 title: "Quand la nuit nous regarde : ce que les tueurs en série révèlent de
   notre imaginaire"
-date: ""
+date: 2025-10-07T16:22:00.000Z
 description: "Quand la nuit nous regarde : ce que les tueurs en série révèlent
   de notre imaginaire"
 image: "/images/Tueur en série.jpg"
