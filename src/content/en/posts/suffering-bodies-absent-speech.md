@@ -9,11 +9,13 @@ categories:
   - Teenagers
   - Children
   - Adults
+  - Illness
 tags:
   - Eating disorders
   - Teenagers
   - Children
   - Adults
+  - Illness
 draft: false
 ---
 
