@@ -6,10 +6,10 @@ authors:
   - Marie Nussbaum
 categories:
   - Couple
-  - Sexuality
+  - Intimacy & Relationships
 tags:
   - Couple
-  - Sexuality
+  - Intimacy & Relationships
 draft: false
 ---
 
