@@ -20,8 +20,11 @@ const isFrench = locale === "fr";
 const pathnameWithoutLocale =
   pathnameWithoutBase.replace(/^\/(en|fr)(?=\/|$)/, "") || "/";
 
-const enUrl = getRelativeLocaleUrl("en", pathnameWithoutLocale);
-const frUrl = getRelativeLocaleUrl("fr", pathnameWithoutLocale);
+const isCategory = pathnameWithoutLocale.startsWith("/categories/");
+const altLocaleTarget = isCategory ? "/blog/" : pathnameWithoutLocale;
+
+const enUrl = getRelativeLocaleUrl("en", altLocaleTarget);
+const frUrl = getRelativeLocaleUrl("fr", altLocaleTarget);
 
 const localizeUrl = (url: string) => getRelativeLocaleUrl(locale, url);
 
