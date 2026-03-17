@@ -1,10 +1,13 @@
 ---
 title: "Fostered Kinship and Parenthood"
-date: 2025-04-01T00:00:00Z
+date: 2025-04-01T00:00:00.000Z
 description: "A psychic journey through the bond"
-authors: ["Marie Nussbaum"]
-categories: ["Psychology"]
-tags: ["psychology"]
+authors:
+  - Marie Nussbaum
+categories:
+  - Parents
+tags:
+  - Parents
 draft: false
 ---
 
