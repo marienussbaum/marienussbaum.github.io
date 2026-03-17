@@ -1,10 +1,17 @@
 ---
 title: "Separation and Coparental Reconstruction"
-date: 2025-05-01T00:00:00Z
+date: 2025-05-01T00:00:00.000Z
 description: "A psychoanalytic perspective"
-authors: ["Marie Nussbaum"]
-categories: ["Psychology"]
-tags: ["psychology"]
+authors:
+  - Marie Nussbaum
+categories:
+  - Parents
+  - Children
+  - Separation
+tags:
+  - Parents
+  - Children
+  - Seperation
 draft: false
 ---
 
