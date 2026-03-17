@@ -51,13 +51,6 @@
       "defaultValue": ""
     },
     {
-      "name": "tags",
-      "label": "Tags",
-      "type": "Array",
-      "value": [],
-      "defaultValue": ""
-    },
-    {
       "name": "draft",
       "label": "Brouillon",
       "type": "boolean",
