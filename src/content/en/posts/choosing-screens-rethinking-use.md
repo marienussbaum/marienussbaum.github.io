@@ -1,10 +1,13 @@
 ---
 title: "Choosing Screens, Rethinking Use"
-date: 2025-09-01T00:00:00Z
+date: 2025-09-01T00:00:00.000Z
 description: "Restoring subjective time and creative alternatives"
-authors: ["Marie Nussbaum"]
-categories: ["Psychology"]
-tags: ["psychology"]
+authors:
+  - Marie Nussbaum
+categories:
+  - Children
+tags:
+  - Children
 draft: false
 ---
 
