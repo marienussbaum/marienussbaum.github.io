@@ -1,10 +1,23 @@
 ---
 title: "Corps en souffrance, parole absente"
-description: "Une lecture psychanalytique des troubles alimentaires (anorexie, boulimie, hyperphagie) explorant comment le corps devient langage lorsque la parole fait défaut."
-date: 2025-04-01T00:00:00Z
-authors: ["Marie Nussbaum"]
-categories: ["Psychologie"]
-tags: ["psychologie"]
+description: "Une lecture psychanalytique des troubles alimentaires (anorexie,
+  boulimie, hyperphagie) explorant comment le corps devient langage lorsque la
+  parole fait défaut."
+date: 2025-04-01T00:00:00.000Z
+authors:
+  - Marie Nussbaum
+categories:
+  - Enfants
+  - Adolescents
+  - Adultes
+  - Maladies
+  - TCA
+tags:
+  - Enfants
+  - Adolescents
+  - Adultes
+  - Maladies
+  - TCA
 draft: false
 ---
 
