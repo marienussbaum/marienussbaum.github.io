@@ -1,19 +1,12 @@
 {
-  "file": "src/content/en/posts/burnout-a-clinical-reading.md",
-  "name": "en-posts",
+  "file": "src/content/fr/posts/burnout-a-clinical-reading.md",
+  "name": "posts",
   "fileType": "md",
   "fmType": "yaml",
   "template": [
     {
       "name": "title",
-      "label": "Title",
-      "type": "string",
-      "value": "",
-      "defaultValue": ""
-    },
-    {
-      "name": "description",
-      "label": "Description",
+      "label": "Titre",
       "type": "string",
       "value": "",
       "defaultValue": ""
@@ -21,7 +14,15 @@
     {
       "name": "date",
       "label": "Date",
-      "type": "date",
+      "type": "Date",
+      "value": "",
+      "defaultValue": "",
+      "alwaysUseCurrentDate": true
+    },
+    {
+      "name": "description",
+      "label": "Description",
+      "type": "string",
       "value": "",
       "defaultValue": ""
     },
@@ -33,29 +34,29 @@
       "defaultValue": ""
     },
     {
-      "name": "categories",
-      "label": "Categories",
-      "type": "list",
-      "value": [],
-      "defaultValue": []
-    },
-    {
       "name": "authors",
-      "label": "Authors",
-      "type": "list",
+      "label": "Auteurs",
+      "type": "Array",
       "value": ["Marie Nussbaum"],
       "defaultValue": ["Marie Nussbaum"]
     },
     {
+      "name": "categories",
+      "label": "Catégories",
+      "type": "Array",
+      "value": [],
+      "defaultValue": ""
+    },
+    {
       "name": "tags",
       "label": "Tags",
-      "type": "list",
+      "type": "Array",
       "value": [],
-      "defaultValue": []
+      "defaultValue": ""
     },
     {
       "name": "draft",
-      "label": "Draft",
+      "label": "Brouillon",
       "type": "boolean",
       "value": false,
       "defaultValue": false

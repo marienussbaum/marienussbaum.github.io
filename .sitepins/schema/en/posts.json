@@ -17,7 +17,7 @@
       "type": "Date",
       "value": "",
       "defaultValue": "",
-      "alwaysUseCurrentDate": false
+      "alwaysUseCurrentDate": true
     },
     {
       "name": "description",
@@ -27,11 +27,18 @@
       "defaultValue": ""
     },
     {
+      "name": "image",
+      "label": "Image",
+      "type": "image",
+      "value": "",
+      "defaultValue": ""
+    },
+    {
       "name": "authors",
       "label": "Authors",
       "type": "Array",
-      "value": [],
-      "defaultValue": ""
+      "value": ["Marie Nussbaum"],
+      "defaultValue": ["Marie Nussbaum"]
     },
     {
       "name": "categories",
