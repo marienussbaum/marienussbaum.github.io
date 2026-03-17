@@ -1,10 +1,15 @@
 ---
 title: "Parent in Residential Care Facility"
-date: 2025-03-01T00:00:00Z
+date: 2025-03-01T00:00:00.000Z
 description: "Navigating guilt, grief, and family dynamics"
-authors: ["Marie Nussbaum"]
-categories: ["Psychology"]
-tags: ["psychology"]
+authors:
+  - Marie Nussbaum
+categories:
+  - Eldery
+  - "Psychology & Society  "
+tags:
+  - "Psychology & Society  "
+  - Eldery
 draft: false
 ---
 
