@@ -1,10 +1,18 @@
 ---
 title: "Tomber amoureux via une app"
-description: "Notes sur l'intervention de Marie Nussbaum au Colloque du GHU de Saint-Anne (Mai 2024) examinant les différences entre les rencontres amoureuses virtuelles et physiques, les étapes du processus et les dynamiques émotionnelles impliquées."
-date: 2024-05-01T00:00:00Z
-authors: ["Marie Nussbaum"]
-categories: ["Psychologie"]
-tags: ["psychologie"]
+description: "Notes sur l'intervention de Marie Nussbaum au Colloque du GHU de
+  Saint-Anne (Mai 2024) examinant les différences entre les rencontres
+  amoureuses virtuelles et physiques, les étapes du processus et les dynamiques
+  émotionnelles impliquées."
+date: 2024-05-01T00:00:00.000Z
+authors:
+  - Marie Nussbaum
+categories:
+  - Amour
+  - Couple
+tags:
+  - Amour
+  - Couple
 draft: false
 ---
 
