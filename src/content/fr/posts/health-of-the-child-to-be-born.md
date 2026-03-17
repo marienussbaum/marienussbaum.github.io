@@ -1,10 +1,21 @@
 ---
 title: "Santé de l'enfant à venir"
-description: "Exploration de l'impact de la santé mentale parentale sur le développement du fœtus et l'enfant à naître, incluant les concepts de transparence psychique, stress prénatal et empreinte génomique."
-date: 2024-09-01T00:00:00Z
-authors: ["Marie Nussbaum"]
-categories: ["Psychologie"]
-tags: ["psychologie"]
+description: "Exploration de l'impact de la santé mentale parentale sur le
+  développement du fœtus et l'enfant à naître, incluant les concepts de
+  transparence psychique, stress prénatal et empreinte génomique."
+date: 2024-09-01T00:00:00.000Z
+authors:
+  - Marie Nussbaum
+categories:
+  - Bébés
+  - Enfants
+  - Parents
+  - Maladies
+tags:
+  - Bébés
+  - Enfants
+  - Parents
+  - Maladies
 draft: false
 ---
 
