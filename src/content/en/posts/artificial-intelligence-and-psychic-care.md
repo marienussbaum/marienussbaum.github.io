@@ -7,7 +7,7 @@ authors:
 categories:
   - AI
 tags:
-  - psychology
+  - AI
 draft: false
 ---
 
