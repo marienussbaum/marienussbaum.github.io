@@ -66,6 +66,12 @@ const authorsCollection = defineCollection({
   }),
 });
 
+// Helper: coerce empty string / non-array to []
+const arrayField = z.preprocess(
+  (val) => (Array.isArray(val) ? val : []),
+  z.array(z.string()),
+);
+
 // Posts collection schema
 const postsCollection = defineCollection({
   loader: glob({ pattern: "**/*.{md,mdx}", base: "src/content/en/posts" }),
@@ -75,9 +81,9 @@ const postsCollection = defineCollection({
     description: z.string().optional(),
     date: z.preprocess((val) => (val === "" ? undefined : val), z.coerce.date().optional()),
     image: z.string().optional(),
-    categories: z.array(z.string()).default(() => ["others"]),
-    authors: z.array(z.string()).default(() => ["Admin"]),
-    tags: z.array(z.string()).default(() => ["others"]),
+    categories: arrayField,
+    authors: arrayField,
+    tags: arrayField,
     draft: z.boolean().optional(),
   }),
 });
