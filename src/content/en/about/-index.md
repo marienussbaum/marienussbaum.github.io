@@ -40,7 +40,6 @@ what_i_do:
         Together, we try to understand what is being replayed, give meaning to
         what you are experiencing, and gradually open up other ways of relating
         to yourself and to others.
-      further_reading: Adult consultations – individual psychotherapy
     - title: Psychoanalytic Psychotherapy
       subtitle: Deep self-understanding through analytic work
       image: /images/image psychanalyse.jpg
@@ -49,7 +48,6 @@ what_i_do:
         really knowing why: relationship breakdowns, the feeling of “always
         ending up in the same place”, difficulties in connecting, or a deep
         sense of emptiness."
-      further_reading: psychoanalytic-psychotherapy
     - title: Support for adolescents
       subtitle: Support for relational difficulties
       image: /images/consultation ado3.jpg
@@ -64,7 +62,6 @@ what_i_do:
         themselves freely, be heard without being judged, and start to put words
         to what they are going through. When relevant, I also meet with parents
         to think together about how best to support their child.
-      further_reading: Support for adolescents
     - title: Children and family follow-up
       subtitle: Attachement and Development
       image: /images/consultation enfants fauteuil 2.jpg
@@ -80,6 +77,5 @@ what_i_do:
         possible to understand the child in their history and environment, and
         to support the adults in the questions, doubts and worries that these
         situations can generate.
-      further_reading: Children and family follow-up
 ---
 I am deeply committed to the clinical encounter and work with patients and families from diverse cultural backgrounds (Asia, Europe, the Americas, Africa). My interest in research and contemporary therapeutic approaches leads me to participate regularly in both individual and group supervision, allowing me to continually enrich and refine my practice.

@@ -21,7 +21,8 @@ const pathnameWithoutLocale =
   pathnameWithoutBase.replace(/^\/(en|fr)(?=\/|$)/, "") || "/";
 
 const isCategory = pathnameWithoutLocale.startsWith("/categories/");
-const altLocaleTarget = isCategory ? "/blog/" : pathnameWithoutLocale;
+const isBlogPost = /^\/blog\/[^/]+\/?$/.test(pathnameWithoutLocale);
+const altLocaleTarget = isCategory || isBlogPost ? "/blog/" : pathnameWithoutLocale;
 
 const enUrl = getRelativeLocaleUrl("en", altLocaleTarget);
 const frUrl = getRelativeLocaleUrl("fr", altLocaleTarget);

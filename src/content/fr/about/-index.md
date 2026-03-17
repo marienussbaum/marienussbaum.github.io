@@ -40,7 +40,6 @@ what_i_do:
         Ensemble, nous cherchons à comprendre ce qui se rejoue, à donner du sens
         à ce que vous vivez, et à ouvrir progressivement d'autres façons d'être
         en relation avec vous-même et avec les autres.
-      further_reading: psychodynamic-psychotherapy
     - title: Psychothérapie psychanalytique
       subtitle: Une compréhension profonde de soi par le travail analytique
       image: /images/image psychanalyse.jpg
@@ -49,7 +48,6 @@ what_i_do:
         vie, sans vraiment savoir pourquoi : ruptures relationnelles, impression
         de « toujours se retrouver au même endroit », difficultés à se connecter
         aux autres, ou sentiment profond de vide intérieur."
-      further_reading: psychoanalytic-psychotherapy
     - title: Accompagnement des adolescents
       subtitle: Soutien face aux difficultés relationnelles
       image: /images/consultation ado3.jpg
@@ -65,7 +63,6 @@ what_i_do:
         librement, être entendu sans être jugé, et commencer à mettre des mots
         sur ce qu'il traverse. Si nécessaire, je rencontre également les parents
         pour réfléchir ensemble à la meilleure façon de soutenir leur enfant.
-      further_reading: Support for adolescents
     - title: Enfants et suivi familial
       subtitle: Attachement et développement
       image: /images/consultation enfants fauteuil 2.jpg
@@ -82,6 +79,5 @@ what_i_do:
         Elles permettent de comprendre l'enfant dans son histoire et son
         environnement, et de soutenir les adultes dans les questions, doutes et
         inquiétudes que ces situations peuvent susciter.
-      further_reading: Children and family follow-up
 ---
 Passionnée par la rencontre clinique, j’accueille des patients et leurs familles d’horizons culturels divers (Asie, Europe, Amérique, Afrique). Mon intérêt pour la recherche et les pratiques contemporaines m’amène à participer régulièrement à des supervisions individuelles et collectives pour enrichir ma pratique.

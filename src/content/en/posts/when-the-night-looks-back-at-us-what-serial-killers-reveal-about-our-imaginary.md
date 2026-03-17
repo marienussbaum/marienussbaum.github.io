@@ -4,7 +4,7 @@ title: "When the Night Looks Back at Us: What Serial Killers Reveal About Our
 date: 2025-10-07T16:19:00.000Z
 description: "When the Night Looks Back at Us: What Serial Killers Reveal About
   Our Imaginary"
-image: "/images/Tueur en série.jpg"
+image: "/images/tueur-en-serie.jpg"
 authors:
   - Marie Nussbaum
 categories:
