@@ -1,10 +1,13 @@
 ---
 title: "Health of the Child to Be Born"
-date: 2024-09-01T00:00:00Z
+date: 2024-09-01T00:00:00.000Z
 description: "Does the mental health of parents affect the health of the child to be born?"
-authors: ["Marie Nussbaum"]
-categories: ["Psychology"]
-tags: ["psychology"]
+authors:
+  - Marie Nussbaum
+categories:
+  - Children
+tags:
+  - Children
 draft: false
 ---
 
