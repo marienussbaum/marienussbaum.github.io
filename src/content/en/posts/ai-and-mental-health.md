@@ -1,10 +1,13 @@
 ---
 title: "Artificial Intelligence in Mental Health"
-date: 2025-03-01T00:00:00Z
+date: 2025-03-01T00:00:00.000Z
 description: "A clinical and philosophical perspective"
-authors: ["Marie Nussbaum"]
-categories: ["Psychology"]
-tags: ["psychology"]
+authors:
+  - Marie Nussbaum
+categories:
+  - "AI "
+tags:
+  - psychology
 draft: false
 ---
 
