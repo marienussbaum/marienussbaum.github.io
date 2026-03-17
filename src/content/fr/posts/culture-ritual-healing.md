@@ -1,10 +1,18 @@
 ---
 title: "Culture, rituel et soin"
-description: "Une exploration transculturelle et psychanalytique montrant comment les rituels collectifs agissent comme dispositifs thérapeutiques face au trauma, à travers des exemples de traditions culturelles diverses et leur fonction de catharsis communautaire."
-date: 2025-09-01T00:00:00Z
-authors: ["Marie Nussbaum"]
-categories: ["Psychologie"]
-tags: ["psychologie"]
+description: "Une exploration transculturelle et psychanalytique montrant
+  comment les rituels collectifs agissent comme dispositifs thérapeutiques face
+  au trauma, à travers des exemples de traditions culturelles diverses et leur
+  fonction de catharsis communautaire."
+date: 2025-09-01T00:00:00.000Z
+authors:
+  - Marie Nussbaum
+categories:
+  - Psychologie & Société
+  - Soins
+tags:
+  - Psychologie & Société
+  - Soins
 draft: false
 ---
 
