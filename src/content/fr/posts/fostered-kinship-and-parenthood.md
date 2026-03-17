@@ -1,10 +1,20 @@
 ---
 title: "Filiation adoptive et parentalité"
-description: "Une exploration psychanalytique de la parentalité chez les adultes adoptés, examinant comment l'expérience adoptive se réactive lors de la transition vers la parentalité à travers les dimensions biologiques, symboliques, psychiques et narratives du lien filial."
-date: 2025-04-01T00:00:00Z
-authors: ["Marie Nussbaum"]
-categories: ["Psychologie"]
-tags: ["psychologie"]
+description: "Une exploration psychanalytique de la parentalité chez les adultes
+  adoptés, examinant comment l'expérience adoptive se réactive lors de la
+  transition vers la parentalité à travers les dimensions biologiques,
+  symboliques, psychiques et narratives du lien filial."
+date: 2025-04-01T00:00:00.000Z
+authors:
+  - Marie Nussbaum
+categories:
+  - Parents
+  - Enfants
+  - Adoption
+tags:
+  - Parents
+  - Enfants
+  - Adoption
 draft: false
 ---
 
