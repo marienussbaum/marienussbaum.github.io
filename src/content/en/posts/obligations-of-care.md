@@ -6,10 +6,8 @@ authors:
   - Marie Nussbaum
 categories:
   - "Psychology & Society  "
-  - Eldery
 tags:
   - "Psychology & Society  "
-  - Eldery
 draft: false
 ---
 
