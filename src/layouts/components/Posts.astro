@@ -77,10 +77,12 @@ const categoryHref = (slug: string) =>
                     </a>
                   ))}
               </li>
-              <li class="mr-5 flex items-center flex-wrap font-medium">
-                <BiCalendarEdit className="mr-1 h-5 w-5 text-gray-600" />
-                {dateFormat(post.data.date!)}
-              </li>
+              {post.data.date && (
+                <li class="mr-5 flex items-center flex-wrap font-medium">
+                  <BiCalendarEdit className="mr-1 h-5 w-5 text-gray-600" />
+                  {dateFormat(post.data.date)}
+                </li>
+              )}
               <li class="mr-5 flex items-center flex-wrap">
                 <BiCategoryAlt className="mr-1 h-[18px] w-[18px] text-gray-600" />
                 <ul>
