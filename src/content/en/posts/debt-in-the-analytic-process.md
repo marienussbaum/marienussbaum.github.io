@@ -1,10 +1,13 @@
 ---
 title: "Debt in the Analytic Process"
-date: 2025-05-01T00:00:00Z
+date: 2025-05-01T00:00:00.000Z
 description: "An intersection of psychic economy, therapeutic framework, and subjectivation"
-authors: ["Marie Nussbaum"]
-categories: ["Psychology"]
-tags: ["psychology"]
+authors:
+  - Marie Nussbaum
+categories:
+  - Therapy
+tags:
+  - Therapy
 draft: false
 ---
 
