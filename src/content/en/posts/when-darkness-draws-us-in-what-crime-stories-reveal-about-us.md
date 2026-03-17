@@ -7,7 +7,9 @@ authors:
   - Marie Nussbaum
 categories:
   - Psychology & Society
-tags: []
+tags:
+  - Psychology & Society
+  - Adults
 draft: false
 ---
 There is something profoundly human in our fascination with crime novels, true‑crime series, and stories that venture into the darkest corners of the mind. We watch them late at night, sometimes to distract ourselves, sometimes to soothe ourselves, sometimes without knowing what we are really seeking. As if, by observing the unthinkable in another, we were trying to tame what remains opaque within us.
