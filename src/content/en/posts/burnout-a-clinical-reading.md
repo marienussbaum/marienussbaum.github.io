@@ -1,10 +1,13 @@
 ---
 title: "Burnout: A Clinical Reading"
-date: 2025-06-01T00:00:00Z
+date: 2025-06-01T00:00:00.000Z
 description: "Between Exhaustion and Subjective Collapse"
-authors: ["Marie Nussbaum"]
-categories: ["Psychology"]
-tags: ["psychology"]
+authors:
+  - Marie Nussbaum
+categories:
+  - Burn-out
+tags:
+  - psychology
 draft: false
 ---
 
