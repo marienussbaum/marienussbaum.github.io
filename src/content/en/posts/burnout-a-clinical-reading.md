@@ -7,7 +7,7 @@ authors:
 categories:
   - Burn-out
 tags:
-  - psychology
+  - Burn-out
 draft: false
 ---
 
