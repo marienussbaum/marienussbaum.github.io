@@ -1,6 +1,6 @@
 ---
 title: "Le vol du Louvre : une adresse silencieuse"
-date: ""
+date: 2025-11-01T14:31:00.000Z
 description: "Le vol du Louvre : une adresse silencieuse"
 image: "/images/louvre2.jpg"
 authors:
