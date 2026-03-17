@@ -10,9 +10,11 @@ authors:
 categories:
   - Psychologie & Société
   - NASA
+  - Confinement
 tags:
   - Psychologie & Société
   - NASA
+  - Confinement
 draft: false
 ---
 
