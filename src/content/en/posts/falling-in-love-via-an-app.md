@@ -1,10 +1,13 @@
 ---
 title: "Falling in Love via an App"
-date: 2024-05-01T00:00:00Z
+date: 2024-05-01T00:00:00.000Z
 description: "Presented at Saint-Anne Colloquium, May 2024"
-authors: ["Marie Nussbaum"]
-categories: ["Psychology"]
-tags: ["psychology"]
+authors:
+  - Marie Nussbaum
+categories:
+  - Love
+tags:
+  - Love
 draft: false
 ---
 
