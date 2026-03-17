@@ -1,10 +1,17 @@
 ---
 title: "L'infidélité"
-description: "Décoder la crise pour évoluer et guérir — Exploration de l'infidélité comme signal relationnel offrant une opportunité de transformation, de réconciliation ou de séparation consciente."
-date: 2025-03-01T00:00:00Z
-authors: ["Marie Nussbaum"]
-categories: ["Psychologie"]
-tags: ["psychologie"]
+description: "Décoder la crise pour évoluer et guérir — Exploration de
+  l'infidélité comme signal relationnel offrant une opportunité de
+  transformation, de réconciliation ou de séparation consciente."
+date: 2025-03-01T00:00:00.000Z
+authors:
+  - Marie Nussbaum
+categories:
+  - Couple
+  - Amour
+tags:
+  - Couple
+  - Amour
 draft: false
 ---
 
