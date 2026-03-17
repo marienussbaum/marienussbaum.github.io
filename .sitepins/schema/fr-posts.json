@@ -1,0 +1,64 @@
+{
+  "file": "src/content/fr/posts/burnout-a-clinical-reading.md",
+  "name": "fr-posts",
+  "fileType": "md",
+  "fmType": "yaml",
+  "template": [
+    {
+      "name": "title",
+      "label": "Titre",
+      "type": "string",
+      "value": "",
+      "defaultValue": ""
+    },
+    {
+      "name": "description",
+      "label": "Description",
+      "type": "string",
+      "value": "",
+      "defaultValue": ""
+    },
+    {
+      "name": "date",
+      "label": "Date",
+      "type": "date",
+      "value": "",
+      "defaultValue": ""
+    },
+    {
+      "name": "image",
+      "label": "Image",
+      "type": "image",
+      "value": "",
+      "defaultValue": ""
+    },
+    {
+      "name": "categories",
+      "label": "Catégories",
+      "type": "list",
+      "value": [],
+      "defaultValue": []
+    },
+    {
+      "name": "authors",
+      "label": "Auteurs",
+      "type": "list",
+      "value": ["Marie Nussbaum"],
+      "defaultValue": ["Marie Nussbaum"]
+    },
+    {
+      "name": "tags",
+      "label": "Tags",
+      "type": "list",
+      "value": [],
+      "defaultValue": []
+    },
+    {
+      "name": "draft",
+      "label": "Brouillon",
+      "type": "boolean",
+      "value": false,
+      "defaultValue": false
+    }
+  ]
+}
