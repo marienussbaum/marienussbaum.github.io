@@ -6,8 +6,12 @@ authors:
   - Marie Nussbaum
 categories:
   - Parents
+  - Children
+  - Education
 tags:
   - Parents
+  - Children
+  - Education
 draft: false
 ---
 
