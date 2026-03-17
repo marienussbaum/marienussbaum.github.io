@@ -5,11 +5,11 @@ date: 2025-09-01T00:00:00.000Z
 authors:
   - Marie Nussbaum
 categories:
-  - Psychology & Société
+  - Psychologie & Société
   - Enfants
   - Adolescents
 tags:
-  - Psychology & Société
+  - Psychologyie & Société
   - Enfants
   - Adolescents
 draft: false
