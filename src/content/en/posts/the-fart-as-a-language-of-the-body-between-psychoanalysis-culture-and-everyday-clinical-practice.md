@@ -1,7 +1,7 @@
 ---
 title: "The Fart as a Language of the Body: Between Psychoanalysis, Culture, and
   Everyday Clinical Practice"
-date: ""
+date: 2026-02-10T17:12:00.000Z
 description: "The Fart as a Language of the Body: Between Psychoanalysis,
   Culture, and Everyday Clinical Practice"
 image: "/images/fart.jpg"
