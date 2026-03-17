@@ -1,10 +1,15 @@
 ---
 title: "The Obligation of Care in France"
-date: 2025-02-01T00:00:00Z
+date: 2025-02-01T00:00:00.000Z
 description: "Between legal constraint and therapeutic transformation"
-authors: ["Marie Nussbaum"]
-categories: ["Psychology"]
-tags: ["psychology"]
+authors:
+  - Marie Nussbaum
+categories:
+  - "Psychology & Society  "
+  - Eldery
+tags:
+  - "Psychology & Society  "
+  - Eldery
 draft: false
 ---
 
