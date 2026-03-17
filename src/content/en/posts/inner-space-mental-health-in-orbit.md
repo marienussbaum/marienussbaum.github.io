@@ -1,10 +1,13 @@
 ---
 title: "Inner Space: Mental Health and Subjectivity in Orbit"
-date: 2025-10-01T00:00:00Z
+date: 2025-10-01T00:00:00.000Z
 description: "When outer space meets inner emptiness"
-authors: ["Marie Nussbaum"]
-categories: ["Psychology"]
-tags: ["psychology"]
+authors:
+  - Marie Nussbaum
+categories:
+  - "Psychology & Society  "
+tags:
+  - "Psychology & Society  "
 draft: false
 ---
 
