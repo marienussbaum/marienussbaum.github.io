@@ -29,8 +29,8 @@
     },
     {
       "name": "image",
-      "label": "Image (path from Media Library, e.g. /images/my-photo.jpg)",
-      "type": "text",
+      "label": "Image",
+      "type": "media",
       "value": "",
       "defaultValue": ""
     },
