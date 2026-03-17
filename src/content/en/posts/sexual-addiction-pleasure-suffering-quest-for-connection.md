@@ -1,10 +1,13 @@
 ---
 title: "Sexual Addiction: Between Pleasure, Suffering, and the Quest for Connection"
-date: 2025-10-01T00:00:00Z
+date: 2025-10-01T00:00:00.000Z
 description: "Examining the modalities of pleasure and relationship to others"
-authors: ["Marie Nussbaum"]
-categories: ["Psychology"]
-tags: ["psychology"]
+authors:
+  - Marie Nussbaum
+categories:
+  - Intimacy & Relationships
+tags:
+  - Intimacy & Relationships
 draft: false
 ---
 
