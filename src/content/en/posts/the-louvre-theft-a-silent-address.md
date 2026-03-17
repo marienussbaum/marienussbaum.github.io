@@ -2,7 +2,7 @@
 title: "The Louvre Theft: A Silent Address"
 date: 2026-03-17T00:00:00.000Z
 description: "The Louvre Theft: A Silent Address"
-image: ""
+image: "/images/Louvre.jpg"
 authors:
   - Marie Nussbaum
 categories:
