@@ -8,11 +8,12 @@ categories:
   - Eating disorders
   - Teenagers
   - Children
-  - ""
+  - Adults
 tags:
   - Eating disorders
   - Teenagers
   - Children
+  - Adults
 draft: false
 ---
 
