@@ -1,6 +1,6 @@
 ---
 title: "When Darkness Draws Us In: What Crime Stories Reveal About Us"
-date: ""
+date: 2026-03-13T14:33:00.000Z
 description: ""
 image: "/images/polar.jpg"
 authors:
