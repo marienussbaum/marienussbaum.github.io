@@ -5,9 +5,9 @@ description: "Collective catharsis in the face of trauma"
 authors:
   - Marie Nussbaum
 categories:
-  - Healing
+  - Rituals
 tags:
-  - Healing
+  - Rituals
 draft: false
 ---
 
