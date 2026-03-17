@@ -16,8 +16,7 @@
       "label": "Date",
       "type": "Date",
       "value": "",
-      "defaultValue": "",
-      "alwaysUseCurrentDate": true
+      "defaultValue": ""
     },
     {
       "name": "description",
@@ -37,8 +36,8 @@
       "name": "authors",
       "label": "Auteurs",
       "type": "Array",
-      "value": ["Marie Nussbaum"],
-      "defaultValue": ["Marie Nussbaum"]
+      "value": [],
+      "defaultValue": ""
     },
     {
       "name": "categories",
