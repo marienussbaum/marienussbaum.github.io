@@ -2,6 +2,7 @@
 title: "Marie Nussbaum"
 subtitle: "Psychologue"
 meta_title: "Marie Nussbaum – Psychologue à Marseille"
+description: "Marie Nussbaum, psychologue clinicienne et psychanalyste à Marseille. Consultations pour adultes, adolescents et enfants à Marseille, Paris et en ligne."
 image: "/images/IMG_9763.PNG"
 draft: false
 

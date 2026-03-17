@@ -1,7 +1,6 @@
 ---
 title: "FAQ"
-meta_title: "FAQ — Marie Nussbaum"
-description: "Frequently asked questions about psychology, psychotherapy and psychoanalysis"
+description: "Answers to frequently asked questions about psychology, psychotherapy and psychoanalysis with Marie Nussbaum, clinical psychologist in Marseille."
 draft: false
 ---
 

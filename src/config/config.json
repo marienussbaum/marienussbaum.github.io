@@ -1,6 +1,6 @@
 {
   "site": {
-    "title": { "en": "Marie — Psychologist", "fr": "Marie — Psychologue" },
+    "title": { "en": "Marie Nussbaum – Psychologist in Marseille", "fr": "Marie Nussbaum – Psychologue à Marseille" },
     "base_url": "https://marienussbaum.com",
     "base_path": "",
     "trailing_slash": "ignore",
@@ -19,7 +19,10 @@
   "metadata": {
     "meta_author": "Marie Nussbaum",
     "meta_image": "/images/marie-nussbaum.jpg",
-    "meta_description": "Marie Nussbaum — Clinical Psychologist & Psychoanalyst"
+    "meta_description": {
+      "en": "Marie Nussbaum, clinical psychologist and psychoanalyst in Marseille. Individual therapy for adults, adolescents and children in Marseille, Paris and online.",
+      "fr": "Marie Nussbaum, psychologue clinicienne et psychanalyste à Marseille. Consultations pour adultes, adolescents et enfants à Marseille, Paris et en ligne."
+    }
   },
 
   "google_tag_manager": {

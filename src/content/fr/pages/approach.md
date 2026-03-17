@@ -1,7 +1,6 @@
 ---
 title: "Mon approche"
-meta_title: "Mon approche — Marie Nussbaum"
-description: "Profils de patients et approche thérapeutique"
+description: "Découvrez l'approche thérapeutique de Marie Nussbaum : psychothérapie psychodynamique et psychanalytique pour adultes, adolescents et enfants à Marseille."
 draft: false
 ---
 

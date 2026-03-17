@@ -1,7 +1,8 @@
 ---
 title: "Marie Nussbaum"
 subtitle: "Psychologist"
-meta_title: "Marie Nussbaum - Psychologist Marseille"
+meta_title: "Marie Nussbaum – Psychologist in Marseille"
+description: "Marie Nussbaum is a clinical psychologist and psychoanalyst in Marseille. Individual therapy for adults, adolescents and children in Marseille, Paris and online."
 image: "/images/IMG_9763.PNG"
 draft: false
 

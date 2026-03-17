@@ -1,7 +1,6 @@
 ---
 title: "My Approach"
-meta_title: "My Approach — Marie Nussbaum"
-description: "Patient profiles and therapeutic approach"
+description: "Discover Marie Nussbaum's therapeutic approach: psychodynamic and psychoanalytic therapy for adults, adolescents and children in Marseille and online."
 draft: false
 ---
 

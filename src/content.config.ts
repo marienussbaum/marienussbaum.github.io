@@ -81,9 +81,10 @@ const postsCollection = defineCollection({
     description: z.string().optional(),
     date: z.preprocess((val) => (val === "" ? undefined : val), z.coerce.date().optional()),
     image: z.string().optional(),
+    seoTitle: z.string().optional(),
+    seoDescription: z.string().optional(),
     categories: arrayField,
     authors: arrayField,
-    tags: arrayField,
     draft: z.boolean().optional(),
   }),
 });
@@ -110,9 +111,10 @@ const frPostsCollection = defineCollection({
     description: z.string().optional(),
     date: z.preprocess((val) => (val === "" ? undefined : val), z.coerce.date().optional()),
     image: z.string().optional(),
+    seoTitle: z.string().optional(),
+    seoDescription: z.string().optional(),
     categories: arrayField,
     authors: arrayField,
-    tags: arrayField,
     draft: z.boolean().optional(),
   }),
 });

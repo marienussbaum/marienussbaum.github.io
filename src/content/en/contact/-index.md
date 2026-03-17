@@ -1,7 +1,6 @@
 ---
 title: "Contact"
-meta_title: "Contact — Marie Nussbaum"
-description: "Book an appointment with Marie Nussbaum, Clinical Psychologist"
+description: "Book an appointment with Marie Nussbaum, clinical psychologist in Marseille. Online booking via Doctolib. Consultations in Marseille, Paris and online."
 image: ""
 draft: false
 ---
