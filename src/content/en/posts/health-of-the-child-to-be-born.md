@@ -5,9 +5,13 @@ description: "Does the mental health of parents affect the health of the child t
 authors:
   - Marie Nussbaum
 categories:
+  - Parents
   - Children
+  - Babies
 tags:
   - Children
+  - Parents
+  - Babies
 draft: false
 ---
 
