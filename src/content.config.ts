@@ -110,9 +110,9 @@ const frPostsCollection = defineCollection({
     description: z.string().optional(),
     date: z.preprocess((val) => (val === "" ? undefined : val), z.coerce.date().optional()),
     image: z.string().optional(),
-    categories: z.array(z.string()).default(() => ["others"]),
-    authors: z.array(z.string()).default(() => ["Admin"]),
-    tags: z.array(z.string()).default(() => ["others"]),
+    categories: arrayField,
+    authors: arrayField,
+    tags: arrayField,
     draft: z.boolean().optional(),
   }),
 });
