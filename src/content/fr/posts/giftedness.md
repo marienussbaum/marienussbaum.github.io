@@ -7,9 +7,9 @@ date: 2024-11-01T00:00:00.000Z
 authors:
   - Marie Nussbaum
 categories:
-  - Tests IQ
+  - Tests QI
 tags:
-  - Tests IQ
+  - Tests QI
 draft: false
 ---
 
