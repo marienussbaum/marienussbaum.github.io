@@ -1,10 +1,16 @@
 ---
 title: "De la dette dans la cure"
-description: "Une articulation entre économie psychique, cadre thérapeutique et subjectivation"
-date: 2025-05-01T00:00:00Z
-authors: ["Marie Nussbaum"]
-categories: ["Psychologie"]
-tags: ["psychologie"]
+description: "Une articulation entre économie psychique, cadre thérapeutique et
+  subjectivation"
+date: 2025-05-01T00:00:00.000Z
+authors:
+  - Marie Nussbaum
+categories:
+  - Psychologie & Société
+  - Soins
+tags:
+  - Psychologie & Société
+  - Soins
 draft: false
 ---
 
