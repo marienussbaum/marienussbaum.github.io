@@ -1,22 +1,46 @@
 {
-  "main": [
-    {
-      "name": "Home",
-      "url": "/"
-    },
-    {
-      "name": "Appointments",
-      "url": "/contact"
-    },
-    {
-      "name": "Blog",
-      "url": "/blog"
-    }
-  ],
-  "footer": [
-    {
-      "name": "Contact",
-      "url": "/contact"
-    }
-  ]
+  "en": {
+    "main": [
+      {
+        "name": "Home",
+        "url": "/"
+      },
+      {
+        "name": "Appointments",
+        "url": "/contact"
+      },
+      {
+        "name": "Blog",
+        "url": "/blog"
+      }
+    ],
+    "footer": [
+      {
+        "name": "Contact",
+        "url": "/contact"
+      }
+    ]
+  },
+  "fr": {
+    "main": [
+      {
+        "name": "Accueil",
+        "url": "/"
+      },
+      {
+        "name": "Rendez-vous",
+        "url": "/contact"
+      },
+      {
+        "name": "Blog",
+        "url": "/blog"
+      }
+    ],
+    "footer": [
+      {
+        "name": "Contact",
+        "url": "/contact"
+      }
+    ]
+  }
 }

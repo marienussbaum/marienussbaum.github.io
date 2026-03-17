@@ -40,7 +40,7 @@ export interface NavigationLink {
   children?: ChildNavigationLink[];
 }
 
-const { main }: { main: NavigationLink[] } = menu;
+const { main }: { main: NavigationLink[] } = menu[locale];
 ---
 
 <header class="header pt-6">

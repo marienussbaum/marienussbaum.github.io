@@ -1,7 +1,7 @@
 ---
 import Social from "@/components/Social.astro";
 import config from "@/config/config.json";
-import menu from "@/config/menu.json";
+import menuConfig from "@/config/menu.json";
 import social from "@/config/social.json";
 import { markdownify } from "@/lib/utils/textConverter";
 import { getRelativeLocaleUrl } from "astro:i18n";
@@ -17,7 +17,7 @@ const localizeUrl = (url: string) => getRelativeLocaleUrl(locale, url);
     {/* footer menu */}
     <ul class="mb-8 space-x-4">
       {
-        menu.footer.map((menu) => (
+        menuConfig[locale].footer.map((menu) => (
           <li class="inline-block">
             <a
               href={localizeUrl(menu.url)}
