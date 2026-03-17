@@ -1,10 +1,16 @@
 ---
 title: "Hypersensitivity"
-date: 2025-02-01T00:00:00Z
+date: 2025-02-01T00:00:00.000Z
 description: "A reflection in the service of patients"
-authors: ["Marie Nussbaum"]
-categories: ["Psychology"]
-tags: ["psychology"]
+authors:
+  - Marie Nussbaum
+categories:
+  - Adult
+  - Daily Psych
+tags:
+  - Adult
+  - Hypersensitivity
+  - Daily Psych
 draft: false
 ---
 
