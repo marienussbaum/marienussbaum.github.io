@@ -1,10 +1,17 @@
 ---
 title: "Choisir les écrans, penser les usages"
 description: "Retrouver une temporalité subjective et des alternatives créatives"
-date: 2025-09-01T00:00:00Z
-authors: ["Marie Nussbaum"]
-categories: ["Psychologie"]
-tags: ["psychologie"]
+date: 2025-09-01T00:00:00.000Z
+authors:
+  - Marie Nussbaum
+categories:
+  - Psychology & Société
+  - Enfants
+  - Adolescents
+tags:
+  - Psychology & Société
+  - Enfants
+  - Adolescents
 draft: false
 ---
 
