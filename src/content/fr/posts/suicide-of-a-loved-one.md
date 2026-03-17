@@ -1,10 +1,19 @@
 ---
 title: "Suicide d'un proche"
-description: "Guide psychologique pour naviguer le deuil après le suicide d'un proche, abordant la culpabilité, l'isolement, le traumatisme et les chemins vers la guérison."
-date: 2025-01-01T00:00:00Z
-authors: ["Marie Nussbaum"]
-categories: ["Psychologie"]
-tags: ["psychologie"]
+description: "Guide psychologique pour naviguer le deuil après le suicide d'un
+  proche, abordant la culpabilité, l'isolement, le traumatisme et les chemins
+  vers la guérison."
+date: 2025-01-01T00:00:00.000Z
+authors:
+  - Marie Nussbaum
+categories:
+  - Psychologie & Société
+  - Suicide
+  - Adultes
+tags:
+  - Psychologie & Société
+  - Suicide
+  - Adultes
 draft: false
 ---
 
