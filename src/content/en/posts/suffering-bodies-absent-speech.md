@@ -1,10 +1,18 @@
 ---
 title: "Suffering Bodies, Absent Speech"
-date: 2025-04-01T00:00:00Z
+date: 2025-04-01T00:00:00.000Z
 description: "A psychoanalytic reading of eating disorders"
-authors: ["Marie Nussbaum"]
-categories: ["Psychology"]
-tags: ["psychology"]
+authors:
+  - Marie Nussbaum
+categories:
+  - Eating disorders
+  - Teenagers
+  - Children
+  - ""
+tags:
+  - Eating disorders
+  - Teenagers
+  - Children
 draft: false
 ---
 
