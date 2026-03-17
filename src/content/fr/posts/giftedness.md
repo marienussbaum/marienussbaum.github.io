@@ -8,8 +8,12 @@ authors:
   - Marie Nussbaum
 categories:
   - Tests QI
+  - Douance
+  - HPI
 tags:
   - Tests QI
+  - Douance
+  - HPI
 draft: false
 ---
 
