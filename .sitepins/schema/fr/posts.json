@@ -7,49 +7,51 @@
     {
       "name": "title",
       "label": "Titre",
-      "type": "string",
+      "type": "text",
+      "required": true,
       "value": "",
       "defaultValue": ""
     },
     {
       "name": "date",
       "label": "Date",
-      "type": "Date",
+      "type": "datetime",
+      "required": true,
       "value": "",
       "defaultValue": ""
     },
     {
       "name": "description",
       "label": "Description",
-      "type": "string",
+      "type": "textarea",
       "value": "",
       "defaultValue": ""
     },
     {
       "name": "image",
-      "label": "Image",
-      "type": "image",
+      "label": "Image (chemin depuis la Médiathèque, ex. /images/ma-photo.jpg)",
+      "type": "text",
       "value": "",
       "defaultValue": ""
     },
     {
       "name": "authors",
       "label": "Auteurs",
-      "type": "Array",
+      "type": "array",
       "value": [],
       "defaultValue": ""
     },
     {
       "name": "categories",
       "label": "Catégories",
-      "type": "Array",
+      "type": "array",
       "value": [],
       "defaultValue": ""
     },
     {
       "name": "tags",
       "label": "Tags",
-      "type": "Array",
+      "type": "array",
       "value": [],
       "defaultValue": ""
     },
