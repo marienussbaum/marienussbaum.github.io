@@ -1,0 +1,35 @@
+---
+import Posts from "@/components/Posts.astro";
+import Base from "@/layouts/Base.astro";
+import { getSinglePage } from "@/lib/contentParser.astro";
+import { humanize, slugify } from "@/lib/utils/textConverter";
+import { sortByDate } from "@/lib/utils/sortFunctions";
+
+export async function getStaticPaths() {
+  const posts = await getSinglePage("frPosts");
+  const categories = [
+    ...new Set(posts.flatMap((post) => post.data.categories ?? [])),
+  ];
+  return categories.map((category) => ({
+    params: { category: slugify(category) },
+    props: { category },
+  }));
+}
+
+const { category } = Astro.props;
+const posts = await getSinglePage("frPosts");
+const sortedPosts = sortByDate(
+  posts.filter((post) =>
+    (post.data.categories ?? []).map((c: string) => slugify(c)).includes(slugify(category))
+  )
+);
+---
+
+<Base title={`Catégorie : ${humanize(category)}`}>
+  <section class="section">
+    <div class="container">
+      <h1 class="h2 mb-8 text-center">{humanize(category)}</h1>
+      <Posts posts={sortedPosts} />
+    </div>
+  </section>
+</Base>

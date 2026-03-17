@@ -7,6 +7,7 @@ const aboutCollection = defineCollection({
   loader: glob({ pattern: "**/-*.{md,mdx}", base: "src/content/en/about" }),
   schema: z.object({
     title: z.string(),
+    subtitle: z.string().optional(),
     meta_title: z.string().optional(),
     image: z.string().optional(),
     draft: z.boolean().optional(),
@@ -126,6 +127,7 @@ const frAboutCollection = defineCollection({
   loader: glob({ pattern: "**/-*.{md,mdx}", base: "src/content/fr/about" }),
   schema: z.object({
     title: z.string(),
+    subtitle: z.string().optional(),
     meta_title: z.string().optional(),
     image: z.string().optional(),
     draft: z.boolean().optional(),

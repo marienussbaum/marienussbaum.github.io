@@ -9,7 +9,7 @@ import { getRelativeLocaleUrl } from "astro:i18n";
 
 const entry = (await getEntry("enAbout", "-index")) as CollectionEntry<"enAbout">;
 const { Content } = await render(entry);
-const { title, meta_title, image, what_i_do, service_intro } = entry.data;
+const { title, subtitle, meta_title, image, what_i_do, service_intro } = entry.data;
 const imageUrl = withBase(image);
 
 const locale = (
@@ -52,7 +52,8 @@ const contactHref = getRelativeLocaleUrl(locale, "/contact");
       <div class="rounded-lg p-8" style="border: 2px solid #b9deea;">
         <div class="row md:gx-8 items-center">
           <div class="sm:col-7 md:col-8">
-            <h2 set:html={markdownify(title)} class="h3 mb-6" />
+            <h2 set:html={markdownify(title)} class="h3 mb-1" />
+            {subtitle && <p class="text-lg font-normal text-text mb-6">{subtitle}</p>}
             <div class="content mb-6">
               <Content />
             </div>

@@ -1,5 +1,6 @@
 ---
 title: "Marie Nussbaum"
+subtitle: "Psychologue"
 meta_title: "À propos"
 image: "/images/IMG_9763.PNG"
 draft: false
