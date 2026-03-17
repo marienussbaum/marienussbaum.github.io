@@ -8,12 +8,11 @@ import { sortByDate } from "@/lib/utils/sortFunctions";
 export async function getStaticPaths() {
   const posts = await getSinglePage("frPosts");
   const categories = [
-    ...new Set(posts.flatMap((post) => post.data.categories ?? [])),
+    ...new Set(posts.flatMap((post) => (post.data.categories ?? []).map((c) => c.trim()).filter(Boolean))),
   ];
-  return categories.map((category) => ({
-    params: { category: slugify(category) },
-    props: { category },
-  }));
+  return categories
+    .map((category) => ({ params: { category: slugify(category) }, props: { category } }))
+    .filter(({ params }) => params.category !== "");
 }
 
 const { category } = Astro.props;

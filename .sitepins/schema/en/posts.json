@@ -38,6 +38,7 @@
       "name": "authors",
       "label": "Authors",
       "type": "array",
+      "required": true,
       "value": [],
       "defaultValue": ""
     },
@@ -45,6 +46,7 @@
       "name": "categories",
       "label": "Categories",
       "type": "array",
+      "required": true,
       "value": [],
       "defaultValue": ""
     },
