@@ -1,10 +1,16 @@
 ---
 title: "Suicide of a Loved One"
-date: 2025-01-01T00:00:00Z
+date: 2025-01-01T00:00:00.000Z
 description: "Navigating grief after the suicide of a loved one"
-authors: ["Marie Nussbaum"]
-categories: ["Psychology"]
-tags: ["psychology"]
+authors:
+  - Marie Nussbaum
+categories:
+  - Suicide
+  - Adults
+tags:
+  - Suicide
+  - Adults
+  - ""
 draft: false
 ---
 
