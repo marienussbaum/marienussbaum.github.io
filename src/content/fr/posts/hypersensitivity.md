@@ -1,10 +1,17 @@
 ---
 title: "L'hypersensibilité"
-description: "Une réflexion clinique sur l'hypersensibilité comme indicateur d'anxiété et d'angoisse, explorant ses manifestations variées et son accompagnement thérapeutique."
-date: 2025-02-01T00:00:00Z
-authors: ["Marie Nussbaum"]
-categories: ["Psychologie"]
-tags: ["psychologie"]
+description: "Une réflexion clinique sur l'hypersensibilité comme indicateur
+  d'anxiété et d'angoisse, explorant ses manifestations variées et son
+  accompagnement thérapeutique."
+date: 2025-02-01T00:00:00.000Z
+authors:
+  - Marie Nussbaum
+categories:
+  - Psychologie & Société
+  - Hypersensibilité
+tags:
+  - Psychologie & Société
+  - Hypersensibilité
 draft: false
 ---
 
