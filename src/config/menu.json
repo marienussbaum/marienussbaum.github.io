@@ -15,18 +15,6 @@
   ],
   "footer": [
     {
-      "name": "About",
-      "url": "/"
-    },
-    {
-      "name": "Approach",
-      "url": "/approach"
-    },
-    {
-      "name": "FAQ",
-      "url": "/faq"
-    },
-    {
       "name": "Contact",
       "url": "/contact"
     }

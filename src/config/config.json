@@ -32,8 +32,9 @@
   },
 
   "contactinfo": {
-    "address": "Marseille, France",
-    "email": "[email protected]",
-    "phone": ""
+    "address": "19 Boulevard Rabatau, 13008 Marseille, France",
+    "email": "email.nussbaum@gmail.com",
+    "phone": "0609758577",
+    "booking_link": "https://www.doctolib.fr/psychologue/marseille/marie-nussbaum"
   }
 }

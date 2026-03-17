@@ -10,9 +10,8 @@ const entry = (await getEntry(
   "enContact",
   "-index"
 )) as CollectionEntry<"enContact">;
-const { contact_form_action } = config.params;
-const { address } = config.contactinfo;
-const { title, description, meta_title, image, email, telephone, booking_form } = entry.data;
+const { address, email, phone, booking_link } = config.contactinfo;
+const { title, description, meta_title, image } = entry.data;
 const emailMarkdown = email ? `[${email}](mailto:${email})` : "";
 ---
 
@@ -25,7 +24,7 @@ const emailMarkdown = email ? `[${email}](mailto:${email})` : "";
   <section class="section">
     <div class="container">
       <h1 set:html={markdownify(title)} class="h2 page-heading" />
-      <div class="row md:gx-5 gy-5">
+      <div class="row">
         <div class="sm:col-5 md:col-4">
           <p class="mb-8 text-2xl font-bold text-text-dark">Contact Info</p>
           <ul class="flex flex-col space-y-8">
@@ -46,19 +45,19 @@ const emailMarkdown = email ? `[${email}](mailto:${email})` : "";
                 class="mt-2 leading-5 pl-8 content"
               />
             </li>
-            {telephone && (
+            {phone && (
             <li>
               <div class="flex text-text-dark items-center text-xl">
                 <FaPhoneAlt className="mr-3 text-primary" />
                 <p class="font-semibold">Phone</p>
               </div>
-              <p class="mt-2 leading-5 pl-8">{telephone}</p>
+              <p class="mt-2 leading-5 pl-8">{phone}</p>
             </li>
             )}
-            {booking_form && (
+            {booking_link && (
             <li>
               <a
-                href={booking_form}
+                href={booking_link}
                 target="_blank"
                 rel="noopener noreferrer"
                 class="btn btn-primary mt-2 inline-block"
@@ -66,49 +65,6 @@ const emailMarkdown = email ? `[${email}](mailto:${email})` : "";
             </li>
             )}
           </ul>
-        </div>
-        <div class="sm:col-7 md:col-8">
-          <form
-            class="contact-form row gy-2 justify-center"
-            method="POST"
-            action={contact_form_action}
-          >
-            <div class="lg:col-6">
-              <label class="mb-2 block" for="name"
-                >Name <span class="text-red-600">*</span></label
-              >
-              <input
-                class="form-input w-full"
-                name="name"
-                type="text"
-                required
-              />
-            </div>
-            <div class="lg:col-6">
-              <label class="mb-2 block" for="email"
-                >Email <span class="text-red-600">*</span></label
-              >
-              <input
-                class="form-input w-full"
-                name="email"
-                type="email"
-                required
-              />
-            </div>
-            <div class="col-12">
-              <label class="mb-2 block" for="subject">Subject</label>
-              <input class="form-input w-full" name="subject" type="text" />
-            </div>
-            <div class="col-12">
-              <label class="mb-2 block" for="message"
-                >Message <span class="text-red-600">*</span></label
-              >
-              <textarea class="form-textarea w-full" name="message" rows="4" required></textarea>
-            </div>
-            <div class="col-12">
-              <button class="btn btn-primary mt-2">Submit Now</button>
-            </div>
-          </form>
         </div>
       </div>
     </div>
