@@ -1,10 +1,19 @@
 ---
 title: "Un parent entre à l'EHPAD"
-description: "Article explorant les impacts psychologiques et familiaux de l'admission d'un parent en établissement pour personnes âgées dépendantes, et le rôle du thérapeute dans l'accompagnement."
-date: 2025-03-01T00:00:00Z
-authors: ["Marie Nussbaum"]
-categories: ["Psychologie"]
-tags: ["psychologie"]
+description: "Article explorant les impacts psychologiques et familiaux de
+  l'admission d'un parent en établissement pour personnes âgées dépendantes, et
+  le rôle du thérapeute dans l'accompagnement."
+date: 2025-03-01T00:00:00.000Z
+authors:
+  - Marie Nussbaum
+categories:
+  - Psychologie & Société
+  - Adultes
+  - Vieillesse
+tags:
+  - Psychologie & Société
+  - Adultes
+  - Vieillesse
 draft: false
 ---
 
