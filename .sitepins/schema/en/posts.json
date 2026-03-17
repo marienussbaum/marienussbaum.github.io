@@ -1,0 +1,58 @@
+{
+  "file": "src/content/en/posts/burnout-a-clinical-reading.md",
+  "name": "posts",
+  "fileType": "md",
+  "fmType": "yaml",
+  "template": [
+    {
+      "name": "title",
+      "label": "Title",
+      "type": "string",
+      "value": "",
+      "defaultValue": ""
+    },
+    {
+      "name": "date",
+      "label": "Date",
+      "type": "Date",
+      "value": "",
+      "defaultValue": "",
+      "alwaysUseCurrentDate": false
+    },
+    {
+      "name": "description",
+      "label": "Description",
+      "type": "string",
+      "value": "",
+      "defaultValue": ""
+    },
+    {
+      "name": "authors",
+      "label": "Authors",
+      "type": "Array",
+      "value": [],
+      "defaultValue": ""
+    },
+    {
+      "name": "categories",
+      "label": "Categories",
+      "type": "Array",
+      "value": [],
+      "defaultValue": ""
+    },
+    {
+      "name": "tags",
+      "label": "Tags",
+      "type": "Array",
+      "value": [],
+      "defaultValue": ""
+    },
+    {
+      "name": "draft",
+      "label": "Draft",
+      "type": "boolean",
+      "value": false,
+      "defaultValue": false
+    }
+  ]
+}
