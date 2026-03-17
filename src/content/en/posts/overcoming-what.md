@@ -1,9 +1,16 @@
 ---
 title: "Overcoming What?"
-date: 2024-06-01T00:00:00Z
-authors: ["Marie Nussbaum"]
-categories: ["Psychology"]
-tags: ["psychology"]
+date: 2024-06-01T00:00:00.000Z
+authors:
+  - Marie Nussbaum
+categories:
+  - "Psychology & Society  "
+  - Healing
+  - Illness
+tags:
+  - "Psychology & Society  "
+  - Healing
+  - Illness
 draft: false
 ---
 
