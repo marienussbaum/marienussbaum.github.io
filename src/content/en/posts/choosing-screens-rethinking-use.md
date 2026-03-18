@@ -1,8 +1,8 @@
 ---
 title: "Choosing Screens, Rethinking Use"
-date: 2025-09-01T00:00:00.000Z
+date: 2025-09-24T00:00:00.000Z
 description: "Restoring subjective time and creative alternatives"
-image: ""
+image: "/images/Screen addiction.jpg"
 authors:
   - Marie Nussbaum
 categories:
