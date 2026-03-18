@@ -2,7 +2,7 @@
 title: "Couple Therapy: Between Love, Attachment, and Repair"
 date: 2025-11-01T00:00:00.000Z
 description: "Exploring wounds, expectations, and silences"
-image: ""
+image: "/images/couple therapy.jpg"
 authors:
   - Marie Nussbaum
 categories:
