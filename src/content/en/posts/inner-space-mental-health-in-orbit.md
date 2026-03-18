@@ -1,15 +1,14 @@
 ---
 title: "Inner Space: Mental Health and Subjectivity in Orbit"
-date: 2025-10-01T00:00:00.000Z
+date: 2025-10-03T00:00:00.000Z
 description: "When outer space meets inner emptiness"
-image: ""
+image: "/images/NASA.jpg"
 authors:
   - Marie Nussbaum
 categories:
   - "Psychology & Society  "
 draft: false
 ---
-
 A long time ago, in a galaxy not so far away, men and women left Earth to explore the edges of the cosmos. But in the silence of the capsules, where outer space meets inner emptiness, another journey begins: that of the psyche in weightlessness.
 
 Since 2023, I have been conducting research on the psychological effects of extreme confined environments, in collaboration with Université Paris Cité. This emerging clinical field draws on psychology, psychiatry, psychoanalysis, and neuroscience.
@@ -34,7 +33,7 @@ On a Martian mission, the communication delay between Earth and the shuttle is e
 
 Psychoanalysis offers valuable tools. It invites us to consider space as a mirror of inner space: what we project into the stars is also what we flee or seek within ourselves.
 
-By *symbolic anchor*, I mean the psychic function that Earth plays as a stable reference point — an imaginal matrix, a place of origin and return. In orbit, this anchor dissolves. This loss can provoke deep disorientation, an altered sense of existence, even an identity crisis.
+By _symbolic anchor_, I mean the psychic function that Earth plays as a stable reference point — an imaginal matrix, a place of origin and return. In orbit, this anchor dissolves. This loss can provoke deep disorientation, an altered sense of existence, even an identity crisis.
 
 ## Clinical analogy: birth and separation
 
@@ -44,6 +43,6 @@ Similarly, the astronaut in orbit loses their "terrestrial placenta." They must 
 
 ## Cultural metaphors and psychic care
 
-In *Star Trek: The Next Generation*, the character of Deanna Troi, counselor aboard the Enterprise, embodies this psychic function within the crew. In the episode "The Loss," she suddenly loses her empathic abilities — a metaphor for burnout, loss of meaning, and the need to redefine oneself beyond function.
+In _Star Trek: The Next Generation_, the character of Deanna Troi, counselor aboard the Enterprise, embodies this psychic function within the crew. In the episode "The Loss," she suddenly loses her empathic abilities — a metaphor for burnout, loss of meaning, and the need to redefine oneself beyond function.
 
 These fictional figures reflect a collective intuition that space exploration cannot proceed without psychic care. Outer space becomes the stage for inner emptiness — and sometimes, its traversal.
