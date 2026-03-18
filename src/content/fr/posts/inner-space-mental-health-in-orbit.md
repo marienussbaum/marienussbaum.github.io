@@ -4,7 +4,7 @@ description: "Une exploration clinique et interdisciplinaire des effets
   psychiques des environnements extrêmes confinés, examinant comment l'isolement
   spatial, la microgravité et la séparation affectent la santé mentale des
   astronautes et leurs familles."
-date: 2025-10-01T00:00:00.000Z
+date: 2025-10-03T00:00:00.000Z
 authors:
   - Marie Nussbaum
 categories:
@@ -12,7 +12,7 @@ categories:
   - NASA
   - Confinement
 draft: false
-image: ""
+image: "/images/NASA.jpg"
 ---
 
 ## Quand le vide spatial rencontre le vide psychique
