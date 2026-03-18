@@ -1,6 +1,6 @@
 ---
 title: "L’enfant - plante : quand le soin remplace la possession"
-date: ""
+date: 2024-07-08T08:32:00.000Z
 description: "Psychologie Enfants Séparation Parents"
 image: "/images/Parentsplant.jpg"
 authors:
