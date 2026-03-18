@@ -1,7 +1,7 @@
 ---
 title: "Couple Therapy: Between Love, Attachment, and Repair"
 date: 2025-11-01T00:00:00.000Z
-description: "Exploring wounds, expectations, and silences"
+description: "Psychology Couple therapy"
 image: "/images/couple therapy.jpg"
 authors:
   - Marie Nussbaum
@@ -9,14 +9,13 @@ categories:
   - Couple
 draft: false
 ---
-
 Couple therapy is not about "saving" a relationship at all costs, but about offering a space where partners can explore what is unfolding between them: wounds, expectations, repetitions, silences. It allows for the articulation of what often operates beneath the surface — unspoken loyalties, fears of abandonment, value conflicts, or diverging desires.
 
 ## International figures and clinical approaches
 
-In New York, psychoanalyst Orna Guralnik, known for her role in the documentary series *Couples Therapy* on Showtime, embodies an approach that is both rigorous and deeply human. She shows that conflict is not failure, but an entry point into deeper understanding of self and other. Her work highlights how the past shapes the present in love: trauma, family legacies, cultural identities.
+In New York, psychoanalyst Orna Guralnik, known for her role in the documentary series _Couples Therapy_ on Showtime, embodies an approach that is both rigorous and deeply human. She shows that conflict is not failure, but an entry point into deeper understanding of self and other. Her work highlights how the past shapes the present in love: trauma, family legacies, cultural identities.
 
-Esther Perel explores the paradoxes of desire and intimacy in couples. In *Mating in Captivity*, she shows how couples often struggle between safety and freedom, fusion and autonomy. She insists that "the couple is not a fixed entity, but a living space, crossed by opposing forces."
+Esther Perel explores the paradoxes of desire and intimacy in couples. In _Mating in Captivity_, she shows how couples often struggle between safety and freedom, fusion and autonomy. She insists that "the couple is not a fixed entity, but a living space, crossed by opposing forces."
 
 ## French perspectives: love and attachment
 
