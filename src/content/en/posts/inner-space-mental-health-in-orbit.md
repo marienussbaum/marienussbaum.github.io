@@ -7,6 +7,8 @@ authors:
   - Marie Nussbaum
 categories:
   - "Psychology & Society  "
+  - NASA
+  - Isolated Environments
 draft: false
 ---
 A long time ago, in a galaxy not so far away, men and women left Earth to explore the edges of the cosmos. But in the silence of the capsules, where outer space meets inner emptiness, another journey begins: that of the psyche in weightlessness.
