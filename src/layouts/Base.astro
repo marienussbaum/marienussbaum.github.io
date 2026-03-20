@@ -25,10 +25,12 @@ export interface Props {
   canonical?: string;
   ogType?: "website" | "article";
   hreflangSlug?: string;
+  /** Override hreflang hrefs when the slug differs between locales. */
+  hreflangPaths?: { en: string; fr: string };
 }
 
 // destructure frontmatters
-const { title, meta_title, description, image, noindex, canonical, ogType, hreflangSlug } =
+const { title, meta_title, description, image, noindex, canonical, ogType, hreflangSlug, hreflangPaths } =
   Astro.props;
 
 const locale = (
@@ -57,8 +59,10 @@ const canonicalUrl = new URL(Astro.url.pathname, config.site.base_url).href;
 
 const pathWithoutLocale = Astro.url.pathname.replace(/^\/(en|fr)/, "") || "/";
 const effectivePath = hreflangSlug ?? pathWithoutLocale;
-const enHref = new URL(`/en${effectivePath === "/" ? "" : effectivePath}`, config.site.base_url).href;
-const frHref = new URL(`/fr${effectivePath === "/" ? "" : effectivePath}`, config.site.base_url).href;
+const enPath = hreflangPaths?.en ?? effectivePath;
+const frPath = hreflangPaths?.fr ?? effectivePath;
+const enHref = new URL(`/en${enPath === "/" ? "" : enPath}`, config.site.base_url).href;
+const frHref = new URL(`/fr${frPath === "/" ? "" : frPath}`, config.site.base_url).href;
 
 const linkedinUrl =
   social.main.find((s: { name: string; link: string }) => s.name === "linkedin")?.link ?? "";

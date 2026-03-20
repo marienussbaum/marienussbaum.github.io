@@ -18,6 +18,10 @@
       {
         "name": "Contact",
         "url": "/contact"
+      },
+      {
+        "name": "Legal Notice",
+        "url": "/legal"
       }
     ]
   },
@@ -40,6 +44,10 @@
       {
         "name": "Contact",
         "url": "/contact"
+      },
+      {
+        "name": "Mentions légales",
+        "url": "/mentions-legales"
       }
     ]
   }

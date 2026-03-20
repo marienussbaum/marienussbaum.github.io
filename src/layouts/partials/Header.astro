@@ -18,14 +18,27 @@ const locale = (
 const isFrench = locale === "fr";
 
 const pathnameWithoutLocale =
-  pathnameWithoutBase.replace(/^\/(en|fr)(?=\/|$)/, "") || "/";
+  pathnameWithoutBase.replace(/^\/(en|fr)(?=\/|$)/, "").replace(/\/$/, "") || "/";
 
-const isCategory = pathnameWithoutLocale.startsWith("/categories/");
-const isBlogPost = /^\/blog\/[^/]+\/?$/.test(pathnameWithoutLocale);
-const altLocaleTarget = isCategory || isBlogPost ? "/blog/" : pathnameWithoutLocale;
+// Pages whose slug differs between locales. Add one entry per divergent page.
+const localeTargets: Record<string, { en: string; fr: string }> = {
+  "/legal":            { en: "/legal", fr: "/mentions-legales" },
+  "/mentions-legales": { en: "/legal", fr: "/mentions-legales" },
+};
 
-const enUrl = getRelativeLocaleUrl("en", altLocaleTarget);
-const frUrl = getRelativeLocaleUrl("fr", altLocaleTarget);
+// Blog posts and category pages have no direct equivalent — fall back to the index.
+const isSectionOnly =
+  pathnameWithoutLocale.startsWith("/categories/") ||
+  /^\/blog\/[^/]+\/?$/.test(pathnameWithoutLocale);
+
+const defaultRoute = isSectionOnly
+  ? { en: "/blog/", fr: "/blog/" }
+  : { en: pathnameWithoutLocale, fr: pathnameWithoutLocale };
+
+const route = localeTargets[pathnameWithoutLocale] ?? defaultRoute;
+
+const enUrl = getRelativeLocaleUrl("en", route.en);
+const frUrl = getRelativeLocaleUrl("fr", route.fr);
 
 const localizeUrl = (url: string) => getRelativeLocaleUrl(locale, url);
 
