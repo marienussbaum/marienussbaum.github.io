@@ -67,7 +67,7 @@ what_i_do:
         pour réfléchir ensemble à la meilleure façon de soutenir leur enfant.
     - title: Enfants et suivi familial
       subtitle: Attachement et développement
-      image: /images/consultation enfants fauteuil 2.jpg
+      image: /images/Consultationenfatns.png
       description: >-
         Avec les enfants, le travail passe souvent par le jeu, le dessin, les
         histoires et les moments partagés. Je reçois des enfants qui présentent
