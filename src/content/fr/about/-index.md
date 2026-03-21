@@ -21,7 +21,7 @@ service_intro:
     épreuves (deuil, rupture, trauma) ou rencontrez des difficultés
     relationnelles ou identitaires, je vous propose un espace d’écoute pour
     retrouver votre équilibre.
-  image: /images/IMG_9032.JPG
+  image: /images/PhotoAccueil.png
 
 what_i_do:
   title: Mes services
