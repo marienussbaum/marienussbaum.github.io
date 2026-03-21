@@ -2,7 +2,9 @@
 title: "Marie Nussbaum"
 subtitle: "Psychologue"
 meta_title: "Marie Nussbaum – Psychologue à Marseille"
-description: "Marie Nussbaum, psychologue clinicienne et psychanalyste à Marseille. Consultations pour adultes, adolescents et enfants à Marseille, Paris et en ligne."
+description: "Marie Nussbaum, psychologue clinicienne et psychanalyste à
+  Marseille. Consultations pour adultes, adolescents et enfants à Marseille,
+  Paris et en ligne."
 image: "/images/IMG_9763.PNG"
 draft: false
 
@@ -50,7 +52,7 @@ what_i_do:
         aux autres, ou sentiment profond de vide intérieur."
     - title: Accompagnement des adolescents
       subtitle: Soutien face aux difficultés relationnelles
-      image: /images/consultation ado3.jpg
+      image: /images/Consultation Ado.png
       description: >-
         L'adolescence est une période de transition, parfois turbulente, pour
         les jeunes et leurs familles. Je reçois des adolescents confrontés à des
