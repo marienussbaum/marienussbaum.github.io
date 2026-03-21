@@ -30,7 +30,7 @@ what_i_do:
   items:
     - title: Consultations adultes – psychothérapie individuelle
       subtitle: Approche individuelle
-      image: /images/Consultation individuelle.jpg
+      image: /images/consultationAdultes.png
       description: >-
         Je reçois des adultes confrontés à des difficultés émotionnelles
         (anxiété, tristesse, inhibition, irritabilité), à des événements de vie
