@@ -2,7 +2,9 @@
 title: "Marie Nussbaum"
 subtitle: "Psychologist"
 meta_title: "Marie Nussbaum – Psychologist in Marseille"
-description: "Marie Nussbaum is a clinical psychologist and psychoanalyst in Marseille. Individual therapy for adults, adolescents and children in Marseille, Paris and online."
+description: "Marie Nussbaum is a clinical psychologist and psychoanalyst in
+  Marseille. Individual therapy for adults, adolescents and children in
+  Marseille, Paris and online."
 image: "/images/IMG_9763.PNG"
 draft: false
 
@@ -50,7 +52,7 @@ what_i_do:
         sense of emptiness."
     - title: Support for adolescents
       subtitle: Support for relational difficulties
-      image: /images/consultation ado3.jpg
+      image: /images/Consultation Ado.png
       description: >-
         Adolescence is a time of transition, sometimes turbulent, for young
         people and their families. I receive adolescents who are facing strong
