@@ -44,7 +44,7 @@ what_i_do:
         to yourself and to others.
     - title: Psychoanalytic Psychotherapy
       subtitle: Deep self-understanding through analytic work
-      image: /images/image psychanalyse.jpg
+      image: /images/consultationspsychanalyse.png
       description: "Psychoanalytic psychotherapy is particularly suited to people who
         feel that something keeps repeating itself in their life, without them
         really knowing why: relationship breakdowns, the feeling of “always
