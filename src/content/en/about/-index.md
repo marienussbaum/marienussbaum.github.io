@@ -22,7 +22,7 @@ service_intro:
     through a difficult time (bereavement, separation, trauma), or facing
     relational or identity-related struggles, I offer a therapeutic space where
     you can be heard and begin to regain your balance.
-  image: /images/IMG_9032.JPG
+  image: /images/PhotoAccueil.png
 
 what_i_do:
   title: My services
