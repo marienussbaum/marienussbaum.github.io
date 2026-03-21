@@ -66,7 +66,7 @@ what_i_do:
         to think together about how best to support their child.
     - title: Children and family follow-up
       subtitle: Attachement and Development
-      image: /images/consultation enfants fauteuil 2.jpg
+      image: /images/Consultationenfatns.png
       description: >-
         With children, the work often takes place through play, drawing, stories
         and shared moments. I receive children who show changes in behavior
