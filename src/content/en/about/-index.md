@@ -30,7 +30,7 @@ what_i_do:
   items:
     - title: Adult consultations – individual psychotherapy
       subtitle: Individual approach
-      image: /images/Consultation individuelle.jpg
+      image: /images/consultationAdultes.png
       description: >-
         I offer individual consultations for adults who are facing emotional
         difficulties (anxiety, sadness, inhibition, irritability), overwhelming
