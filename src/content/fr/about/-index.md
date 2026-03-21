@@ -44,7 +44,7 @@ what_i_do:
         en relation avec vous-même et avec les autres.
     - title: Psychothérapie psychanalytique
       subtitle: Une compréhension profonde de soi par le travail analytique
-      image: /images/image psychanalyse.jpg
+      image: /images/consultationspsychanalyse.png
       description: "La psychothérapie psychanalytique s'adresse particulièrement aux
         personnes qui ont le sentiment que quelque chose se répète dans leur
         vie, sans vraiment savoir pourquoi : ruptures relationnelles, impression
