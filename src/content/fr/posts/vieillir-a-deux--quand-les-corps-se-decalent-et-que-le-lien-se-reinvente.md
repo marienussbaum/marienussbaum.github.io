@@ -9,10 +9,6 @@ categories:
   - Grand âge
 draft: false
 ---
-**Vieillir à deux : quand les corps se décalent et que le lien se réinvente**
-
-​
-
 Il arrive un moment, dans certains couples qui ont traversé une vie entière côte à côte, où quelque chose se déplace presque imperceptiblement. Les années se sont déposées comme des strates fines, les enfants ont grandi, les petits-enfants ont apporté leur tumulte joyeux, et la retraite est devenue un paysage familier. On pourrait croire que tout est stable, que le lien s’est figé dans une forme de tranquillité. Pourtant, autour de soixante-dix ans pour elle, un peu plus pour lui, un léger trouble apparaît parfois, comme une variation du climat interne.
 
 Elle remarque une irritabilité nouvelle, une crispation qui n’appartenait pas à leur histoire. Lui perçoit chez elle une sensibilité accrue, une manière différente d’habiter le quotidien. Rien de spectaculaire. Plutôt un déplacement subtil, un remaniement silencieux des places psychiques. Comme si, après tant de saisons traversées, le couple devait encore apprendre à se réajuster.
