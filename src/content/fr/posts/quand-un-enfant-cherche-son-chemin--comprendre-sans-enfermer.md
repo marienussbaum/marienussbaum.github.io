@@ -1,6 +1,6 @@
 ---
 title: "Quand un enfant cherche son chemin : comprendre sans enfermer"
-date: ""
+date: 2024-04-14T08:11:00.000Z
 description: "Quand un enfant cherche son chemin : comprendre sans enfermer"
 image: "/images/Child1autism.jpg"
 authors:
