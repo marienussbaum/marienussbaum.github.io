@@ -1,7 +1,7 @@
 ---
 title: "When Checking Becomes Surviving: The Invisible Anxiety Behind Obsessive
   Rituals"
-date: 2025-11-20T17:13:00.000Z
+date: 2026-01-04T17:13:00.000Z
 description: "When Checking Becomes Surviving: The Invisible Anxiety Behind
   Obsessive Rituals"
 image: "/images/TOC.jpg"
