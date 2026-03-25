@@ -4,7 +4,7 @@ description: "Une exploration psychanalytique des mécanismes de l'addiction
   sexuelle, examinant comment la jouissance peut devenir symptôme lorsqu'elle
   s'impose comme unique voie de régulation psychique, accompagnée de souffrance
   et d'isolement."
-date: 2025-10-01T00:00:00.000Z
+date: 2025-02-03T01:00:00.000Z
 authors:
   - Marie Nussbaum
 categories:
