@@ -1,7 +1,7 @@
 ---
 title: "Quand vérifier devient survivre : l’angoisse invisible des rituels
   obsessionnels"
-date: 2026-03-20T17:16:00.000Z
+date: 2026-01-04T17:16:00.000Z
 description: "Quand vérifier devient survivre : l’angoisse invisible des rituels
   obsessionnels"
 image: "/images/TOC.jpg"
