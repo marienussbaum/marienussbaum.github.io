@@ -1,6 +1,6 @@
 ---
 title: "The Louvre Theft: A Silent Address"
-date: 2025-11-01T00:00:00.000Z
+date: 2025-11-24T00:00:00.000Z
 description: "The Louvre Theft: A Silent Address"
 image: "/images/Louvre.jpg"
 authors:
