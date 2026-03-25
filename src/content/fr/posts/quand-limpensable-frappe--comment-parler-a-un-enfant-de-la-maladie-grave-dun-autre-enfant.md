@@ -1,7 +1,7 @@
 ---
 title: "Quand l’impensable frappe : comment parler à un enfant de la maladie
   grave d’un autre enfant"
-date: ""
+date: 2024-12-11T09:10:00.000Z
 description: "Quand l’impensable frappe : comment parler à un enfant de la
   maladie grave d’un autre enfant"
 image: "/images/Parlerauxenfants2.jpg"
