@@ -11,7 +11,7 @@ categories:
   - Psychologie & Société
   - Soins
 draft: false
-image: ""
+image: "/images/rituel.jpg"
 ---
 
 ## La catharsis collective face au trauma
