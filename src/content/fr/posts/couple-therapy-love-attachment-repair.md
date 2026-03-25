@@ -11,7 +11,7 @@ categories:
   - Couple
   - Adultes
 draft: false
-image: ""
+image: "/images/couple therapy.png"
 ---
 
 ## Explorer les blessures, les attentes et les silences
