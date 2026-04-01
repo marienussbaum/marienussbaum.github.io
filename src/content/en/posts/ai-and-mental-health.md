@@ -2,7 +2,7 @@
 title: "Artificial Intelligence in Mental Health"
 date: 2025-03-01T00:00:00.000Z
 description: "A clinical and philosophical perspective"
-image: ""
+image: "/images/AI psychiccare.png"
 authors:
   - Marie Nussbaum
 categories:
