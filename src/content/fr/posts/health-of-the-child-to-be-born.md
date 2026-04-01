@@ -12,7 +12,7 @@ categories:
   - Parents
   - Maladies
 draft: false
-image: ""
+image: "/images/foetus.png"
 ---
 
 #### La santé mentale de parents affecterait-elle la santé de l'enfant à venir ?
