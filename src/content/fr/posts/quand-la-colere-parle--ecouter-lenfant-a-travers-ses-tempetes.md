@@ -2,7 +2,7 @@
 title: "Quand la colère parle : écouter l’enfant à travers ses tempêtes"
 date: 2026-02-25T17:26:00.000Z
 description: "Quand la colère parle : écouter l’enfant à travers ses tempêtes"
-image: "/images/angry kids.jpg"
+image: "/images/enfantscolère.png"
 authors:
   - Marie Nussbaum
 categories:
