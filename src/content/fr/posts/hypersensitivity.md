@@ -34,7 +34,9 @@ Les recherches sur les « Highly Sensitive People » (HSP) menées par Elaine Ar
 
 L’hypersensibilité n’est ni une faiblesse ni une pathologie ; c’est une caractéristique humaine riche et complexe. Pour le psychologue, elle constitue une clé précieuse permettant de comprendre et d’accompagner les formes spécifiques d’anxiété et d’angoisse vécues par le patient. Ce travail de mise en sens, à travers une écoute attentive et un cadre thérapeutique structurant, permet au patient de transformer cette sensibilité parfois écrasante en une ressource qui éclaire son fonctionnement, sa perception de soi et sa relation aux autres.
 
-**Références**
+​
+
+Références
 
 Aron, E. (1996). _The Highly Sensitive Person_. Broadway Books.
 D’Ansembourg, T. (2001). _Cessez d’être gentil, soyez vrai_. Les Éditions de l’Homme.
