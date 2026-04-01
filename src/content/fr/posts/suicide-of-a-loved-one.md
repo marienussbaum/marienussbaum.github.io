@@ -11,7 +11,7 @@ categories:
   - Suicide
   - Adultes
 draft: false
-image: ""
+image: "/images/Copilot_20260401_141905.png"
 ---
 
 ## Naviguer le deuil après le suicide d'un proche : Guide pour les patients
