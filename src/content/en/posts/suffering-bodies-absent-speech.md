@@ -2,7 +2,7 @@
 title: "Suffering Bodies, Absent Speech"
 date: 2025-04-01T00:00:00.000Z
 description: "A psychoanalytic reading of eating disorders"
-image: ""
+image: "/images/corpsTCA.png"
 authors:
   - Marie Nussbaum
 categories:
