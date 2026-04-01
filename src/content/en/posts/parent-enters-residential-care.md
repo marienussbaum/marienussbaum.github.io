@@ -2,7 +2,7 @@
 title: "Parent in Residential Care Facility"
 date: 2025-03-01T00:00:00.000Z
 description: "Navigating guilt, grief, and family dynamics"
-image: ""
+image: "/images/EPHAD.png"
 authors:
   - Marie Nussbaum
 categories:
