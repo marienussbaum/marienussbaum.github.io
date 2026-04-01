@@ -9,30 +9,20 @@ categories:
   - Couple
 draft: false
 ---
-Couple therapy is not about "saving" a relationship at all costs, but about offering a space where partners can explore what is unfolding between them: wounds, expectations, repetitions, silences. It allows for the articulation of what often operates beneath the surface — unspoken loyalties, fears of abandonment, value conflicts, or diverging desires.
+Couple therapy is not meant to “save” a relationship at any cost. It offers a space where partners can finally explore what unfolds between them: the wounds, the expectations, the repetitions, the silences. It allows what acts in the shadows to take shape — invisible loyalties, fears of abandonment, value conflicts, diverging desires. Therapy becomes a place where unspoken experiences can be named, where what has hardened can soften, where what has become entangled can be gently unfolded.
 
-## International figures and clinical approaches
+In New York, psychoanalyst Orna Guralnik embodies a way of working that is both clinically rigorous and profoundly human. In her sessions, she invites couples to slow down, to listen differently, to confront their contradictions without collapsing under them. She shows that conflict is not a failure but an entry point into deeper self‑understanding and relational clarity. Her work highlights how the past infiltrates the present: trauma, family legacies, cultural identities that shape the way we love. She insists on the need for a secure frame where vulnerability can be risked without fear of being overwhelmed.
 
-In New York, psychoanalyst Orna Guralnik, known for her role in the documentary series _Couples Therapy_ on Showtime, embodies an approach that is both rigorous and deeply human. She shows that conflict is not failure, but an entry point into deeper understanding of self and other. Her work highlights how the past shapes the present in love: trauma, family legacies, cultural identities.
+Esther Perel, another major figure, explores the paradoxes of desire and intimacy. She describes how couples navigate tensions between security and freedom, fusion and autonomy, stability and vitality. For her, a couple is never static but a living space, crossed by opposing forces. Therapy becomes a place where the bond can be reinvented, where breath can return to the relationship, or where clarity can emerge about what is unfolding.
 
-Esther Perel explores the paradoxes of desire and intimacy in couples. In _Mating in Captivity_, she shows how couples often struggle between safety and freedom, fusion and autonomy. She insists that "the couple is not a fixed entity, but a living space, crossed by opposing forces."
+In France, Boris Cyrulnik offers a sensitive reading of affective dynamics. He distinguishes love — often sudden and intense — from attachment, which grows over time. Love activates reward circuits; attachment is rooted in memory and safety. He reminds us that attachment must not become numbing: it should allow exploration, safe separation, and confident return. Serge Tisseron adds the dimension of mental images, secrets, and unspoken histories. He shows how couples can become trapped in rigid representations of one another or in unexamined relational scripts. Therapy becomes a place where these implicit narratives can be dismantled, where unrealistic expectations can be revisited, and where the bond can be reimagined.
 
-## French perspectives: love and attachment
+In clinical practice, situations are always nuanced and deeply human. Eddi and Jade arrive exhausted, unable to communicate since the birth of their child. Beneath the reproaches lie issues of recognition, role distribution, and loneliness in parenthood. Therapy helps them name what has been silenced and sometimes rediscover the couple beyond the parental function. Fanny and Jérôme do not fight; they simply no longer speak in a meaningful way. A polite emotional distance has replaced intimacy. In therapy, they uncover unspoken expectations, old wounds, and quiet renunciations. Jean and Marie come after a violent crisis: beneath the shouting lies fear of loss, confusion between love and control. Therapy offers a space to differentiate affects, to think about power, dependence, and desire. Ania and Igor struggle over buying an apartment — a disagreement that reveals deeper divergences about money, career, parental models, and the future. Therapy helps them decipher these layers and learn to know each other anew.
 
-Boris Cyrulnik clearly distinguishes love — often sudden and linked to infatuation — from attachment, which is woven over time. "Love activates the reward system: dopamine, serotonin, endorphins. Attachment relies on the limbic system, the one of memory and safety."
+Couple therapy does not promise reconciliation or separation. It does not decide the outcome. It offers a space of truth, kindness, and transformation. It allows partners to move from “you don’t understand me” to “here is what I feel,” from “I love you” to “I see you.” It invites thinking together, dreaming together, or sometimes parting with dignity. It weaves meaning, connection, and sometimes a new way of being together — or of no longer suffering together.
 
-Serge Tisseron shows how couples can become trapped in fixed representations of each other or in unexamined projections. For Tisseron, couple therapy is a space to deconstruct implicit scripts, update unrealistic expectations, and reinvent the bond.
-
-## Clinical situations and transformations
-
-Eddi and Jade come to therapy after ten years together. They say they no longer know how to communicate, feel exhausted, and have not connected since the birth of their baby. Beneath the reproaches and silences lie issues of recognition, role distribution, and loneliness in parenthood.
-
-Fanny and Jérôme arrive with a quiet tension: they don't fight, but they no longer really talk. They live side by side in a form of emotional politeness. Therapy allows them to explore what has become frozen: unspoken expectations, old wounds, silent renunciations.
-
-Jean and Marie come to sessions after a violent crisis. But behind the shouting lies fear of losing the other, separation anxiety, confusion between love and control. Therapy offers them a place to differentiate emotions, to think through issues of power, dependency, and desire.
-
-Ania and Igor, recently married, cannot agree on buying an apartment or having a child. This initial complaint reveals deeper divergences: relationship to money, career, parental models, projections about the future.
-
-## Space of transformation and truth
-
-Couple therapy promises neither reconciliation nor separation. It is not the therapist's role to decide the outcome. But it offers a space of truth, kindness, listening, transformation, and sometimes repair. It allows movement from "I love you" to "I see you," from "you don't understand me" to "here's what I feel." It invites thinking together, dreaming together, or separating with dignity.
+**References**&#x20;
+Cyrulnik, B. (2016). _Quand on tombe amoureux, on se relève attaché_. Odile Jacob.
+Guralnik, O. (2020). _Couples Therapy_ \[Documentary series]. Showtime.
+Perel, E. (2006). _Mating in captivity: Unlocking erotic intelligence_. HarperCollins.
+Tisseron, S. (2011). _Intimacy and extimacy_. Albin Michel.
