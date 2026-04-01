@@ -11,37 +11,34 @@ categories:
   - Separation
 draft: false
 ---
+IIn my clinical practice, I meet many parents in transition, confronted with the profound reorganisation that separation entails. What often emerges are children caught in parental conflicts — sometimes latent, sometimes explicit — where each parent seeks to have their narrative, legitimacy or pain recognised. The child becomes, consciously or not, the carrier of an unprocessed conflict. This text offers a psychoanalytic reading of these situations, to rethink the parental bond after rupture.
 
-In my clinical practice, I encounter many parents in transition, facing the profound adjustments brought on by separation. One recurring theme is the presence of children caught in parental conflict — sometimes latent, sometimes overt — where each adult seeks to express their narrative, their legitimacy, their pain. The child then becomes, knowingly or unknowingly, the vehicle of an unresolved conflict.
+The separation of the parental couple triggers deep transformations. It is neither a purely legal event nor a simple emotional decision: it reconfigures psychic investments and representations. Each parent must disengage from the conjugal bond while maintaining a viable co‑parenting relationship. This process often reactivates intense affects: anger, sadness, feelings of failure, narcissistic wounds — but also more primitive anxieties linked to abandonment or the loss of a love object. These archaic experiences may resurface through practical arrangements, reviving early unprocessed experiences.
 
-## A Rupture with Multiple Effects
+A recently separated mother experiences the reorganisation of custody schedules as exclusion. She says, “The father decides everything alone,” adding, “as if I no longer existed in my son’s story.” This sense of relegation reveals a narcissistic wound and an anxiety of erasure: the fear of being removed from the child’s symbolic narrative, as if her maternal place were becoming unstable.
 
-The separation of a parental couple entails deep transformations. It cannot be reduced to a legal event or an emotional decision; it brings about a psychic reconfiguration of emotional investments and representations. Each parent must disengage from the conjugal bond while maintaining a viable coparental relationship.
+The end of the romantic bond does not mean the end of the parental bond, but requires a displacement of the psychic scene. Without elaboration, this displacement may drift into persistent rivalry, where co‑parenting becomes the battleground of an unprocessed separation. This conflict may be fuelled by the fear of no longer existing in the child’s emotional world. The lack of recognition of the other parent sometimes leads to compensatory strategies, where each tries to restore a dominant or exclusive position.
 
-This process often reactivates intense affects: anger, sadness, a sense of failure, narcissistic wounds — and also more archaic anxieties, tied to the fear of abandonment or the loss of a loved object.
+A father in session confides that he struggles to accept no longer giving his daughter her bath at the mother’s home. “It’s our moment. She’s depriving me of it as if she wants to cut me off from our bond.” This discourse reveals an unprocessed fusional attachment and a deeper fear: the fear of losing his paternal role. The ritual becomes the guarantor of the bond, and its disappearance revives the fantasy of conditional love.
 
-*Clinical example:* A recently separated mother experiences the reorganisation of custody schedules as exclusion. She says, "The father decides everything on his own," and adds, "As if I no longer exist in my son's story." This feeling reveals a narcissistic wound but also an anxiety of erasure — of being erased from the symbolic narrative of the child.
+The child continues to need both parents after separation. But to keep developing, they need a coherent symbolic space where identifications can be maintained without splitting. When one parent erases or devalues the other, the child is caught in a loyalty conflict. They may experience diffuse anxiety, silent guilt or a need to protect the more fragile parent. Psychic effects sometimes manifest as symptoms (sleep disturbances, aggression, somatisation), expressing an internal split between identifications.
 
-## From Couplehood to Coparenting
+A seven‑year‑old boy begins speaking about himself in the third person after his father leaves the home. He says, “He is sad because daddy shouted.” This mode of expression reveals a defensive process: an emotional dissociation signalling the impossibility of linking affective experience to subjective speech.
 
-The end of romantic attachment does not signify the end of the parental bond, but demands a displacement of psychic investment and transference. Without sufficient processing, this shift may evolve into persistent rivalry, with coparenting becoming the battleground of an unresolved separation.
+In this complex dynamic, the clinician plays the role of containing third. They offer a space for elaborating losses, support the meaning‑making of affects, and accompany the transition from a disengaged conjugal bond to a symbolised parental bond. This position does not aim to reconcile adults but to restore modes of exchange where each can recognise the other as co‑parent, carrying an essential function in the child’s psychic economy.
 
-*Clinical example:* A father confides in session that he struggles to accept not bathing his daughter at the mother's house. "It's our moment. She's depriving me of it like she wants to cut our bond." The ritual becomes the safeguard of affection, and its absence threatens his existence as a loved figure.
+What I see in session are families in transition, traversed by deep movements — sometimes wounded, often disorganised, but never fixed. My role is to welcome this complexity, contain projections, and support the emergence of a renewed parental space. Psychoanalysis does not offer technical solutions, but it allows us to read relational ghosts, reactivated Oedipal scenarios, abandonment anxieties and narcissistic struggles replaying themselves in the present. It opens the way to a living co‑parenting dynamic, capable of recomposing itself outside the field of conflict.
 
-## The Child at the Heart of Reconstruction
+For the child not to become the witness of conflict but remain at the centre of care and connection, it is essential to maintain a shared psychic space where each parent can continue to exist — not in the pain of separation, but in the responsibility of building a future.
 
-Children continue to need both parents after a separation. But to keep developing, they require a coherent symbolic space where identifications can be maintained without splitting.
+​
 
-When one parent invalidates or erases the other, the child faces a loyalty conflict. They may experience diffuse anxiety, unspoken guilt, or a protective attitude toward the more vulnerable parent. Psychological effects may manifest in symptoms — sleep disorders, aggression, somatic complaints — that signal an internal split between the child's identifications.
+References
 
-*Clinical example:* A seven-year-old boy begins referring to himself in the third person after his father leaves. He says, "He's sad because Daddy yelled." This linguistic shift reveals a defensive process — a dissociation of emotion indicating difficulty integrating affect into subjective speech.
+Aulagnier, P. (1975). _La violence de l’interprétation_. PUF.
+Benghozi, P. (2010). _Familles en crise, familles en transition_. Dunod.
+Ciccone, A. (2019). _La parentalité à l’épreuve de la séparation_. In Press.
+Lacan, J. (1986). _Le Séminaire, Livre VII : L’éthique de la psychanalyse_. Seuil.
+Winnicott, D. W. (1971). _Playing and reality_. Tavistock.
 
-## The Role of the Clinician as Containing Third
-
-The clinician plays the role of containing third. They offer a space where losses can be processed, where affect can circulate, and where the parental bond can be reconstructed — not aimed at reconciling the adults but at restoring exchanges in which each parent is acknowledged in their role.
-
-## Clinical Conclusion
-
-Psychoanalysis does not offer technical solutions but enables us to interpret relational ghosts, reactivated oedipal scenarios, fears of abandonment, and narcissistic struggles playing out in the present. It opens the way for a living form of coparenting — one that can rebuild outside the field of conflict.
-
-For the child not to become a mere witness of parental conflict, but to remain central to care and connection, it is essential to preserve a shared psychic space — where each parent can continue to exist, not in the pain of separation, but in the responsibility of building a future.
+​
