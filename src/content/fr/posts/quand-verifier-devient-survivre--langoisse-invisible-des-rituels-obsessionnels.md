@@ -4,7 +4,7 @@ title: "Quand vérifier devient survivre : l’angoisse invisible des rituels
 date: 2026-01-04T17:16:00.000Z
 description: "Quand vérifier devient survivre : l’angoisse invisible des rituels
   obsessionnels"
-image: "/images/TOC.jpg"
+image: "/images/OCD.png"
 authors:
   - Marie Nussbaum
 categories:
