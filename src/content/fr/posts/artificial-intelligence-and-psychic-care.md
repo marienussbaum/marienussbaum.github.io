@@ -10,7 +10,7 @@ categories:
   - IA
   - Psychologie & Société
 draft: false
-image: ""
+image: "/images/AI psychiccare.png"
 ---
 
 ## Une rencontre à interroger
