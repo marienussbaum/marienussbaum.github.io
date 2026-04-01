@@ -2,7 +2,7 @@
 title: "Falling in Love via an App"
 date: 2024-05-01T00:00:00.000Z
 description: "Presented at Saint-Anne Colloquium, May 2024"
-image: ""
+image: "/images/Applove.png"
 authors:
   - Marie Nussbaum
 categories:
