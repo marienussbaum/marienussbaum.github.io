@@ -4,7 +4,7 @@ title: "When Checking Becomes Surviving: The Invisible Anxiety Behind Obsessive
 date: 2026-01-04T17:13:00.000Z
 description: "When Checking Becomes Surviving: The Invisible Anxiety Behind
   Obsessive Rituals"
-image: "/images/TOC.jpg"
+image: "/images/OCD.png"
 authors:
   - Marie Nussbaum
 categories:
