@@ -11,7 +11,7 @@ categories:
   - Adultes
   - Vieillesse
 draft: false
-image: ""
+image: "/images/EPHAD.png"
 ---
 
 L'entrée d'un parent en Établissement d'Hébergement pour Personnes Âgées Dépendantes (EHPAD) peut jouer le rôle de catalyseur dans la dynamique familiale. Les relations entre frères et sœurs, souvent établies depuis longtemps, peuvent être réévaluées et transformées dans ce contexte.
