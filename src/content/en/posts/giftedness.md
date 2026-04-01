@@ -9,29 +9,26 @@ categories:
   - IQ Tests
 draft: false
 ---
+Understanding and supporting beyond the numbers. Giftedness, defined as “a superior and early intellectual development,” requires particular attention in psychological practice. Our role goes far beyond administering WAIS or WISC tests: it involves understanding what these results reveal about the patient’s global functioning, their relationship to learning, effort, frustration, and sometimes to difference itself.
 
-Giftedness, defined as advanced intellectual development and early potential, is a fascinating phenomenon that deserves special attention. As psychologists, our mission goes beyond the mere administration of IQ tests such as the WAIS (Wechsler Adult Intelligence Scale) and the WISC (Wechsler Intelligence Scale for Children). We must delve deeply into the results to fully understand the patient's overall functioning and support them in their specific challenges.
+The Wechsler scales are valuable assessment tools, but interpretation must go beyond the global score. Subtests reveal unique cognitive profiles: very strong working memory with slower processing speed, exceptional reasoning with attentional fragility, vivid creativity with difficulty organising information. These nuances form a cognitive landscape that cannot be reduced to a single number.
 
-## IQ Tests: WAIS and WISC
+Contextualising results with patients is essential. Some adults discover that their rapid thinking, often experienced as impatience or mismatch, reflects their cognitive functioning. Others understand why school was a place of boredom or suffering despite their abilities. In children, results shed light on adaptation difficulties, oppositional behaviours, or emotional hypersensitivity that was previously misunderstood.
 
-The Wechsler scales are valuable tools for assessing overall intellectual abilities. However, limiting ourselves to the general IQ score would be reductive. Analysing the subtests allows us to identify various cognitive profiles, revealing both strengths and weaknesses. The subtests evaluate specific skills such as working memory, processing speed, and verbal and non-verbal reasoning.
+Test results are a starting point for structured, in‑depth conversations. Giftedness often comes with specific challenges: high internal expectations, perfectionism, difficulty tolerating mistakes, social mismatch, or paradoxically fragile self‑esteem. Clinical interpretation helps connect these elements and give meaning to what once felt scattered.
 
-Through conversations with our patients, we contextualise these results to uncover particular aspects of their intellectual functioning that may impact their daily, familial, social, and professional lives.
+Our approach extends beyond the individual by integrating the family, school and professional environments. A gifted child may thrive in a stimulating setting but feel constrained in a rigid one. An adult may excel professionally while suffering from lack of recognition or intellectual isolation. The test becomes a systemic tool for understanding.
 
-## Interpreting Beyond Results
+A strong therapeutic relationship is essential. Creating a space of trust allows patients to express their feelings, doubts and aspirations. For adults, this includes assertiveness, stress management and emotional regulation. For children, collaboration with parents and teachers helps adjust expectations, support motivation and prevent exhaustion or disengagement.
 
-IQ test results are merely a starting point for structured and in-depth discussions with our patients. We don't just share numbers: we interpret these scores to reveal potential and areas requiring particular support. Giftedness often comes with specific challenges, such as motivation issues, self-esteem problems, or difficulties in social relationships.
+Test results only gain meaning when integrated into a global, contextualised perspective. Our task is to help each patient understand their giftedness in relation to daily challenges and opportunities, and to provide tools to cultivate their unique potential. Giftedness is not a label but a path toward self‑understanding.
 
-By building on a thorough understanding of our patients' abilities and limitations, we develop support strategies tailored to their particular needs. Our approach does not limit itself to the individual; it also includes the family, school, or professional environment. Giftedness is a reality experienced in interaction with others.
+​
 
-## The Therapeutic Relationship
+References
 
-A solid therapeutic relationship is essential for this process. Creating a space of trust and listening allows patients to express their feelings, questions, and aspirations. By considering individual projections and relational challenges, we help each person get to know themselves better and develop adaptation strategies that highlight their unique traits.
-
-For adults, this may involve work on self-assertion, stress management, and improving relational skills. For children and adolescents, close collaboration with parents and educators is often necessary to implement appropriate educational supports and accommodations.
-
-## Conclusion
-
-IQ test results, whether general or from subtests, only make sense when integrated into a holistic and contextual view of the individual. As psychologists, our duty is to support our patients in understanding their giftedness in relation to the challenges and opportunities of their daily lives, providing them with tools and strategies to better harness their unique potential.
-
-Supporting giftedness is a process where each step matters, and where the fine understanding of test results and the subjective realities of our patients come together to create a therapeutic framework of support and growth.
+Wechsler, D. (2008). _WAIS‑IV Technical and Interpretive Manual_. Pearson.
+Wechsler, D. (2014). _WISC‑V Clinical Manual_. Pearson.
+Terrassier, J.‑C. (2009). _Les enfants surdoués_. ESF.
+Siaud‑Facchin, J. (2002). _L’enfant surdoué_. Odile Jacob.
+Gagné, F. (2004). Transforming gifts into talents. _High Ability Studies, 15_(2), 119‑147.
