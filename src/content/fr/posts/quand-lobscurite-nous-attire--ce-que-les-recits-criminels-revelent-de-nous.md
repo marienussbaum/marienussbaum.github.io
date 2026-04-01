@@ -2,7 +2,7 @@
 title: "Quand l’obscurité nous attire : ce que les récits criminels révèlent de nous"
 date: 2026-03-13T14:33:00.000Z
 description: "Quand l’obscurité nous attire : ce que les récits criminels révèlent de nous"
-image: "/images/polar.jpg"
+image: "/images/polar1.png"
 authors:
   - Marie Nussbaum
 categories:
