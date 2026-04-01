@@ -9,7 +9,7 @@ authors:
 categories:
   - Parents
 draft: false
-image: ""
+image: "/images/parentalseparation.png"
 ---
 
 ## Une lecture psychanalytique
