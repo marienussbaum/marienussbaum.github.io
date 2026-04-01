@@ -10,37 +10,36 @@ categories:
   - Healing
 draft: false
 ---
+**Between Legal Constraint and Therapeutic Process**
 
-In France, the obligation of care is a legal measure that requires an individual to undergo medical or psychological treatment, often as part of a judicial decision. This mandate, outlined in Article 132-45 of the Penal Code, can be imposed before or after a trial and applies to various conditions, particularly psychiatric disorders or addictions.
+In France, mandatory treatment is a legal measure requiring an individual to follow medical or psychological care, often as part of a judicial decision. This constraint, defined in Article 132‑45 of the Penal Code, may be imposed before or after sentencing and applies to various conditions, particularly psychiatric disorders or addictions. It places the person in a paradoxical position: being sent to therapy without having chosen it.
 
-But what does this obligation represent for the therapist welcoming such a patient into their private practice? And more importantly, can someone truly be treated if they are forced to be there?
+In private practice, where many of these patients arrive due to the lack of institutional availability, the first sentence is often the same: “I’m here because I have to be.” It carries resistance, fatigue, sometimes anger — but also a possible opening. Behind the constraint, there is often a story, a symptom, a suffering that has not yet found words.
 
-## Statistics and Context
+In 2023, healthcare spending in France reached 325 billion euros, with a significant increase in outpatient care. Yet psychiatric institutions struggle to meet the growing demand. Many patients under mandatory treatment turn to private practitioners, who become the first witnesses of this tension: welcoming someone who did not choose to be there, while offering a space where something meaningful may occur.
 
-In 2023, healthcare spending in France reached €325 billion, with a notable increase in outpatient care. However, psychiatric institutions are struggling to meet the growing demand, leaving many patients under an obligation of care to turn to private practitioners. These patients often arrive with a phrase heavy with meaning: "I'm obliged to be here."
+Mandatory treatment raises a fundamental question: can we treat someone who did not come willingly? The answer lies in the ability to transform constraint into opportunity. The therapist must acknowledge the imposed nature of the situation without reducing the patient to it. The task is to welcome the person without judgment, allowing space for resistance, defiance, ambivalence. The goal is not immediate adherence but the gradual emergence of a personal need for care.
 
-## The Ethical and Therapeutic Challenge
+Philosopher Emmanuel Levinas reminds us that welcoming the other must be unconditional. This resonates with clinical practice: meeting the subject behind the judicial measure, understanding what the obligation reveals about their defences, fears, and unspoken needs.
 
-The obligation of care raises a fundamental question: can someone truly heal if they are not there by choice? The answer lies in the art of transforming this constraint into an opportunity. The therapist must welcome the patient without judgement, acknowledging the obligation while creating a space for dialogue. The goal is to evolve the obligation into a felt need, and ultimately into an active request for care.
+Mental disorders often involve denial of illness. The patient does not feel unwell, and the law obliges them to seek treatment not for themselves but to protect society. The therapist’s role is to shift the focus back to the patient, working on their own need for healing. Over time, some patients move from “I’m forced to be here” to “maybe I need help,” and sometimes to “I want to understand what’s happening to me.” This subtle shift is at the heart of therapeutic work.
 
-The philosopher Emmanuel Levinas, in his ethics of responsibility, reminds us that "welcoming another should be done without preconditions, respecting their individuality." This approach is mirrored in clinical practice: it is about deciphering what the obligation reveals about the patient — their resistances as well as their unspoken needs.
+The trajectory of actor Robert Downey Jr., legally compelled to undergo addiction treatment, illustrates this transformation. What began as an obligation became a personal journey. Such examples show that constraint can open a breach through which the subject reclaims agency.
 
-## From Obligation to Need: A Pathway
+Mandatory treatment raises ethical challenges: how to respect individual freedom while responding to judicial requirements? How to protect society without reducing the patient to a case file? How to balance confidentiality with legal obligations? The therapist often stands at a crossroads between law and clinical ethics.
 
-One of the challenges of mental health conditions is that the individual often does not perceive themselves as being unwell. The law may enforce treatment, not for their benefit, but for the impact it could have on others. The therapist's role is to refocus care on the patient, addressing their own need for healing.
+Transforming obligation into voluntary engagement is a challenge, but also an opportunity. By welcoming the patient with care and exploring the meaning of the constraint, the therapist can help them move toward an authentic request for treatment. As Carl Rogers wrote, “A person cannot change until they feel accepted as they are.” Obligation becomes a starting point rather than an endpoint.
 
-Actor Robert Downey Jr., mandated by the courts to undergo treatment for his addictions, provides a well-known example of how an initially imposed pathway can become a personal journey of rehabilitation — demonstrating how obligation can be transformed into a process of self-betterment.
+Thus, mandatory treatment, far from being an obstacle, can become a lever for revealing a deeper need, often buried beneath initial resistance. This is the art of therapy: turning constraint into openness, and obligation into possibility.
 
-## Legal and Ethical Considerations
+​
 
-The obligation of care brings forth complex issues:
+References
 
-- **Respect for Individual Freedom:** A mandated medical intervention can be perceived as an infringement on fundamental rights.
-- **Collective Responsibility:** The measure aims to protect society, but the therapist must ensure the patient is not reduced to merely a "case to be managed."
-- **Professional Confidentiality:** Practitioners often navigate between judicial requirements and the medical confidentiality owed to the patient.
+Penal Code, art. 132‑45.
+Fleury, C. (2019). _Le soin est un humanisme_. Gallimard.
+Levinas, E. (1961). _Totality and Infinity_. Le Livre de Poche.
+Rogers, C. R. (1961). _On Becoming a Person_. Houghton Mifflin.
+Cour des comptes (2024). _Healthcare Expenditure in France: Annual Report_.
 
-## Conclusion: The Art of Therapy Under Constraint
-
-Transforming an obligation into a voluntary process is both a challenge and an opportunity. By welcoming the patient with compassion and working on the meaning of this constraint, therapists can help them progress toward an authentic request for care. As Carl Rogers once said, "The curious paradox is that when I accept myself just as I am, then I can change."
-
-The obligation of care, far from being an obstacle, can become a lever to uncover a deeply buried need. This is the art of therapy: turning constraint into openness, and obligation into suggestion.
+​
