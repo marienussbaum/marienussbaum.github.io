@@ -10,7 +10,7 @@ categories:
   - Couple
   - Amour
 draft: false
-image: ""
+image: "/images/infidelity.png"
 ---
 
 ## Décoder la crise pour évoluer et guérir
