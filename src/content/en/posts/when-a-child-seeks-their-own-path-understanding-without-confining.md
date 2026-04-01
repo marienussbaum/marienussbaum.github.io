@@ -1,6 +1,6 @@
 ---
 title: "When a Child Seeks Their Own Path: Understanding Without Confining"
-date: 2024-04-14T08:12:00.000Z
+date: 2026-01-05T09:12:00.000Z
 description: "When a Child Seeks Their Own Path: Understanding Without Confining"
 image: "/images/Child1autism.jpg"
 authors:
