@@ -10,44 +10,35 @@ categories:
   - Daily Psych
 draft: false
 ---
+**A reflection in the service of patients.**&#x20;
 
-In my practice as a clinical psychologist, the term "hypersensitivity" frequently arises in patients' narratives. Many self-identify as "hypersensitive," often through spontaneous self-diagnosis. This word, while commonly used, carries diverse meanings and can serve multiple functions.
+In my clinical practice, the term “high sensitivity” appears frequently in the narratives of my patients. Many identify themselves as “highly sensitive,” often through spontaneous self‑diagnosis. Although widely used, the term covers very different realities and can serve multiple functions in a patient’s discourse.
 
-Far from being a pathological label or clinical symptom, hypersensitivity, to me, is a valuable indicator — a gateway to exploring what manifests in the patient as anxiety or anguish.
+Far from being a pathological label or a clinical symptom, high sensitivity is for me a valuable indicator — an entry point to explore what, in the patient, manifests as anxiety, overwhelm or emotional intensity.
 
-## Beyond a Self-Diagnosed Label
+When a patient tells me they are highly sensitive, it often reflects an emotional or sensory overflow they cannot yet define precisely. This intense experience is neither a medical diagnosis nor a sign of superior intelligence. It is a singular expression of their inner world, revealing a particular way of perceiving and reacting to their environment. My work is to go beyond the label and understand what high sensitivity means within their personal history.
 
-When a patient describes themselves as hypersensitive, it often reflects an overwhelming emotional or sensory experience that they cannot yet precisely define. This intense feeling is neither a medical diagnosis nor a sign of superior intelligence. It is a singular expression of their lived experience, revealing a unique way of perceiving and reacting to the world.
+For some, it is a sensory hypersensitivity: noise, light or physical proximity become overwhelming. Clara, for instance, feels instantly overloaded in crowded supermarkets. For others, high sensitivity takes the form of emotional intensity linked to past experiences or unresolved memories. Antoine becomes submerged after a simple conversation, ruminating every detail until exhaustion. Sofia, unable to verbalise her emotions, expresses her sensitivity through unexplained bodily pain. Each person is sensitive in their own way.
 
-My work is to move beyond this self-label to understand what hypersensitivity signifies in their personal history. Is it hypersensoriality, where noise, light, or touch become intrusive? Or is it emotional intensity linked to past memories or lived situations? Some patients articulate their hypersensitivity through a pronounced ability to verbalize their emotions, while others, marked by alexithymia, express it somatically or withdraw emotionally.
+In this context, it is essential to distinguish anxiety from anguish. Anxiety is a diffuse worry oriented toward the future, marked by constant alertness. Anguish, on the other hand, manifests more abruptly, often through somatic sensations of pressure or imminent threat. High sensitivity acts here as a psychological sensor, signalling that something requires attention.
 
-## Anxiety and Anguish: Two Sides of the Same Distress
+High sensitivity is not a uniform concept. Some patients focus on physical sensations, others on inner agitation fed by rumination or over‑intellectualisation. This diversity reflects the richness of the phenomenon, which must be explored individually. The goal is not to confirm or deny a label, but to understand what it reveals about the patient’s relationship to themselves and to others.
 
-It is crucial to distinguish between anxiety and anguish, two emotions often associated with hypersensitivity. Anxiety is a diffuse worry, oriented towards the future and marked by a constant sense of alertness. Anguish, on the other hand, manifests in a more raw way, often somatically, with sensations of oppression or imminent threat.
+In therapy, high sensitivity is not an endpoint but a starting point. My role is to help the patient decipher what this heightened sensitivity reveals about their coping mechanisms, their anxiety or their anguish. High sensitivity becomes a language that the psychologist helps translate.
 
-Hypersensitivity here acts as a kind of "psychological sensor," signalling to the patient that a point of tension demands attention.
+This work involves identifying emotional or sensory triggers, soothing overwhelm through mindfulness, breathing or relaxation techniques, and giving structure and meaning to this sensitivity in light of the patient’s personal history.
 
-## A Rich and Nuanced Exploration
+Research on Highly Sensitive People (HSP), notably by Elaine Aron, has shown that high sensitivity is often associated with increased neurological activation, particularly in the amygdala, which regulates emotional responses. These findings offer valuable scientific insight, but they must not overshadow the uniqueness of each individual experience. Authors such as Thomas d’Ansembourg invite us to move beyond the label and return to emotional authenticity — a perspective that can be integrated with nuance.
 
-Hypersensitivity is not a uniform concept. Some patients focus on physical sensations; others experience great internal agitation fuelled by rumination or hyper-intellectualisation.
+High sensitivity is neither a weakness nor a pathology; it is a rich and complex human characteristic. For the clinician, it is a key that helps understand and support the specific forms of anxiety and anguish experienced by the patient. Through attentive listening and a structured therapeutic frame, this sensitivity — sometimes overwhelming — can become a resource that illuminates the patient’s functioning, self‑perception and relationships.
 
-- Clara feels sensory overload in noisy environments like crowded supermarkets.
-- Antoine is overwhelmed by incessant ruminations after conversations, feeding his social anxiety.
-- Sofia, unable to verbalize her emotions, expresses her hypersensitivity through unexplained bodily pains.
+​
 
-## Psychological Support
+References
 
-In therapeutic support, I view hypersensitivity not as an endpoint but as a starting point. My role is to work with the patient to decode what this heightened sensitivity reveals about their coping mechanisms.
+Aron, E. (1996). _The Highly Sensitive Person_. Broadway Books.
+D’Ansembourg, T. (2001). _Cessez d’être gentil, soyez vrai_. Les Éditions de l’Homme.
+Bowlby, J. (1988). _A Secure Base_. Routledge.
+Sifneos, P. (1973). The prevalence of alexithymic characteristics. _Psychotherapy and Psychosomatics, 22_(2), 255‑262.
 
-This work includes:
-- Identifying the emotional or sensory triggers unique to the patient.
-- Easing the sense of overwhelm through techniques like mindfulness, deep breathing, or relaxation exercises.
-- Framing this sensitivity by assigning it a function and meaning that aligns with the patient's personal history.
-
-Research on "Highly Sensitive People" (HSP) conducted by Elaine Aron has shown that "hypersensitivity is often linked to heightened neurological activation, particularly in the amygdala" (Aron, 1996). These findings provide valuable scientific insights, but should not overshadow the uniqueness of each individual's experience.
-
-## Conclusion
-
-Hypersensitivity is neither a weakness nor a pathology; it is a rich and complex human trait. For the psychologist, it is a valuable key to understanding and supporting the specific forms of anxiety and anguish experienced by the patient.
-
-Through attentive listening and a structured therapeutic framework, patients can transform what may feel like an overwhelming sensitivity into a resource that illuminates their functioning, their self-perception, and their relationships with others.
+​
