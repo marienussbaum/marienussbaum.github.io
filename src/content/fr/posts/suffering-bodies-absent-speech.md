@@ -13,7 +13,7 @@ categories:
   - Maladies
   - TCA
 draft: false
-image: ""
+image: "/images/corpsTCA.png"
 ---
 
 #### Une lecture psychanalytique des troubles alimentaires
