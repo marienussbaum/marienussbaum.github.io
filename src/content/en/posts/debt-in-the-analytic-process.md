@@ -9,35 +9,34 @@ categories:
   - Therapy
 draft: false
 ---
+**Psychic Economy, Therapeutic Frame and Subjectivation**
 
-Within the therapeutic framework, the issue of payment for sessions can elicit questions, ambivalence, or resistance from some patients. While seemingly a practical matter, it engages far deeper psychic, symbolic, and relational stakes. The fee is not merely an amount — it embodies a moment of subjective commitment where desire, debt, and the structure of the analytic framework converge.
+In the therapeutic setting, the question of payment often raises ambivalence, resistance or questioning for some patients. Although it may appear practical, it actually mobilises deeper psychic, symbolic and relational issues. The fee is not merely a sum of money: it materialises a moment of subjective engagement, where desire, debt and inscription within the analytic frame converge.
 
-## Debt as the Foundation of Desire
+This text explores this theme through fundamental psychoanalytic concepts, highlighting how symbolic debt — a form of lack inscribed in the relation to the Other — intertwines with transference, the therapeutic frame and the process of subjectivation, that is, the construction of the subject through relationships, speech and psychic investment.
 
-Jacques Lacan, particularly in his *Seminar VII: The Ethics of Psychoanalysis*, emphasises the ethical dimension of desire and its grounding in lack. For him, debt does not correspond to a material due but arises from the fact that the subject finds themselves spoken before they have spoken. This inherited call from the Other represents a structuring void, framing desire as symbolic debt.
+Jacques Lacan, particularly in _Seminar VII. The Ethics of Psychoanalysis_, emphasises the ethical dimension of desire and lack. For him, debt is not a material obligation but arises from the fact that the subject is spoken before speaking. The subject inherits a call, a structuring void emanating from the Other — the one who embodies language, culture and unconscious expectations.
 
-*Clinical example:* A patient mentions family pressure around career choices: "My parents expect me to succeed." She experiences herself in constant debt to unspoken expectations. Here, desire emerges in the gap between what the Other projects and what the subject seeks to construct.
+Before the child utters their first words, parental discourse already traverses them — “He will become a doctor”, “She looks like her grandmother” — shaping their psychic construction. This speech received before one’s own speech forms the ground of symbolic debt, orienting desire toward recognition, love and understanding.
 
-Even before a child utters their first word, they are already shaped by parental projections — "He'll be a doctor," "She looks like her grandmother." This received discourse precedes the subject's own, and becomes the soil for symbolic debt.
+Analysts such as Piera Aulagnier link this debt to the process of subjectivation: it structures how the subject forms themselves, responding to and transforming what they receive from the Other. In the analytic space, this debt is replayed through the modalities of investment in the frame, of giving and counter‑giving.
 
-*Clinical example:* A patient early in her treatment explains that her parents gave her everything and never expected anything in return. She feels guilty about paying for therapy. This payment evokes archaic tensions between giving and being allowed to receive.
+The fee proposed by the practitioner is not a commercial price but a symbolic act. It delineates a space, establishes a subjective temporality and supports engagement in the transference. Paying is investing in the analytic work and inscribing this movement in a concrete form. The fee, as described by Didier Anzieu, contributes to structuring the analytic frame and protects the psychic work from dissolving into narcissistic or fusion‑based exchanges.
 
-## The Fee as a Site of Elaboration
+Pierre Legendre, in his work on law and social bonds, reminds us that every institution rests on debt: the relation to the Other, including in its institutional forms, cannot be thought without a founding debt.
 
-The therapist's fee does not reflect a capitalist price but functions as a symbolic act. It delineates a space, supports a subjective temporality, and anchors investment in transference.
+Payment functions as a containing element of the frame, allowing the subject to replay their relation to the Law — not as punishment but as a source of desire. It confronts ambivalences toward care, between the wish for healing and resistance, and materialises psychic investment in the cure. By setting a fee, the analyst does not perform a commercial act. They propose a scene where debt can be spoken, displaced and worked through. Payment becomes a metaphor for the originary gift, opening the possibility of returning to the Other and, by extension, to a truly engaged speech.
 
-*Clinical example:* A patient regularly forgets to pay or postpones the act. This behaviour may reflect a resistance to full engagement in treatment and an ambivalence toward the analyst and the frame.
+Far from being a simple economic exchange, paying for an analytic session opens a space for elaborating desire, lack and relational bonds. It constitutes an essential modality of the therapeutic frame, an interface between symbolic debt and subjectivation. In this sense, it supports the patient’s speech, inscribes it in a temporality and engages a singular trajectory toward the appropriation of their own desire.
 
-*Alternate example:* A patient asks to reduce the fee during a personal crisis. Beneath the request lies a tendency to transform the analytic link into a gratuitous affective bond. Upholding the frame prevents regression into dependency and preserves the therapeutic function.
+​
 
-As Didier Anzieu describes, the frame upholds the analytic structure and safeguards psychic work from collapse into fusion or narcissistic exchange.
+References
 
-## Clinical Function of Payment
+Aulagnier, P. (1975). _La violence de l’interprétation_. PUF.
+Anzieu, D. (1981). _Le cadre analytique_. Dunod.
+Lacan, J. (1986). _Le Séminaire, Livre VII : L’éthique de la psychanalyse_. Seuil.
+Legendre, P. (1992). _Leçons VIII : La 901e conclusion_. Fayard.
+Legendre, P. (2001). _Sur la question dogmatique en Occident_. Fayard.
 
-The fee acts as a containing function within the analytic setting. It reignites confrontation with the Law — not as punishment but as the origin of desire. It allows the patient to navigate ambivalence about treatment, swinging between the wish to heal and internal resistance.
-
-By setting a fee, the analyst does not engage in commerce, but offers a scene where debt can be articulated, displaced, and worked through. Payment becomes a metaphor of the primordial gift, of returning to the Other, and of the possibility of a truly engaged speech.
-
-## Conclusion
-
-Far from a mere financial transaction, payment within analytic work opens a space for desire, lack, and relational elaboration. It becomes an essential modality of the therapeutic frame — an interface between symbolic debt and subjective emergence. In doing so, it supports the patient's speech, anchors temporal movement, and marks a trajectory toward the appropriation of one's own desire.
+​
