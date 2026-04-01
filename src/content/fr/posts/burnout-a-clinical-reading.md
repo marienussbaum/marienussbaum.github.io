@@ -10,7 +10,7 @@ categories:
   - Burn-out
   - Maladies
 draft: false
-image: ""
+image: "/images/burnout.png"
 ---
 
 #### Entre épuisement et effondrement subjectif
