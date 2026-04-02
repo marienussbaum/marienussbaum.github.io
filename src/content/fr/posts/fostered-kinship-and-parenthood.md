@@ -12,7 +12,7 @@ categories:
   - Enfants
   - Adoption
 draft: false
-image: ""
+image: "/images/AdoptionFiliation.png"
 ---
 Devenir parent lorsqu’on a soi-même été adopté ne constitue pas simplement une étape de vie : c’est une traversée psychique, un mouvement intérieur où se rejouent les fondations mêmes du lien, de l’origine et de la transmission. L’expérience adoptive, loin d’appartenir au passé, affleure à nouveau à l’âge adulte, particulièrement lors des moments de transformation. La perspective de la parentalité réactive des traces anciennes : l’ombre de l’abandon, les fantasmes d’origine, les interrogations sur la capacité à transmettre un amour, une histoire, une identité.
 
