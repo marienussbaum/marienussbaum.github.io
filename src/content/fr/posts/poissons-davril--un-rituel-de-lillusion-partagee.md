@@ -1,6 +1,6 @@
 ---
 title: "Poissons d’avril : un rituel de l’illusion partagée"
-date: ""
+date: 2026-04-02T10:57:00.000Z
 description: "psychologie avril poisson illusion"
 image: "/images/poissonAvril.png"
 authors:

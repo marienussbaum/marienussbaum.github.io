@@ -1,10 +1,10 @@
 // sort by date
 export const sortByDate = (array: any[]) => {
-  const sortedArray = array.sort(
-    (a: any, b: any) =>
-      new Date(b.data.date && b.data.date).valueOf() -
-      new Date(a.data.date && a.data.date).valueOf(),
-  );
+  const sortedArray = array.sort((a: any, b: any) => {
+    const dateA = a.data.date ? new Date(a.data.date).valueOf() : 0;
+    const dateB = b.data.date ? new Date(b.data.date).valueOf() : 0;
+    return dateB - dateA;
+  });
   return sortedArray;
 };
 
