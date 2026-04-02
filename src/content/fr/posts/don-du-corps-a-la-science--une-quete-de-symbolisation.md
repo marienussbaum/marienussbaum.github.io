@@ -2,7 +2,7 @@
 title: "Don du corps à la science : une quête de symbolisation"
 date: 2025-12-16T14:31:00.000Z
 description: "Don du corps à la science : une quête de symbolisation"
-image: "/images/Anatomie.png"
+image: "/images/Anatomie_copy(1).png"
 authors:
   - Marie Nussbaum
 categories:
