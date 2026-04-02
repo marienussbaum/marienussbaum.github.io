@@ -2,7 +2,7 @@
 title: "Artificial Intelligence and Psychic Care"
 date: 2025-07-01T00:00:00.000Z
 description: "A meeting to be questioned"
-image: ""
+image: "/images/IAconversation.png"
 authors:
   - Marie Nussbaum
 categories:
