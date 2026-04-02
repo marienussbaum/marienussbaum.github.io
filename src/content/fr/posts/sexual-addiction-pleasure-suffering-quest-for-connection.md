@@ -11,7 +11,7 @@ categories:
   - Adultes
   - Intimité & relations
 draft: false
-image: ""
+image: "/images/SexeAddict2.png"
 ---
 **Interroger les modalités de la jouissance et du rapport à l’autre.**&#x20;
 
