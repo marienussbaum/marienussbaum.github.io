@@ -11,7 +11,7 @@ categories:
   - Douance
   - HPI
 draft: false
-image: ""
+image: "/images/IQ.png"
 ---
 Comprendre et accompagner au‑delà des résultats. La douance, définie comme « un développement intellectuel supérieur et précoce », mérite une attention particulière en psychologie. Notre rôle ne se limite pas à administrer les tests WAIS ou WISC : il consiste à comprendre ce que ces résultats disent du fonctionnement global du patient, de son rapport au monde, à l’apprentissage, à l’effort, à la frustration, et parfois à la différence.
 
