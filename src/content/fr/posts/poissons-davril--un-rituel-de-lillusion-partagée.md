@@ -1,7 +1,7 @@
 ---
 title: "Poissons d’avril : un rituel de l’illusion partagée"
 date: ""
-description: "Poissons d’avril : un rituel de l’illusion partagée"
+description: "psychologie avril poisson illusion"
 image: "/images/poissonAvril.png"
 authors:
   - Marie Nussbaum
