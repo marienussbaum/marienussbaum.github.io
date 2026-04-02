@@ -12,7 +12,7 @@ categories:
   - NASA
   - Confinement
 draft: false
-image: "/images/NASA.jpg"
+image: "/images/astronaute.png"
 ---
 Quand le vide spatial rencontre le vide psychique. Il y a bien longtemps, dans une galaxie pas si lointaine, des hommes et des femmes ont quitté la Terre pour explorer les confins du cosmos. Mais dans le silence des capsules, là où le vide spatial rencontre le vide psychique, une autre aventure commence : celle de la psyché en apesanteur. Depuis 2023, j’ai engagé des travaux de recherche sur les effets psychiques des environnements extrêmes confinés, en collaboration avec l’Université Paris Cité. Ce champ clinique, encore émergent, croise les apports de la psychologie, de la psychiatrie, de la psychanalyse et des neurosciences. Pour nourrir cette réflexion, j’ai pris soin de documenter les enjeux soulevés, en échangeant avec des interlocuteurs de la NASA, mais aussi avec des navigateurs en solitaire, dont l’expérience du huis clos et de la traversée intérieure résonne singulièrement avec celle des astronautes. Ces rencontres, ces lectures, ces observations ont contribué à affiner les questions que je formule ici — dans une démarche clinique, éthique et exploratoire.
 
