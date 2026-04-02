@@ -4,7 +4,7 @@ title: "Growing Old Together: When Bodies Fall Out of Sync and the Bond Must Be
 date: 2025-08-12T16:32:00.000Z
 description: "Growing Old Together: When Bodies Fall Out of Sync and the Bond
   Must Be Rewritten"
-image: "/images/old couple.jpg"
+image: "/images/coupleVieux.png"
 authors:
   - Marie Nussbaum
 categories:
