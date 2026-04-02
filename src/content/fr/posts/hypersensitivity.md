@@ -10,7 +10,7 @@ categories:
   - Psychologie & Société
   - Hypersensibilité
 draft: false
-image: ""
+image: "/images/Hypersensible.png"
 ---
 **Une réflexion au service des patients.**&#x20;
 
