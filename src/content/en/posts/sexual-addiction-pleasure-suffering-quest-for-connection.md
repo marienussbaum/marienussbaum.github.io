@@ -2,7 +2,7 @@
 title: "Sexual Addiction: Between Pleasure, Suffering, and the Quest for Connection"
 date: 2025-02-03T01:00:00.000Z
 description: "Examining the modalities of pleasure and relationship to others"
-image: ""
+image: "/images/SexeAddict2.png"
 authors:
   - Marie Nussbaum
 categories:
