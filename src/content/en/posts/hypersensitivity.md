@@ -2,7 +2,7 @@
 title: "Hypersensitivity"
 date: 2024-10-08T23:00:00.000Z
 description: "A reflection in the service of patients"
-image: ""
+image: "/images/Hypersensible.png"
 authors:
   - Marie Nussbaum
 categories:
