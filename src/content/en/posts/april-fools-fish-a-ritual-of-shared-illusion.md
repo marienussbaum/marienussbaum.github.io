@@ -1,7 +1,7 @@
 ---
 title: "April Fools’ Fish: A Ritual of Shared Illusion"
 date: ""
-description: ""
+description: "April Fools’ Fish: A Ritual of Shared Illusion"
 image: "/images/poissonAvril.png"
 authors:
   - Marie Nussbaum
