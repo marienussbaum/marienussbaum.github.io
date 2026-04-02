@@ -10,7 +10,7 @@ categories:
   - IA
   - Psychologie & Société
 draft: false
-image: ""
+image: "/images/AI psychiccare.png"
 ---
 Une perspective clinique et philosophique. L’intelligence artificielle (IA) s’impose aujourd’hui comme un outil incontournable dans de nombreux domaines, y compris celui de la santé mentale. Si son intégration suscite des débats éthiques et philosophiques, elle ouvre également des perspectives inédites pour accompagner les patients, notamment dans des contextes où l’accès aux soins est limité ou les relations humaines sont entravées.
 
