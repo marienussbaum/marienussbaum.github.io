@@ -3,7 +3,13 @@ import { marked } from "marked";
 
 // slugify
 export const slugify = (content: string) => {
-  return slug(content.trim().normalize("NFD").replace(/[\u0300-\u036f]/g, ""));
+  return slug(
+    content
+      .trim()
+      .normalize("NFD")
+      .replace(/[\u0300-\u036f]/g, "")
+      .replace(/[^\x00-\x7F]/g, ""),
+  );
 };
 
 // markdownify
