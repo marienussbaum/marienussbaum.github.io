@@ -2,7 +2,7 @@
 title: "Vieillir à deux : quand les corps se décalent et que le lien se réinvente"
 date: 2025-08-12T16:31:00.000Z
 description: "Vieillir à deux : quand les corps se décalent et que le lien se réinvente"
-image: "/images/old couple.jpg"
+image: "/images/coupleVieux.png"
 authors:
   - Marie Nussbaum
 categories:
