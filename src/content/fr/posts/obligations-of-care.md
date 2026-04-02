@@ -11,7 +11,7 @@ categories:
   - Prison
   - Adultes
 draft: false
-image: ""
+image: "/images/ObligationSoin.png"
 ---
 **Entre contrainte légale et cheminement thérapeutique**
 
