@@ -2,7 +2,7 @@
 title: "The Child – Plant: When Care Replaces Possession"
 date: 2024-07-08T08:20:00.000Z
 description: "Psychology Children Parents"
-image: "/images/Parentsplant.jpg"
+image: "/images/EnfantPlante.png"
 authors:
   - Marie Nussbaum
 categories:
