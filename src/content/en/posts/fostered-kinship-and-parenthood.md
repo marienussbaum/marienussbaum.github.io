@@ -2,7 +2,7 @@
 title: "Fostered Kinship and Parenthood"
 date: 2025-04-01T00:00:00.000Z
 description: "A psychic journey through the bond"
-image: ""
+image: "/images/AdoptionFiliation.png"
 authors:
   - Marie Nussbaum
 categories:
