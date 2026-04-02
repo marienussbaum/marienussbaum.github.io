@@ -1,7 +1,7 @@
 ---
 title: "Overcoming What?"
 date: 2024-06-01T00:00:00.000Z
-image: ""
+image: "/images/OvercomingChat.png"
 authors:
   - Marie Nussbaum
 categories:
