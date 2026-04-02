@@ -4,7 +4,7 @@ title: "When the Body Disappears for Too Long: Mourning Without Ritual and the
 date: 2025-12-16T14:29:00.000Z
 description: "When the Body Disappears for Too Long: Mourning Without Ritual and
   the Search for Symbolization"
-image: "/images/Anatomie.png"
+image: "/images/Anatomie_copy(1).png"
 authors:
   - Marie Nussbaum
 categories:
