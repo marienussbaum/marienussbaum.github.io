@@ -1,6 +1,6 @@
 ---
 title: "April Fools’ Fish: A Ritual of Shared Illusion"
-date: ""
+date: 2026-04-02T10:57:00.000Z
 description: "April Fools’ Fish: A Ritual of Shared Illusion"
 image: "/images/poissonAvril.png"
 authors:
