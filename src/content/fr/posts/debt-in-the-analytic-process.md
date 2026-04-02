@@ -9,7 +9,7 @@ categories:
   - Psychologie & Société
   - Soins
 draft: false
-image: ""
+image: "/images/CUREDETTE.png"
 ---
 **Une articulation entre économie psychique, cadre thérapeutique et subjectivation**
 
