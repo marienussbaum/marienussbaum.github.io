@@ -2,7 +2,7 @@
 title: "Beyond IQ Test Results"
 date: 2024-11-01T00:00:00.000Z
 description: "Understanding and supporting gifted individuals"
-image: ""
+image: "/images/IQ.png"
 authors:
   - Marie Nussbaum
 categories:
