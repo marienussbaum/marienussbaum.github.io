@@ -2,7 +2,7 @@
 title: "Le vol du Louvre : une adresse silencieuse"
 date: 2025-11-24T14:31:00.000Z
 description: "Le vol du Louvre : une adresse silencieuse"
-image: "/images/louvre2.jpg"
+image: "/images/Louvre.png"
 authors:
   - Marie Nussbaum
 categories:
