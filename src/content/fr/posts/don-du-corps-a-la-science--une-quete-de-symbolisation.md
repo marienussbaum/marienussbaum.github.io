@@ -13,7 +13,7 @@ draft: false
 ---
 Il existe des deuils qui s’ouvrent dans un silence particulier. Des deuils où le corps du défunt disparaît pendant des mois, parfois des années, parce qu’il a été donné à la science. Des deuils où les proches restent dans une attente étrange, suspendus entre la gratitude pour le geste accompli et la douleur d’être privés de ce qui, depuis toujours, aide les humains à dire adieu : un corps, un lieu, un rituel, un nom gravé quelque part.
 
-À ma consultation, j’ai rencontré des enfants devenus adultes qui ont vécu cela. Deux ans d’attente pour récupérer le corps d’un parent. Deux ans sans cérémonie, sans tombe, sans date, sans geste collectif. Deux ans où le deuil ne pouvait ni commencer ni se poursuivre. Deux ans où l’absence restait brute, sans forme, sans contour. Deux ans où la douleur ne trouvait pas d’adresse.
+Deux ans d’attente pour récupérer le corps d’un parent. Deux ans sans cérémonie, sans tombe, sans date, sans geste collectif. Deux ans où le deuil ne pouvait ni commencer ni se poursuivre. Deux ans où l’absence restait brute, sans forme, sans contour. Deux ans où la douleur ne trouvait pas d’adresse.
 
 Freud rappelait que le travail de deuil consiste à détacher, peu à peu, l’investissement psychique du défunt pour le réorienter vers la vie. Mais comment faire ce travail quand le corps n’est pas là ? Quand il n’y a pas de lieu où aller ? Quand il n’y a pas de moment où se rassembler ? Quand le temps lui-même semble suspendu ?
 
@@ -32,8 +32,6 @@ Kaës rappelait que les rituels ne sont pas seulement des traditions : ce sont d
 Pour ceux qui envisagent de donner leur corps à la science, il est possible d’aider leurs proches en les informant de leur intention. En expliquant ce que ce geste signifie pour eux. En leur laissant la possibilité d’imaginer un rituel alternatif. En leur disant qu’ils auront le droit de créer un moment, un lieu, une parole. En leur donnant la permission de faire un adieu même sans corps. En leur offrant, avant de partir, un espace où le symbolique pourra se construire.
 
 Le don du corps à la science est un geste noble. Mais il laisse parfois ceux qui restent avec une énigme. Une énigme que la psychanalyse peut aider à déplier. Une énigme qui demande du temps, de la douceur, de la créativité. Une énigme qui, un jour, peut devenir un récit. Et dans ce récit, le défunt retrouve une place. Une place vivante. Une place symbolique. Une place qui permet enfin à ceux qui restent de continuer à vivre.
-
-​
 
 **RÉFÉRENCES**&#x20;
 
