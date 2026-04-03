@@ -3,7 +3,7 @@ title: "Quand un enfant se retire un peu du monde : accueillir l’autisme sans 
   réduire"
 date: 2026-03-08T08:46:00.000Z
 description: "Psychologie Autisme Enfants Parents Bébés"
-image: "/images/autisme.jpg"
+image: "/images/Autisme.png"
 authors:
   - Marie Nussbaum
 categories:
