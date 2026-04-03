@@ -4,7 +4,7 @@ title: "Quand l’impensable frappe : comment parler à un enfant de la maladie
 date: 2024-12-11T09:10:00.000Z
 description: "Quand l’impensable frappe : comment parler à un enfant de la
   maladie grave d’un autre enfant"
-image: "/images/Parlerauxenfants2.jpg"
+image: "/images/hopital.png"
 authors:
   - Marie Nussbaum
 categories:
