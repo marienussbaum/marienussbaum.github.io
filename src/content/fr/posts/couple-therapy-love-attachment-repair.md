@@ -11,7 +11,7 @@ categories:
   - Couple
   - Adultes
 draft: false
-image: "/images/couple therapy.png"
+image: "/images/Therapiecouple.png"
 ---
 La thérapie de couple n’a jamais pour vocation de sauver une relation à tout prix. Elle ouvre plutôt un espace où deux personnes peuvent enfin regarder ce qui se joue entre elles : les blessures anciennes, les attentes secrètes, les répétitions qui s’invitent malgré elles, les silences qui pèsent plus lourd que les mots. Dans cet espace, ce qui agit en creux peut se dire : les loyautés invisibles, les peurs d’abandon, les conflits de valeurs, les désirs qui ne s’accordent plus. La thérapie devient alors un lieu où l’on apprend à entendre ce qui n’a jamais été formulé, à reconnaître ce qui s’est figé, à déplier ce qui s’est emmêlé.
 
