@@ -3,7 +3,7 @@ title: "When a Child Steps Slightly Aside from the World: Meeting Autism Without
   Reducing It"
 date: 2026-03-08T09:01:00.000Z
 description: "Psychology Autism Children Parents Babies"
-image: "/images/autisme.jpg"
+image: "/images/Autisme.png"
 authors:
   - Marie Nussbaum
 categories:
