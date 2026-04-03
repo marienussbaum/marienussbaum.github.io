@@ -4,7 +4,7 @@ title: "When the Unthinkable Strikes: How to Speak to a Child About Another
 date: 2024-12-11T09:09:00.000Z
 description: "When the Unthinkable Strikes: How to Speak to a Child About
   Another Child’s Critical Illness"
-image: "/images/Parlerauxenfants2.jpg"
+image: "/images/hopital.png"
 authors:
   - Marie Nussbaum
 categories:
