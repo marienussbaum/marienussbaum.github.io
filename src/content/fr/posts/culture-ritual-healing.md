@@ -11,7 +11,7 @@ categories:
   - Psychologie & Société
   - Soins
 draft: false
-image: "/images/rituel.jpg"
+image: "/images/Transculturel.png"
 ---
 À travers une approche transculturelle et psychanalytique, cet article explore comment les rituels collectifs peuvent agir comme des dispositifs thérapeutiques face au trauma. En mobilisant des exemples issus de traditions culturelles diverses — de Congo Square à La Nouvelle-Orléans, aux cérémonies chamaniques de Sibérie, en passant par les pèlerinages des gens du voyage en Camargue et les fêtes religieuses en Inde — il s’agit de montrer que le soin psychique ne se limite pas à l’espace clinique. Il peut émerger dans des lieux culturels partagés, où le corps, la parole et le groupe sont mis en mouvement. Cette perspective rejoint les travaux de Moro, Nathan, Hamayon et Piketty, et interroge la place du thérapeute comme médiateur du lien, du récit et du cadre.
 
