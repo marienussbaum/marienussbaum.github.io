@@ -2,7 +2,7 @@
 title: "Quand un enfant cherche son chemin : comprendre sans enfermer"
 date: 2026-01-05T09:11:00.000Z
 description: "Quand un enfant cherche son chemin : comprendre sans enfermer"
-image: "/images/Child1autism.jpg"
+image: "/images/TDAHAutisme.png"
 authors:
   - Marie Nussbaum
 categories:
