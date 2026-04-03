@@ -1,7 +1,7 @@
 ---
 title: "Choisir les écrans, penser les usages"
 description: "Retrouver une temporalité subjective et des alternatives créatives"
-image: "/images/Screen addiction.jpg"
+image: "/images/Ecrans_copy(1).png"
 date: 2025-09-24T00:00:00.000Z
 authors:
   - Marie Nussbaum
