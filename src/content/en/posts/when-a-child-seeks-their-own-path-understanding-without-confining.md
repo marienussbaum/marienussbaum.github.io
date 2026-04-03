@@ -2,7 +2,7 @@
 title: "When a Child Seeks Their Own Path: Understanding Without Confining"
 date: 2026-01-05T09:12:00.000Z
 description: "When a Child Seeks Their Own Path: Understanding Without Confining"
-image: "/images/Child1autism.jpg"
+image: "/images/TDAHAutisme_copy(1).png"
 authors:
   - Marie Nussbaum
 categories:
