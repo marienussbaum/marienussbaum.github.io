@@ -16,7 +16,7 @@ draft: false
 ---
 There are forms of mourning that open in a particular kind of silence. Mourning in which the body of the deceased disappears for months, sometimes years, because it has been donated to science. Mourning in which the relatives remain in a strange suspension, caught between gratitude for the gesture and the pain of being deprived of what has always helped humans say goodbye: a body, a place, a ritual, a name carved somewhere.
 
-In my consultation, I have met adult children who lived through this. Two years of waiting to recover the body of a parent. Two years without a ceremony, without a grave, without a date, without a collective gesture. Two years in which mourning could neither begin nor continue. Two years in which absence remained raw, without form, without contour. Two years in which pain had no place to go.
+Two years of waiting to recover the body of a parent. Two years without a ceremony, without a grave, without a date, without a collective gesture. Two years in which mourning could neither begin nor continue. Two years in which absence remained raw, without form, without contour. Two years in which pain had no place to go.
 
 Freud wrote that the work of mourning consists in gradually withdrawing the psychic investment from the deceased in order to redirect it toward life. But how can this work unfold when the body is not there? When there is no place to go? When there is no moment to gather? When time itself seems suspended?
 
@@ -35,8 +35,6 @@ Kaës wrote that rituals are not merely traditions: they are collective psychic 
 For those who are considering donating their body to science, it is possible to help their loved ones by informing them of their intention. By explaining what this gesture means to them. By giving them the possibility to imagine an alternative ritual. By telling them that they will have the right to create a moment, a place, a word. By giving them permission to say goodbye even without a body. By offering, before leaving, a space in which the symbolic can begin to take shape.
 
 The donation of the body to science is a noble gesture. But it sometimes leaves those who remain with an enigma. An enigma that psychoanalysis can help unfold. An enigma that requires time, gentleness, creativity. An enigma that, one day, can become a story. And in that story, the deceased finds a place again. A living place. A symbolic place. A place that finally allows those who remain to continue living.
-
-​
 
 **REFERENCES**&#x20;
 
