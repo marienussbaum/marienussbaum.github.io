@@ -9,7 +9,7 @@ authors:
 categories:
   - Parents
 draft: false
-image: "/images/parentalseparation.png"
+image: "/images/Parentsepares.png"
 ---
 Dans ma pratique clinique, j’accueille de nombreux parents en transition, confrontés aux remaniements qu’implique une séparation. Ce qui revient souvent, ce sont des enfants pris dans des conflits parentaux, parfois latents, parfois ouverts, où chacun cherche à faire entendre son récit, sa légitimité, sa douleur. L’enfant devient alors, consciemment ou non, le vecteur d’un conflit non élaboré. Ce texte propose une lecture psychanalytique de ces situations, pour penser autrement le lien parental après la rupture.
 
