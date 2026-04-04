@@ -2,7 +2,7 @@
 title: "When Anger Speaks: Listening to the Child Through Their Storms"
 date: 2026-02-25T17:23:00.000Z
 description: "When Anger Speaks: Listening to the Child Through Their Storms"
-image: "/images/enfantscolère.png"
+image: "/images/20260404_074628078_iOS.png"
 authors:
   - Marie Nussbaum
 categories:
