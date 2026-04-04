@@ -2,7 +2,7 @@
 title: "Infidelity"
 date: 2025-03-01T00:00:00.000Z
 description: "Decoding the crisis for growth and healing"
-image: "/images/infidelity.png"
+image: "/images/Infidelite.png"
 authors:
   - Marie Nussbaum
 categories:
