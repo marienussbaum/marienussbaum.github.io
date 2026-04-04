@@ -4,7 +4,7 @@ title: "Le pet comme langage du corps : entre psychanalyse, culture et clinique
 date: 2026-02-10T17:12:00.000Z
 description: "Le pet comme langage du corps : entre psychanalyse, culture et
   clinique du quotidien"
-image: "/images/fart.jpg"
+image: "/images/Pets.png"
 authors:
   - Marie Nussbaum
 categories:
