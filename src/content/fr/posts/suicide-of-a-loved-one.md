@@ -3,7 +3,7 @@ title: "Suicide d'un proche"
 description: "Guide psychologique pour naviguer le deuil après le suicide d'un
   proche, abordant la culpabilité, l'isolement, le traumatisme et les chemins
   vers la guérison."
-date: 2025-01-01T00:00:00.000Z
+date: 2025-01-22T00:00:00.000Z
 authors:
   - Marie Nussbaum
 categories:
@@ -24,8 +24,6 @@ Les images traumatiques occupent une place centrale dans ce type de deuil. Elles
 Au-delà de la souffrance, il est essentiel de reconnaître les ressources propres à chacun. Chaque personne possède des forces, une créativité psychique, une capacité de résilience qui peuvent soutenir le processus de reconstruction. Les approches thérapeutiques individualisées valorisent ces appuis internes et accompagnent l’émergence d’un mouvement vital, parfois ténu, mais toujours possible.
 
 Le deuil après un suicide est un parcours intime, pluriel, jamais linéaire. En travaillant la culpabilité, en reconnaissant la spécificité de cette perte, en apprivoisant les images traumatiques et en s’appuyant sur les forces personnelles, l’accompagnement psychothérapeutique ouvre des voies de réparation. Chercher du soutien, accepter d’être aidé, et s’autoriser à avancer constituent des gestes de soin envers soi-même, des gestes de vie.
-
-​
 
 **Références**&#x20;
 
