@@ -1,6 +1,6 @@
 ---
 title: "Suffering Bodies, Absent Speech"
-date: 2025-04-01T00:00:00.000Z
+date: 2025-04-16T00:00:00.000Z
 description: "A psychoanalytic reading of eating disorders"
 image: "/images/corpsTCA.png"
 authors:
