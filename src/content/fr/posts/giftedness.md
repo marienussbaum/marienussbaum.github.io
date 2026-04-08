@@ -1,5 +1,5 @@
 ---
-title: "Douance et Tests de QI"
+title: "Douance et Tests de QI : comprendre et accompagner au‑delà des résultats"
 description: "Article explorant l'accompagnement psychologique de la douance
   au-delà des simples résultats de tests de QI, mettant l'accent sur une
   compréhension globale et contextuelle du fonctionnement intellectuel."
@@ -13,7 +13,7 @@ categories:
 draft: false
 image: "/images/IQ.png"
 ---
-Comprendre et accompagner au‑delà des résultats. La douance, définie comme « un développement intellectuel supérieur et précoce », mérite une attention particulière en psychologie. Notre rôle ne se limite pas à administrer les tests WAIS ou WISC : il consiste à comprendre ce que ces résultats disent du fonctionnement global du patient, de son rapport au monde, à l’apprentissage, à l’effort, à la frustration, et parfois à la différence.
+La douance, définie comme « un développement intellectuel supérieur et précoce », mérite une attention particulière en psychologie. En effet, notre rôle ne se limite pas à administrer les tests WAIS ou WISC : il consiste à comprendre ce que ces résultats disent du fonctionnement global du patient, de son rapport au monde, à l’apprentissage, à l’effort, à la frustration, et parfois à la différence.
 
 Les échelles de Wechsler constituent des outils précieux d’évaluation. Mais l’analyse doit dépasser le score global. Les subtests révèlent des profils cognitifs singuliers : une mémoire de travail très élevée mais une vitesse de traitement plus lente, un raisonnement exceptionnel mais une fragilité attentionnelle, une créativité vive mais une difficulté à structurer l’information. Ces nuances dessinent un paysage cognitif qui ne peut être réduit à un chiffre.
 
