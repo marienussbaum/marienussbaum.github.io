@@ -3,7 +3,7 @@ title: "Burn-out : une lecture clinique"
 description: "Une analyse psychanalytique du burn-out comme effondrement
   narcissique et rupture du rapport à soi, aux autres et au travail, illustrée
   par des cas cliniques."
-date: 2025-06-01T00:00:00.000Z
+date: 2025-06-21T00:00:00.000Z
 authors:
   - Marie Nussbaum
 categories:
