@@ -12,7 +12,7 @@ categories:
   - Parents
   - Maladies
 draft: false
-image: "/images/foetus.png"
+image: "/images/placenta.png"
 ---
 La grossesse est une période de transformation profonde, marquée par des changements physiques, émotionnels et psychologiques. Pour certaines femmes, cette période peut être accompagnée de stress et d'anxiété, ce qui peut avoir des répercussions sur leur propre santé mentale mais aussi celle de leur enfant à naître.
 
