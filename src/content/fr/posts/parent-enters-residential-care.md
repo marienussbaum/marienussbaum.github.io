@@ -3,7 +3,7 @@ title: "Un parent entre à l'EHPAD"
 description: "Article explorant les impacts psychologiques et familiaux de
   l'admission d'un parent en établissement pour personnes âgées dépendantes, et
   le rôle du thérapeute dans l'accompagnement."
-date: 2025-03-01T00:00:00.000Z
+date: 2025-03-14T00:00:00.000Z
 authors:
   - Marie Nussbaum
 categories:
@@ -13,7 +13,6 @@ categories:
 draft: false
 image: "/images/EPHAD.png"
 ---
-
 L'entrée d'un parent en Établissement d'Hébergement pour Personnes Âgées Dépendantes (EHPAD) peut jouer le rôle de catalyseur dans la dynamique familiale. Les relations entre frères et sœurs, souvent établies depuis longtemps, peuvent être réévaluées et transformées dans ce contexte.
 
 Les responsabilités de soins, la gestion des émotions et la prise de décision peuvent exacerber les tensions existantes ou en créer de nouvelles. Cette période peut être l'occasion de renforcer les liens au sein de la fratrie, mais elle peut aussi raviver des rancœurs passées.
