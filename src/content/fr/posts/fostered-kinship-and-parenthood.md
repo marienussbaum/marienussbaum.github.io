@@ -4,7 +4,7 @@ description: "Une exploration psychanalytique de la parentalité chez les adulte
   adoptés, examinant comment l'expérience adoptive se réactive lors de la
   transition vers la parentalité à travers les dimensions biologiques,
   symboliques, psychiques et narratives du lien filial."
-date: 2025-04-01T00:00:00.000Z
+date: 2025-04-09T00:00:00.000Z
 authors:
   - Marie Nussbaum
 categories:
