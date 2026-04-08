@@ -3,7 +3,7 @@ title: "Séparation amoureuse et recomposition coparentale"
 description: "Une lecture psychanalytique des enjeux psychiques lors d'une
   séparation parentale, explorant comment les parents peuvent maintenir une
   coparentalité viable malgré la rupture du lien conjugal."
-date: 2025-05-01T00:00:00.000Z
+date: 2025-05-21T00:00:00.000Z
 authors:
   - Marie Nussbaum
 categories:
