@@ -1,10 +1,11 @@
 ---
-title: "Vaincre quoi ?"
+title: "Vaincre quoi ? Quand on utilise le langage guerrier pour décrire la
+  maladie et les émotions"
 description: "Une réflexion critique sur le langage guerrier utilisé pour
   décrire la maladie et les émotions, questionnant si cette rhétorique binaire
   ne risque pas d'enfermer les patients dans un récit d'échec personnel, et
   proposant une approche alternative basée sur la coexistence et le sens."
-date: 2024-06-01T00:00:00.000Z
+date: 2024-06-14T00:00:00.000Z
 authors:
   - Marie Nussbaum
 categories:
@@ -13,7 +14,6 @@ categories:
 draft: false
 image: "/images/OvercomingChat.png"
 ---
-
 En tant que soignant, peut-on vraiment parler de se battre contre une maladie ou une émotion ? Souvent, nous entendons ou nous voyons des affiches recourir à l'usage de ce terme dans le contexte de la lutte contre l'autisme, la mucoviscidose, le cancer ou le diabète. À plus petite échelle, nous l'entendons dans les discours contre les peurs ou la solitude.
 
 Ce langage guerrier ne contribue-t-il pas à une vision dichotomique du monde divisant les forts et les faibles, les vainqueurs et les vaincus, les survivants et les disparus ? Une telle rhétorique peut-elle emprisonner la maladie ou l'émotion dans un récit binaire, où ceux qui succombent sont perçus comme ayant mal combattu ?
