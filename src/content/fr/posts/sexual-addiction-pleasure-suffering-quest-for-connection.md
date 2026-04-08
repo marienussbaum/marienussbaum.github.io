@@ -13,10 +13,6 @@ categories:
 draft: false
 image: "/images/SexeAddict2.png"
 ---
-**Interroger les modalités de la jouissance et du rapport à l’autre.**&#x20;
-
-​
-
 L’addiction sexuelle, loin d’être un simple excès de désir, interroge les modalités de la jouissance, du lien à l’autre et du rapport au corps. Elle peut être plaisir, mais devient symptôme lorsqu’elle s’impose comme unique voie d’expression ou de régulation psychique, au prix de la souffrance, de l’isolement ou de la répétition. Elle dit quelque chose d’un conflit interne, d’une tentative de maîtriser l’angoisse, ou d’un rapport à soi qui peine à se symboliser autrement.
 
 Dans la littérature psychanalytique contemporaine, des auteurs comme Vincent Estellon, Joyce McDougall, Patrick Carnes, Aviel Goodman, Shere Hite, Martin Kafka ou Laurent Karila ont exploré les racines archaïques de ces conduites. Estellon parle d’une sexualisation défensive : une manière de conjurer la terreur d’aimer et d’être aimé, en substituant au lien affectif une scène sexuelle répétitive, souvent désaffectivée. McDougall évoque ces « théâtres du corps » où la sexualité devient un langage, parfois le seul, pour exprimer une détresse indicible.
@@ -34,8 +30,6 @@ Karim, lui, dépense des sommes considérables en prostitution. Il ne parvient p
 Ces formes de jouissance ne sont pas nécessairement pathologiques. Elles peuvent être l’expression d’un désir singulier, d’une recherche de soi, d’un jeu consenti. Mais lorsqu’elles s’imposent comme seule modalité de lien, qu’elles s’accompagnent de souffrance, d’isolement, de honte ou d’une insatisfaction chronique malgré la multiplication des partenaires ou des stimulations, elles deviennent le signe d’un conflit psychique à entendre. Comme le souligne Joyce McDougall, ces patients ont souvent connu des expériences précoces d’intrusion ou d’abandon, et ont construit des défenses puissantes pour survivre à l’angoisse d’anéantissement. Martin Kafka parle d’hypersexualité comme trouble du contrôle des impulsions, tandis que Patrick Carnes insiste sur la dimension addictive et compulsive, souvent liée à des traumas précoces.
 
 Engager une réflexion clinique sur ces pratiques, c’est offrir un espace où le sujet peut interroger ce qui se répète, ce qui échappe, ce qui fait souffrance. C’est aussi reconnaître que la sexualité, dans sa complexité, peut être un lieu de lien, de réparation, ou de perte — selon la manière dont elle s’inscrit dans l’histoire du sujet. La thérapie permet de remettre du sens là où la répétition a pris toute la place, de réintroduire de la parole là où le corps parlait seul, et d’ouvrir la possibilité d’un rapport à l’autre moins défensif, plus vivant.
-
-​
 
 Références
 
