@@ -1,6 +1,6 @@
 ---
 title: "Parent in Residential Care Facility"
-date: 2025-03-01T00:00:00.000Z
+date: 2025-03-14T00:00:00.000Z
 description: "Navigating guilt, grief, and family dynamics"
 image: "/images/EPHAD.png"
 authors:
@@ -10,7 +10,6 @@ categories:
   - "Psychology & Society  "
 draft: false
 ---
-
 The admission of a parent into a Residential Care Facility for Dependent Elderly People (EHPAD) can act as a catalyst in family dynamics. Sibling relationships undergo reevaluation. The responsibilities surrounding elder care — including emotional management and major decisions — can intensify existing family tensions or generate new conflicts.
 
 Aging is a natural process, but it is often accompanied by loss of autonomy and the need for appropriate care. When home-based support becomes insufficient, facility placement emerges as a necessary option, though it creates emotional turbulence involving guilt, grief, and occasionally relief.
