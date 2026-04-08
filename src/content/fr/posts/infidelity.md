@@ -28,9 +28,7 @@ La thérapie pour infidélité ne consiste pas à désigner un coupable, mais à
 
 Dans certains cas, l’infidélité devient un catalyseur de transformation. Un couple, après des années de routine, découvre que l’affaire a mis en lumière une stagnation qu’ils n’osaient plus nommer. Ils réintroduisent du mouvement, des projets, des désirs partagés. Dans d’autres situations, elle confirme une incompatibilité profonde. La thérapie permet alors une séparation consciente, respectueuse, où chacun peut reprendre sa route avec clarté.
 
-L’infidélité est un événement sismique, mais elle ne signe pas nécessairement la fin. Qu’elle mène à une réconciliation ou à une séparation, elle ouvre un espace d’évolution, de guérison et de lucidité. Le travail thérapeutique transforme la trahison en une opportunité de sens, permettant aux partenaires d’avancer — ensemble ou séparément — avec une conscience accrue de leurs besoins, de leurs limites et de leur désir.
-
-​
+L’infidélité est un événement sismique, mais elle ne signe pas nécessairement la fin. Qu’elle mène à une réconciliation ou à une séparation, elle ouvre un espace d’évolution, de guérison et de lucidité. Le travail thérapeutique transforme la trahison en une opportunité de sens, permettant aux partenaires d’avancer, ensemble ou séparément, avec une conscience accrue de leurs besoins, de leurs limites et de leur désir.
 
 Références
 
