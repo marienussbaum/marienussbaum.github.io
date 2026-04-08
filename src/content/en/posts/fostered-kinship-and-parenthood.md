@@ -10,9 +10,9 @@ categories:
   - Children
 draft: false
 ---
-Becoming a parent when one has been adopted is not merely a life transition; it is a psychic journey, a profound inner movement in which the foundations of bonding, origin, and transmission are revisited. Adoption is never confined to childhood — it resurfaces throughout adulthood, especially during transformative moments. The prospect of parenthood reactivates traces of abandonment, fantasies about origins, and questions about one’s ability to transmit love, history, and identity.
+Becoming a parent when one has been adopted is not merely a life transition; it is a psychic journey, a profound inner movement in which the foundations of bonding, origin, and transmission are revisited. Adoption is never confined to childhood. It resurfaces throughout adulthood, especially during transformative moments. The prospect of parenthood reactivates traces of abandonment, fantasies about origins, and questions about one’s ability to transmit love, history, and identity.
 
-Psychoanalytic theory conceptualizes filiation across several dimensions — biological, symbolic, psychic, and narrative — all of which adoption uniquely challenges. Biologically, uncertainty about one’s origins may provoke deep anxiety. As one expectant mother shared: “I don’t even know where I come from, so how will my baby know where they come from?” Symbolically, the legal and social framework provides legitimacy, yet does not guarantee psychological integration. A patient reflected: “Yes, I was adopted. I had a loving family… but I always felt something was missing.”
+Psychoanalytic theory conceptualizes filiation across several dimensions such as biological, symbolic, psychic, and narrative, all of which adoption uniquely challenges. Biologically, uncertainty about one’s origins may provoke deep anxiety. As one expectant mother shared: “I don’t even know where I come from, so how will my baby know where they come from?” Symbolically, the legal and social framework provides legitimacy, yet does not guarantee psychological integration. A patient reflected: “Yes, I was adopted. I had a loving family… but I always felt something was missing.”
 
 The psychic dimension concerns the intimate appropriation of the parental bond. An adopted woman confided: “I’m afraid I’ll be like the one who left me. It feels like there’s a flaw in me.” The narrative axis allows individuals to construct continuity, to rewrite their personal history through transmission. Parenthood becomes a space where these layers are reactivated, sometimes in conflict. As one man undergoing assisted reproduction said: “I need a child to prove that I belong to a lineage too.”
 
@@ -22,7 +22,7 @@ Clinically, the therapist’s role is to support symbolisation and narrative ela
 
 **​**
 
-**REFERENCES**
+REFERENCES
 
 Bydlowski, M. (2005). _La transparence psychique de la grossesse_. Paris, France : PUF.
 
