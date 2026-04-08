@@ -36,9 +36,7 @@ Ce jour-là, il ne s’agit pas d’une victoire sur le symptôme. Il s’agit d
 
 Et c’est peut-être cela, au fond, que permet le travail analytique : non pas de vérifier, mais de se vérifier. Non pas de contrôler, mais de comprendre. Non pas de rassurer, mais de transformer. Une manière de redonner au monde un peu de sa fluidité, et au sujet un peu de sa liberté.
 
-​
-
-**Références**&#x20;
+Références&#x20;
 
 Bion, W. R. (1962). _Aux sources de l’expérience_. Paris : PUF.
 Douglas, M. (1966). _De la souillure_. Paris : La Découverte.
