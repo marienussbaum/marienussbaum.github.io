@@ -1,6 +1,6 @@
 ---
 title: "Falling in Love via an App"
-date: 2024-05-01T00:00:00.000Z
+date: 2024-05-29T00:00:00.000Z
 description: "Presented at Saint-Anne Colloquium, May 2024"
 image: "/images/Applove.png"
 authors:
@@ -31,8 +31,6 @@ This leads to questions about how the body is engaged in virtual interactions. S
 
 Despite these differences, the similarities with in‑person encounters are striking. The search for a partner, sexual or romantic, often reflects early relational patterns. And although virtual interactions may seem more efficient or abundant, emotional experiences — excitement, hope, disappointment, grief — do not appear to differ significantly once the relationship is underway. The virtual, far from being a disaffected space, becomes a terrain where the same psychic dynamics unfold.
 
-​
-
 References&#x20;
 
 Döring, N. (2021). Digital sexual communication and intimacy. Journal of Sexual Research, 58(3), 257‑273.
@@ -48,5 +46,3 @@ Koessler, R., Kohut, T., & Campbell, L. (2019). When ghosting hurts: Emotional c
 Rosenfeld, M., Thomas, R., & Hausen, S. (2019). Disintermediating your friends: How online dating changed the nature of romantic relationships. PNAS, 116(36), 17753‑17758.
 
 Tisseron, S. (2018). The Power of Screens. Paris: Les Liens qui Libèrent.
-
-​
