@@ -4,7 +4,7 @@ description: "Exploration des dynamiques relationnelles, des blessures
   émotionnelles et des chemins de transformation dans la thérapie de couple, à
   travers les perspectives d'auteurs internationaux et des situations
   cliniques."
-date: 2025-11-01T00:00:00.000Z
+date: 2025-11-25T00:00:00.000Z
 authors:
   - Marie Nussbaum
 categories:
