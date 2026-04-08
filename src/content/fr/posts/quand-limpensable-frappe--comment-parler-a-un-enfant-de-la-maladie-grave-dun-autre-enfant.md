@@ -13,11 +13,11 @@ categories:
   - Maladies
 draft: false
 ---
-Un matin, un ami m’a appelée, la voix tremblante. Il venait d’apprendre que l’enfant de proches — un petit de trois ans, avec qui ses propres filles avaient joué quelques jours auparavant — était plongé dans un coma artificiel. Une maladie fulgurante, d’abord prise pour une infection banale, avait basculé en un péril vital. L’enfant ne respirait plus seul. Les médecins tentaient de le maintenir en vie. L’issue restait incertaine.
+Un matin, un ami m’a appelée, la voix tremblante. Il venait d’apprendre que l’enfant de proches (un petit de trois ans, avec qui ses propres filles avaient joué quelques jours auparavant) était plongé dans un coma artificiel. Une maladie fulgurante, d’abord prise pour une infection banale, avait basculé en un péril vital. L’enfant ne respirait plus seul. Les médecins tentaient de le maintenir en vie. L’issue restait incertaine.
 
-Mes amis étaient sous le choc. Ébranlés pour cet enfant, pour ses parents, mais aussi pour leurs trois filles âgées de quatre, neuf et onze ans. Comment leur parler de ce qui arrive ? Comment dire la tristesse, le choc, l’angoisse — sans s’effondrer, sans les submerger, mais sans mentir non plus ? Comment accompagner ce tremblement intérieur qui traverse les adultes et que les enfants, quels que soient leur âge, perçoivent toujours, même lorsque rien n’a encore été dit ?
+Mes amis étaient sous le choc. Ébranlés pour cet enfant, pour ses parents, mais aussi pour leurs trois filles âgées de quatre, neuf et onze ans. Comment leur parler de ce qui arrive ? Comment dire la tristesse, le choc, l’angoisse, sans s’effondrer, sans les submerger, mais sans mentir non plus ? Comment accompagner ce tremblement intérieur qui traverse les adultes et que les enfants, quels que soient leur âge, perçoivent toujours, même lorsque rien n’a encore été dit ?
 
-Il existe des nouvelles qui font vaciller le sol. Elles rappellent que la vie peut basculer en un souffle. Elles rappellent aussi que la mort n’est pas une idée abstraite : elle est la seule certitude de nos existences. Nous ne savons pas où nous vivrons, qui nous aimerons, combien d’enfants nous aurons, ni même ce que nous deviendrons. Mais nous savons ceci : nous mourrons tous un jour. Et cette certitude, les enfants la rencontrent tôt ou tard — parfois trop tôt.
+Il existe des nouvelles qui font vaciller le sol. Elles rappellent que la vie peut basculer en un souffle. Elles rappellent aussi que la mort n’est pas une idée abstraite : elle est la seule certitude de nos existences. Nous ne savons pas où nous vivrons, qui nous aimerons, combien d’enfants nous aurons, ni même ce que nous deviendrons. Mais nous savons ceci : nous mourrons tous un jour. Et cette certitude, les enfants la rencontrent tôt ou tard, parfois trop tôt.
 
 Les parents cherchent alors des mots qui ne trahissent ni la réalité, ni l’enfant, ni leur propre émotion. Un enfant ne demande pas des explications parfaites : il demande une présence vraie.
 
@@ -63,9 +63,9 @@ Et laisser la place à ses propres mots, à ses propres silences.
 
 Comme le rappelle Yalom, la confrontation à la mort — même indirecte — ouvre des questions existentielles profondes. L’enfant doit sentir qu’il peut les poser, sans avoir à porter celles des adultes.
 
-Et puis il y a les enfants qui ont des besoins spécifiques : difficultés cognitives, troubles du développement, particularités sensorielles, organisation psychique plus morcelée, temporalité interne différente. Pour eux, l’annonce ne peut être la même. La compréhension de la maladie grave ou de la mort dépend non seulement de l’âge, mais aussi des capacités de symbolisation, de la maturité affective, du rapport au réel, de la manière dont l’enfant pense — ou dont il peine à penser.
+Et puis il y a les enfants qui ont des besoins spécifiques : difficultés cognitives, troubles du développement, particularités sensorielles, organisation psychique plus morcelée, temporalité interne différente. Pour eux, l’annonce ne peut être la même. La compréhension de la maladie grave ou de la mort dépend non seulement de l’âge, mais aussi des capacités de symbolisation, de la maturité affective, du rapport au réel, de la manière dont l’enfant pense, ou dont il peine à penser.
 
-Les travaux de Peter Hobson, de Vikram Patel ou encore de l’équipe de l’Hôpital de Montréal pour enfants montrent que ces enfants peuvent intégrer l’information plus lentement, réagir plus tard — parfois des semaines ou des mois après — exprimer leur inquiétude par le comportement plutôt que par les mots, poser des questions répétitives pour apprivoiser l’idée, ou manifester une angoisse diffuse, sans lien apparent.
+Les travaux de Peter Hobson, de Vikram Patel ou encore de l’équipe de l’Hôpital de Montréal pour enfants montrent que ces enfants peuvent intégrer l’information plus lentement, réagir plus tard (parfois des semaines ou des mois après) exprimer leur inquiétude par le comportement plutôt que par les mots, poser des questions répétitives pour apprivoiser l’idée, ou manifester une angoisse diffuse, sans lien apparent.
 
 Avec eux, des mots simples, concrets, sans métaphores, peuvent être plus accessibles. Répéter, observer, accueillir peut être aidant. Il est possible que la question surgisse tardivement, au détour d’un jeu, d’un dessin, d’un silence. Et lorsque l’enfant trouve enfin la brèche pour demander :
 « Il est où, le petit garçon ? »
@@ -89,8 +89,6 @@ Accompagner un enfant dans ces moments, c’est lui transmettre ceci :
 La vie est fragile.
 La mort existe.
 Mais nous ne sommes pas seuls pour traverser ce qui nous effraie.
-
-​
 
 **Références**&#x20;
 
