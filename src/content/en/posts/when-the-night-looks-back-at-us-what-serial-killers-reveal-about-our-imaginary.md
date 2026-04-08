@@ -21,7 +21,7 @@ During my own work contributing to psychiatric assessments at the Psychiatric In
 
 Bénézech, in his work on forensic psychiatry, emphasized that expertise is neither defense nor accusation, but perspective. It allows us to distinguish psychotic violence from perverse violence, mental disorganization from structured intentionality. In certain trials, this distinction has been decisive. It has revealed that a subject, at the time of the act, no longer had access to reality, or that they acted under the grip of a delusion that held them captive. Where the press speaks of monsters, expertise speaks of structure, delirium, fragmentation, desubjectivation.
 
-What fascinates us in serial killers is not cruelty. It is the attempt to understand what, in another, has broken. It is the possibility of approaching the unthinkable without losing ourselves in it. It is the promise—perhaps illusory—that the enigma can be solved. That chaos can be ordered. That meaning can be found.
+What fascinates us in serial killers is not cruelty. It is the attempt to understand what, in another, has broken. It is the possibility of approaching the unthinkable without losing ourselves in it. It is the promise - perhaps illusory - that the enigma can be solved. That chaos can be ordered. That meaning can be found.
 
 In reality, meaning is never given. It is built. It is searched for. It is worked through. The expert does not deliver an absolute truth. They offer a reading, a hypothesis, a perspective. They attempt to restore to the subject a part of their humanity, even where the act seems to have erased it.
 
@@ -30,8 +30,6 @@ Perhaps we are drawn to stories of serial killers because they offer a bearable 
 Life is never so simple. But that is precisely why clinical work exists: to welcome what cannot be resolved, to hear what cannot be said, to illuminate what remains obscure. To remind us that behind every act, even the most unthinkable, there is a subject, a history, a wound, a fracture.
 
 And perhaps that is what draws us so deeply to these narratives: the possibility of looking at the night without being consumed by it. The possibility of understanding, just a little more, what in each of us still seeks a form of light.
-
-​
 
 **REFERENCES**&#x20;
 
