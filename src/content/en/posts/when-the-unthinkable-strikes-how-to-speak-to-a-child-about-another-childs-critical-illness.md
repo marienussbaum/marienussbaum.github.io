@@ -13,11 +13,11 @@ categories:
   - Illness
 draft: false
 ---
-One morning, a friend called me, his voice trembling. He had just learned that the child of close friends — a three‑year‑old with whom his own daughters had played only days earlier — had been placed in an induced coma. A sudden illness, first mistaken for a simple infection, had turned into a life‑threatening emergency. The child could no longer breathe on his own. Doctors were trying to keep him alive. The outcome remained uncertain.
+One morning, a friend called me, his voice trembling. He had just learned that the child of close friends - a three‑year‑old with whom his own daughters had played only days earlier - had been placed in an induced coma. A sudden illness, first mistaken for a simple infection, had turned into a life‑threatening emergency. The child could no longer breathe on his own. Doctors were trying to keep him alive. The outcome remained uncertain.
 
 My friends were in shock. Shaken for this child, for his parents, and also for their three daughters aged four, nine, and eleven. How could they speak to their children about what was happening? How could they express sadness, fear, and shock — without collapsing, without overwhelming them, but without lying either? How could they accompany this inner tremor that moves through adults and that children, at any age, always perceive, even when nothing has yet been said?
 
-Some news makes the ground shift. It reminds us that life can change in a breath. It also reminds us that death is not an abstract idea: it is the only certainty of our existence. We do not know where we will live, whom we will love, how many children we will have, or what we will become. But we know this: we will all die one day. And children encounter this truth sooner or later — sometimes too soon.
+Some news makes the ground shift. It reminds us that life can change in a breath. It also reminds us that death is not an abstract idea: it is the only certainty of our existence. We do not know where we will live, whom we will love, how many children we will have, or what we will become. But we know this: we will all die one day. And children encounter this truth sooner or later, sometimes too soon.
 
 Parents then search for words that do not betray reality, nor the child, nor their own emotional truth. A child does not need perfect explanations; a child needs a truthful presence.
 
@@ -61,11 +61,11 @@ At this age, a truthful presence can support her:
 “We are very sad. We are afraid. We hope. We are thinking of him.”
 And leaving room for her own words, her own silences.
 
-As Yalom notes, the confrontation with death — even indirectly — opens deep existential questions. The child must feel she can ask them, without having to carry those of the adults.
+As Yalom notes, the confrontation with death, even indirectly, opens deep existential questions. The child must feel she can ask them, without having to carry those of the adults.
 
-And then there are children with specific needs: cognitive difficulties, developmental disorders, sensory particularities, more fragmented psychic organization, different internal temporality. For them, the announcement cannot be the same. Understanding serious illness or death depends not only on age, but also on symbolic capacities, emotional maturity, relationship to reality, and the way the child thinks — or struggles to think.
+And then there are children with specific needs: cognitive difficulties, developmental disorders, sensory particularities, more fragmented psychic organization, different internal temporality. For them, the announcement cannot be the same. Understanding serious illness or death depends not only on age, but also on symbolic capacities, emotional maturity, relationship to reality, and the way the child thinks, or struggles to think.
 
-The work of Peter Hobson, Vikram Patel, and the team at the Montreal Children’s Hospital shows that these children may integrate information more slowly, react later — sometimes weeks or months later — express worry through behavior rather than words, ask repetitive questions to tame the idea, or show diffuse anxiety without apparent link.
+The work of Peter Hobson, Vikram Patel, and the team at the Montreal Children’s Hospital shows that these children may integrate information more slowly, react later  (sometimes weeks or months later) express worry through behavior rather than words, ask repetitive questions to tame the idea, or show diffuse anxiety without apparent link.
 
 With them, simple, concrete words without metaphors may be more accessible. Repeating, observing, welcoming can be helpful. The question may arise late, in the middle of a game, a drawing, a silence. And when the child finally finds the opening to ask:
 “Where is the little boy?”
@@ -89,8 +89,6 @@ Accompanying a child in such moments is teaching this:
 Life is fragile.
 Death exists.
 But we do not face what frightens us alone.
-
-​
 
 **References**&#x20;
 
