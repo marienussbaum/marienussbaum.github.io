@@ -39,9 +39,7 @@ Winnicott spoke of the capacity to be alone in the presence of another. Perhaps 
 
 At seventy, at eighty, the couple is no longer a project. It is a work. A living, fragile, sometimes rough work, but profoundly human. And within this humanity, there is still movement, desire, conflict, care. There is still life.
 
-​
-
-**References**&#x20;
+References&#x20;
 
 Baltes, P. B., & Baltes, M. M. (1990). _Successful aging_. Cambridge University Press.
 Beauvoir, S. de. (1970). _Old age_. Gallimard.
