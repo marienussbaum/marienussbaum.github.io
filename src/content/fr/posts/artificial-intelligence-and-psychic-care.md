@@ -1,5 +1,5 @@
 ---
-title: "Intelligence artificielle et soin psychique"
+title: "Intelligence artificielle et soin psychique : une rencontre à interroger"
 description: "Une réflexion sur la rencontre entre l'intelligence artificielle
   et le champ thérapeutique, interrogeant les apports et les limites éthiques de
   cette articulation."
