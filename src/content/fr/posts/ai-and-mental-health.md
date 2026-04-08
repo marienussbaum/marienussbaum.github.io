@@ -12,8 +12,6 @@ categories:
 draft: false
 image: "/images/AI psychiccare.png"
 ---
-Une perspective clinique et philosophique.&#x20;
-
 L’intelligence artificielle (IA) s’impose aujourd’hui comme un outil incontournable dans de nombreux domaines, y compris celui de la santé mentale. Si son intégration suscite des débats éthiques et philosophiques, elle ouvre également des perspectives inédites pour accompagner les patients, notamment dans des contextes où l’accès aux soins est limité ou les relations humaines sont entravées.
 
 La demande en soins psychologiques dépasse largement les capacités des systèmes de santé actuels. Selon une revue systématique publiée dans _BMC Psychiatry_, l’IA peut jouer un rôle clé dans l’identification précoce des troubles mentaux, l’intervention rapide et la personnalisation des traitements. Des outils comme les chatbots (par exemple, Wysa ou Woebot) offrent un soutien immédiat aux patients souffrant d’anxiété ou de dépression, en complément des consultations traditionnelles.
