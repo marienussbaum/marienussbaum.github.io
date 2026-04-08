@@ -33,9 +33,7 @@ Les dynamiques familiales se rejouent dans tous les contextes. La possibilité d
 
 Cela conduit à interroger la manière dont le corps est engagé dans les interactions virtuelles. L’excitation somatique peut surgir sans présence physique, et les émotions peuvent être déclenchées sans regard direct. Comme l’a montré Döring (2021), la communication écrite peut devenir un espace d’érotisation, où l’imaginaire supplée le corps absent. Le corps numérique devient alors un corps fantasmé, un corps en creux, mais non moins actif dans la vie psychique.
 
-Pourtant, malgré les différences apparentes, les similitudes avec les rencontres réelles sont nombreuses. Le parcours de recherche d’un partenaire, qu’il soit sexuel ou amoureux, reflète souvent les schémas relationnels précoces. Et si l’on pourrait croire que les interactions virtuelles offrent plus d’efficacité ou de choix, les expériences émotionnelles — excitation, espoir, déception, deuil — ne semblent pas différer significativement une fois la relation engagée. Le virtuel, loin d’être un espace désaffecté, devient un terrain où se rejouent les mêmes enjeux psychiques que dans la rencontre incarnée.
-
-​
+Pourtant, malgré les différences apparentes, les similitudes avec les rencontres réelles sont nombreuses. Le parcours de recherche d’un partenaire, qu’il soit sexuel ou amoureux, reflète souvent les schémas relationnels précoces. Et si l’on pourrait croire que les interactions virtuelles offrent plus d’efficacité ou de choix, les expériences émotionnelles (excitation, espoir, déception, deuil) ne semblent pas différer significativement une fois la relation engagée. Le virtuel, loin d’être un espace désaffecté, devient un terrain où se rejouent les mêmes enjeux psychiques que dans la rencontre incarnée.
 
 Références&#x20;
 
