@@ -3,7 +3,7 @@ title: "Douance et Tests de QI"
 description: "Article explorant l'accompagnement psychologique de la douance
   au-delà des simples résultats de tests de QI, mettant l'accent sur une
   compréhension globale et contextuelle du fonctionnement intellectuel."
-date: 2024-11-01T00:00:00.000Z
+date: 2024-11-10T00:00:00.000Z
 authors:
   - Marie Nussbaum
 categories:
@@ -26,8 +26,6 @@ Notre approche dépasse l’individu en intégrant l’environnement familial, s
 Une relation thérapeutique solide est essentielle pour ce processus. Créer un espace de confiance permet aux patients d’exprimer leurs ressentis, leurs doutes, leurs aspirations. Pour les adultes, cela inclut l’affirmation de soi, la gestion du stress, la régulation émotionnelle. Pour les enfants, un partenariat avec les parents et les enseignants permet d’ajuster les attentes, de soutenir la motivation, et de prévenir l’épuisement ou le décrochage.
 
 Les résultats des tests n’ont de sens que lorsqu’ils sont intégrés dans une perspective globale et contextualisée. Notre rôle consiste à accompagner chaque patient dans la compréhension de sa douance, en lien avec les défis et les opportunités de son quotidien, et à lui fournir des outils pour valoriser son potentiel unique. La douance n’est pas un label, mais un chemin de compréhension de soi.
-
-​
 
 Références
 
