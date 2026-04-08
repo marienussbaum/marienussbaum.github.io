@@ -1,6 +1,6 @@
 ---
 title: "Infidelity: decoding the crisis to evolve and heal "
-date: 2025-03-01T00:00:00.000Z
+date: 2025-03-03T00:00:00.000Z
 description: "Decoding the crisis for growth and healing"
 image: "/images/Infidelite.png"
 authors:
