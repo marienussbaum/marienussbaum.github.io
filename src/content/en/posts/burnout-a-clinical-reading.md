@@ -1,6 +1,6 @@
 ---
-title: "Burnout: A Clinical Reading"
-date: 2025-06-01T00:00:00.000Z
+title: "Burnout: A Clinical Reading, between Exhaustion and Subjective Collapse"
+date: 2025-06-21T00:00:00.000Z
 description: "Between Exhaustion and Subjective Collapse"
 image: "/images/burnout.png"
 authors:
@@ -9,12 +9,11 @@ categories:
   - Burn-out
 draft: false
 ---
-
 Burnout is often reduced to a synonym for work stress. But examined through a psychoanalytic lens, it reveals itself as something far more personal: not a uniform condition, but a constellation of signs shaped by the individual's history.
 
 ## Three Clinical Vignettes
 
-**Julien**, a middle-aged executive, describes emotional numbness despite outward productivity: *"I tick all the boxes, but I no longer feel anything."* The machine runs — but there is no one at the wheel.
+**Julien**, a middle-aged executive, describes emotional numbness despite outward productivity: _"I tick all the boxes, but I no longer feel anything."_ The machine runs — but there is no one at the wheel.
 
 **Claire**, a nurse, describes a sudden bodily refusal to continue. Where words had failed, the body spoke. This moment can be read as a conflict between an idealized self-image — the one who never breaks, who always gives — and the reality of human limits.
 
