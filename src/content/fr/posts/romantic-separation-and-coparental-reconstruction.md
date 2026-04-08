@@ -11,9 +11,9 @@ categories:
 draft: false
 image: "/images/Parentsepares.png"
 ---
-Dans ma pratique clinique, j’accueille de nombreux parents en transition, confrontés aux remaniements qu’implique une séparation. Ce qui revient souvent, ce sont des enfants pris dans des conflits parentaux, parfois latents, parfois ouverts, où chacun cherche à faire entendre son récit, sa légitimité, sa douleur. L’enfant devient alors, consciemment ou non, le vecteur d’un conflit non élaboré. Ce texte propose une lecture psychanalytique de ces situations, pour penser autrement le lien parental après la rupture.
+Dans ma pratique clinique, j’accueille de nombreux parents en transition, confrontés aux remaniements qu’implique une séparation. Ce qui revient souvent, ce sont des enfants pris dans des conflits parentaux, parfois latents, parfois ouverts, où chacun cherche à faire entendre son récit, sa légitimité, sa douleur. L’enfant devient alors, consciemment ou non, le vecteur d’un conflit non élaboré. Alors, peut-on penser autrement le lien parental après la rupture ?
 
-La séparation du couple parental engage des transformations profondes. Elle ne se réduit ni à un événement juridique, ni à une décision affective : elle opère une reconfiguration psychique des investissements et des représentations. Chaque parent doit désengager son lien conjugal, tout en maintenant une coparentalité viable. Ce processus réactive souvent des affects intenses : colère, tristesse, sentiment d’échec, blessure narcissique — mais aussi des angoisses plus primitives, liées à la peur d’abandon ou à la perte d’un objet d’amour. Ces vécus archaïques peuvent ressurgir à travers les modalités pratiques, ravivant des expériences précoces non élaborées.
+La séparation du couple parental engage des transformations profondes. Elle ne se réduit ni à un événement juridique, ni à une décision affective : elle opère une reconfiguration psychique des investissements et des représentations. Chaque parent doit désengager son lien conjugal, tout en maintenant une coparentalité viable. Ce processus réactive souvent des affects intenses : colère, tristesse, sentiment d’échec, blessure narcissique, mais aussi des angoisses plus primitives, liées à la peur d’abandon ou à la perte d’un objet d’amour. Ces vécus archaïques peuvent ressurgir à travers les modalités pratiques, ravivant des expériences précoces non élaborées.
 
 Une mère, récemment séparée, vit la réorganisation des horaires de garde comme une mise à l’écart. Elle exprime que « le père décide tout seul », et ajoute « comme si je n’existais plus dans l’histoire de mon fils ». Ce vécu de relégation révèle une blessure narcissique, mais aussi une angoisse d’effacement : celle d’être rayée du récit symbolique de l’enfant, comme si sa place de mère devenait vacillante.
 
@@ -27,11 +27,9 @@ Un garçon de 7 ans commence à parler de lui à la troisième personne après l
 
 Dans cette dynamique complexe, le clinicien joue une fonction de tiers contenant. Il offre un espace d’élaboration des pertes, soutient la mise en sens des affects, et accompagne le passage d’un lien conjugal désinvesti vers une parentalité symbolisée. Cette position ne vise pas à réconcilier les adultes, mais à restaurer des modalités d’échange où chacun peut reconnaître l’autre comme co-parent, porteur d’une fonction essentielle dans l’économie psychique de l’enfant.
 
-Ce que je vois en séance, ce sont des familles en transition, traversées par des mouvements profonds — parfois blessées, souvent désorganisées, mais jamais figées. Mon rôle consiste à accueillir cette complexité, à contenir les projections, et à soutenir l’émergence d’un nouvel espace parental. La psychanalyse ne propose pas de solution technique, mais elle permet de lire les fantômes relationnels, les scénarios œdipiens réactivés, les peurs d’abandon et les luttes narcissiques qui rejouent leur partition dans le présent. Elle ouvre la voie à une coparentalité vivante, capable de se recomposer hors du champ du conflit.
+Ce que je vois en séance, ce sont des familles en transition, traversées par des mouvements profonds, parfois blessées, souvent désorganisées, mais jamais figées. Mon rôle consiste à accueillir cette complexité, à contenir les projections, et à soutenir l’émergence d’un nouvel espace parental. La psychanalyse ne propose pas de solution technique, mais elle permet de lire les fantômes relationnels, les scénarios œdipiens réactivés, les peurs d’abandon et les luttes narcissiques qui rejouent leur partition dans le présent. Elle ouvre la voie à une coparentalité vivante, capable de se recomposer hors du champ du conflit.
 
 Pour que l’enfant ne devienne pas le témoin du conflit, mais reste au cœur du soin et du lien, il importe de maintenir un espace psychique partagé, où chaque parent peut continuer d’exister — non dans la douleur de la séparation, mais dans la responsabilité d’un avenir à construire.
-
-​
 
 Références
 
