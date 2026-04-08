@@ -27,9 +27,7 @@ Ainsi, lorsque l’un accuse l’autre en disant « _your precious_ », il par
 
 L’enfant, lui, continue de pousser, de chercher sa lumière, de déployer ses feuilles. Il ne demande pas un tuteur, mais un climat. Il ne demande pas d’être possédé, mais d’être accompagné. Il ne demande pas d’être précieux pour l’un contre l’autre, mais d’être accueilli par deux présences capables de se reconnaître mutuellement.
 
-Et c’est précisément parce qu’il pousse selon sa propre logique — libre, imprévisible, vivant — qu’il est précieux.
-
-​
+Et c’est précisément parce qu’il pousse selon sa propre logique, libre, imprévisible, vivant, qu’il est précieux.
 
 **Références (APA – version française)**
 
