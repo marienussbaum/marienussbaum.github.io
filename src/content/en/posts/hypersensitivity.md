@@ -10,11 +10,9 @@ categories:
   - Daily Psych
 draft: false
 ---
-**A reflection in the service of patients.**&#x20;
-
 In my clinical practice, the term “high sensitivity” appears frequently in the narratives of my patients. Many identify themselves as “highly sensitive,” often through spontaneous self‑diagnosis. Although widely used, the term covers very different realities and can serve multiple functions in a patient’s discourse.
 
-Far from being a pathological label or a clinical symptom, high sensitivity is for me a valuable indicator — an entry point to explore what, in the patient, manifests as anxiety, overwhelm or emotional intensity.
+Far from being a pathological label or a clinical symptom, high sensitivity is for me a valuable indicator such as an entry point to explore what, in the patient, manifests as anxiety, overwhelm or emotional intensity.
 
 When a patient tells me they are highly sensitive, it often reflects an emotional or sensory overflow they cannot yet define precisely. This intense experience is neither a medical diagnosis nor a sign of superior intelligence. It is a singular expression of their inner world, revealing a particular way of perceiving and reacting to their environment. My work is to go beyond the label and understand what high sensitivity means within their personal history.
 
@@ -28,11 +26,9 @@ In therapy, high sensitivity is not an endpoint but a starting point. My role is
 
 This work involves identifying emotional or sensory triggers, soothing overwhelm through mindfulness, breathing or relaxation techniques, and giving structure and meaning to this sensitivity in light of the patient’s personal history.
 
-Research on Highly Sensitive People (HSP), notably by Elaine Aron, has shown that high sensitivity is often associated with increased neurological activation, particularly in the amygdala, which regulates emotional responses. These findings offer valuable scientific insight, but they must not overshadow the uniqueness of each individual experience. Authors such as Thomas d’Ansembourg invite us to move beyond the label and return to emotional authenticity — a perspective that can be integrated with nuance.
+Research on Highly Sensitive People (HSP), notably by Elaine Aron, has shown that high sensitivity is often associated with increased neurological activation, particularly in the amygdala, which regulates emotional responses. These findings offer valuable scientific insight, but they must not overshadow the uniqueness of each individual experience. Authors such as Thomas d’Ansembourg invite us to move beyond the label and return to emotional authenticity such as a perspective that can be integrated with nuance.
 
-High sensitivity is neither a weakness nor a pathology; it is a rich and complex human characteristic. For the clinician, it is a key that helps understand and support the specific forms of anxiety and anguish experienced by the patient. Through attentive listening and a structured therapeutic frame, this sensitivity — sometimes overwhelming — can become a resource that illuminates the patient’s functioning, self‑perception and relationships.
-
-​
+High sensitivity is neither a weakness nor a pathology; it is a rich and complex human characteristic. For the clinician, it is a key that helps understand and support the specific forms of anxiety and anguish experienced by the patient. Through attentive listening and a structured therapeutic frame, this sensitivity - sometimes overwhelming - can become a resource that illuminates the patient’s functioning, self‑perception and relationships.
 
 References
 
@@ -40,5 +36,3 @@ Aron, E. (1996). _The Highly Sensitive Person_. Broadway Books.
 D’Ansembourg, T. (2001). _Cessez d’être gentil, soyez vrai_. Les Éditions de l’Homme.
 Bowlby, J. (1988). _A Secure Base_. Routledge.
 Sifneos, P. (1973). The prevalence of alexithymic characteristics. _Psychotherapy and Psychosomatics, 22_(2), 255‑262.
-
-​
