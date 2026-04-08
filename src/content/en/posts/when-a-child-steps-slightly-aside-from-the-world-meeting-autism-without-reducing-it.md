@@ -29,15 +29,13 @@ Play is often our first language. A simple play, slow, attuned. A play in which 
 
 With a three‑year‑old child, care passes through tiny things: a block placed next to his, a sound imitated, a shared rhythm, a respected silence. Sometimes the child lets us enter his play. Sometimes not. But every attempt matters. Every micro‑encounter is a beginning.
 
-Parental guidance is essential. Parents need support, reassurance, accompaniment. They need to hear that they are not responsible for what is happening, but that they are essential for what will unfold. They need to be shown how to slow down, how to observe, how to adjust their presence. They need to regain confidence in their ability to be the parents of this child — not of an imaginary child.
+Parental guidance is essential. Parents need support, reassurance, accompaniment. They need to hear that they are not responsible for what is happening, but that they are essential for what will unfold. They need to be shown how to slow down, how to observe, how to adjust their presence. They need to regain confidence in their ability to be the parents of this child, not of an imaginary child.
 
 Autism is not a wall. It is a language. A language sometimes silent, sometimes disconcerting, sometimes fragmented. But a language. And like any language, it can be heard, understood, accompanied.
 
 In the northern districts, where life is often harsh, where families are sometimes isolated, where resources are scarce, this work is all the more precious. It is about restoring nuance where the world offers labels. Restoring time where everything moves too fast. Restoring confidence where fear has taken too much space.
 
 And above all, it is about giving the child the possibility of being a child. A child who plays, who explores, who protects himself, who moves at his own rhythm. A child who, one day, perhaps, will look at us a little longer. A child who, always, deserves to be met.
-
-​
 
 **REFERENCES**&#x20;
 
