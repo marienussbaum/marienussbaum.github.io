@@ -4,7 +4,7 @@ description: "Une exploration transculturelle et psychanalytique montrant
   comment les rituels collectifs agissent comme dispositifs thérapeutiques face
   au trauma, à travers des exemples de traditions culturelles diverses et leur
   fonction de catharsis communautaire."
-date: 2025-09-01T00:00:00.000Z
+date: 2025-09-08T00:00:00.000Z
 authors:
   - Marie Nussbaum
 categories:
