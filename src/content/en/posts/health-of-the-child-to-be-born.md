@@ -11,21 +11,16 @@ categories:
   - Babies
 draft: false
 ---
+Pregnancy is a period of profound transformation, marked by physical, emotional, and psychological changes. For some women, this time can be accompanied by stress and anxiety, which may affect not only their own mental health but also that of their unborn child.
 
-Pregnancy is a period of profound transformation, marked by physical, emotional, and psychological changes. For some women, this period can be accompanied by stress and anxiety, which can have repercussions on their own mental health as well as that of their unborn child.
+Psychoanalyst Daniel Stern introduced the concept of _“psychic transparency”_ to describe a state of heightened emotional vulnerability and increased receptivity to unconscious thoughts and feelings during pregnancy. This vulnerability makes pregnant women more sensitive to stressors and negative emotions, with potential consequences for both maternal and fetal mental health. Appropriate psychological support therefore becomes essential for expectant mothers experiencing psychological difficulties. The central question remains: how does parental mental health shape the developmental trajectory of the unborn child?
 
-Psychoanalyst Daniel Stern refers to the term "psychic transparency" to describe the state of emotional vulnerability and heightened receptivity to emotions and unconscious thoughts during pregnancy. This transparency can make pregnant women more sensitive to stress and negative emotions, which can affect their mental health and that of their baby.
+A major scientific study examines different forms of prenatal stress in pregnant women and their impact on neurodevelopment. The research identifies three distinct profiles: a healthy group, a psychologically stressed group, and a physically stressed group. The findings show that prenatal stress can influence the baby’s sex at birth, birth complications, and the development of the fetal central nervous system.
 
-## Prenatal Stress and Fetal Development
+Another study focusing on microRNAs shows that disruptions in their maturation may have significant implications for understanding various diseases, including cancers and neurodegenerative disorders. MicroRNAs are non‑coding RNA molecules that play a crucial role in gene regulation.
 
-The scientific article "Maternal prenatal stress phenotypes associate with fetal neurodevelopment and birth outcomes" explores the various types of prenatal stress in pregnant women and their impacts on fetal neurodevelopment and birth outcomes. Researchers identified three prenatal stress profiles: the healthy group (HG), the psychologically stressed group (PSYG), and the physically stressed group (PHSG). The results show that prenatal stress can influence birth sex, birth complications, and the development of the fetus's central nervous system.
+Genomic imprinting (an epigenetic mechanism in which the expression of certain genes depends on their parental origin) has considerable effects on future disease pathways. In humans, around 100 to 200 genes are subject to imprinting, influencing fetal growth and placental development. Dysfunctions in this mechanism can lead to genetic syndromes, developmental abnormalities, and certain cancers.
 
-## Epigenetic Dimensions
+Epigenetic abnormalities are associated with growth syndromes, some cancers, neurodegenerative diseases, and metabolic disorders such as diabetes and obesity.
 
-Research on microRNA maturation regulation demonstrates that disruptions in this process could have significant implications for understanding various diseases, including cancers and neurodegenerative diseases. MicroRNAs are small non-coding RNA molecules that play a crucial role in regulating gene expression.
-
-Another research area involves genomic imprinting, an epigenetic mechanism where the expression of certain genes depends on their parental origin. Anomalies in this mechanism could lead to genetic syndromes, developmental anomalies, and certain cancers — specifically, growth syndromes, certain cancers via abnormal methylation, neurodegenerative diseases, and metabolic disorders such as diabetes and obesity.
-
-## The Importance of Psychological Support
-
-It is important to continue research in this area longitudinally, to better understand and prevent these conditions by also measuring the mental health of parents. In parallel, it also seems essential to provide adequate psychological support to pregnant women to mitigate the negative effects of prenatal stress. This psychological support allows the detection and treatment of mental disorders — such as anxiety and depression — that may occur during pregnancy, and helps develop a healthy and harmonious mother-child relationship.
+Genomic imprinting therefore plays a fundamental role in normal development and overall health. In‑depth longitudinal research is needed to better understand and prevent these conditions, while also assessing parental mental health. At the same time, providing appropriate psychological support to pregnant women helps mitigate the negative effects of prenatal stress. Such support allows clinicians to detect and treat mental health issues like anxiety and depression during pregnancy, fostering healthy and harmonious development for both mother and child.
