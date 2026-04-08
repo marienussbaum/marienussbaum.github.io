@@ -29,7 +29,7 @@ L’enfant, lui, continue de pousser, de chercher sa lumière, de déployer ses 
 
 Et c’est précisément parce qu’il pousse selon sa propre logique, libre, imprévisible, vivant, qu’il est précieux.
 
-**Références (APA – version française)**
+Références&#x20;
 
 Arendt, H. (1958). _Condition de l’homme moderne_. Presses universitaires de France.
 Lacan, J. (1966). _Écrits_. Seuil.
