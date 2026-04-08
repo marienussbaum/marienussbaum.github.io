@@ -3,7 +3,7 @@ title: "Intelligence artificielle et soin psychique : une rencontre à interroge
 description: "Une réflexion sur la rencontre entre l'intelligence artificielle
   et le champ thérapeutique, interrogeant les apports et les limites éthiques de
   cette articulation."
-date: 2025-07-01T00:00:00.000Z
+date: 2025-07-17T00:00:00.000Z
 authors:
   - Marie Nussbaum
 categories:
