@@ -23,9 +23,9 @@ Irvin Yalom rappelait que les couples de longue durée sont des « laboratoires 
 
 Du point de vue psychanalytique, le réel du corps fait retour. Lacan soulignait que le corps n’est jamais un simple organisme : il est un lieu de jouissance, de perte, de manque — un partenaire imprévisible, qui ne se laisse pas dompter. À quatre-vingts ans, ce réel s’impose. Et ce partenaire là, on ne peut ni le séduire, ni le convaincre, ni le maîtriser. On doit composer avec lui.
 
-Freud, dans _De la caducité_, rappelait que la fragilité des choses aimées — leur caractère périssable — intensifie parfois l’attachement autant qu’elle le menace. Vieillir à deux, c’est aussi cela : sentir que le temps devient palpable, que le lien se charge d’une gravité nouvelle.
+Freud, dans _De la caducité_, rappelait que la fragilité des choses aimées, leur caractère périssable, intensifie parfois l’attachement autant qu’elle le menace. Vieillir à deux, c’est aussi cela : sentir que le temps devient palpable, que le lien se charge d’une gravité nouvelle.
 
-L’irritabilité du conjoint âgé n’est pas seulement biologique. Elle peut être une défense contre l’effroi de la vulnérabilité, une manière de tenir à distance la peur de la chute, de la dépendance, de la disparition. Erik Erikson parlait, dans les derniers stades de la vie, d’un travail psychique autour de l’intégrité et du désespoir — un équilibre fragile où l’irritabilité peut masquer une inquiétude plus profonde.
+L’irritabilité du conjoint âgé n’est pas seulement biologique. Elle peut être une défense contre l’effroi de la vulnérabilité, une manière de tenir à distance la peur de la chute, de la dépendance, de la disparition. Erik Erikson parlait, dans les derniers stades de la vie, d’un travail psychique autour de l’intégrité et du désespoir comme un équilibre fragile où l’irritabilité peut masquer une inquiétude plus profonde.
 
 Elle, de son côté, oscille entre patience et fatigue. Elle a parfois gagné en liberté intérieure ce qu’elle a perdu en puissance physique. Elle peut accueillir, mais elle peut aussi se lasser. Car ce qui se joue là n’est pas seulement hormonal ou physiologique : c’est une redistribution des rôles, une réécriture du pacte conjugal.
 
