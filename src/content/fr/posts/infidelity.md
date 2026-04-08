@@ -1,9 +1,9 @@
 ---
-title: "L'infidélité"
+title: "L'infidélité : décoder la crise pour évoluer et guérir"
 description: "Décoder la crise pour évoluer et guérir — Exploration de
   l'infidélité comme signal relationnel offrant une opportunité de
   transformation, de réconciliation ou de séparation consciente."
-date: 2025-03-01T00:00:00.000Z
+date: 2025-03-03T00:00:00.000Z
 authors:
   - Marie Nussbaum
 categories:
@@ -12,8 +12,6 @@ categories:
 draft: false
 image: "/images/Infidelite.png"
 ---
-**Décoder la crise pour évoluer et guérir.**&#x20;
-
 L’infidélité représente l’un des défis les plus complexes auxquels un couple peut être confronté. Au‑delà de la culpabilité souvent ressentie par la personne qui commet l’acte et du profond sentiment de trahison vécu par le ou la partenaire, cette situation peut devenir un moment de bascule, un appel à interroger ce qui, dans le lien, s’est figé, perdu ou déplacé. L’acte, l’annonce, la crise qui s’ensuit ouvrent un espace où quelque chose peut se dire autrement.
 
 Dans ma pratique, j’accueille des personnes qui viennent seules, parfois dévastées par la découverte d’une infidélité, parfois rongées par la culpabilité d’avoir transgressé. L’un me dit : « Je ne comprends pas ce qui m’a pris », une autre : « Je ne sais plus qui je suis depuis que j’ai découvert son message ». Certains couples arrivent ensemble, oscillant entre colère, honte, besoin de comprendre et peur de perdre l’autre. L’infidélité devient alors un révélateur : elle met en lumière des zones d’ombre, des besoins non formulés, des blessures anciennes.
