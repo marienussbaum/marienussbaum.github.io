@@ -20,7 +20,7 @@ Two years of waiting to recover the body of a parent. Two years without a ceremo
 
 Freud wrote that the work of mourning consists in gradually withdrawing the psychic investment from the deceased in order to redirect it toward life. But how can this work unfold when the body is not there? When there is no place to go? When there is no moment to gather? When time itself seems suspended?
 
-Winnicott spoke of the importance of transitional objects and gestures that allow the child — and the adult — to symbolize what is missing. The funeral ritual is one of these objects. It creates a passage. It transforms death into a psychic event. It allows one to say, “It happened.” It allows one to begin thinking what, without this, remains unthinkable.
+Winnicott spoke of the importance of transitional objects and gestures that allow the child, and the adult,  to symbolize what is missing. The funeral ritual is one of these objects. It creates a passage. It transforms death into a psychic event. It allows one to say, “It happened.” It allows one to begin thinking what, without this, remains unthinkable.
 
 When the body is donated to science, this passage is interrupted. The parent’s gesture, often generous, sometimes militant, can be experienced by the children as a kind of dispossession. Not because they oppose the donation, but because they no longer have access to what, for them, would have allowed the separation to begin. Dolto reminded us that the body of the deceased is not only a biological body: it is a symbolic support, a last link, a final message.
 
