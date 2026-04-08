@@ -1,6 +1,6 @@
 ---
 title: "Couple Therapy: Between Love, Attachment, and Repair"
-date: 2025-11-01T00:00:00.000Z
+date: 2025-11-25T00:00:00.000Z
 description: "Psychology Couple therapy"
 image: "/images/Therapiecouple.png"
 authors:
