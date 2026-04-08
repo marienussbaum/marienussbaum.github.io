@@ -30,13 +30,11 @@ Parfois, un enfant a comme un bouchon dans la bouche. Quelque chose qui l’emp�
 
 Le travail d’accompagnement consiste alors à déplier cette énigme. À rencontrer l’enfant là où il en est. À l’observer jouer, dessiner, inventer, se cacher, revenir. Le jeu, comme le rappelait Winnicott, est le premier espace de soin. C’est là que l’enfant montre ce qu’il ne peut pas dire. C’est là qu’il rejoue ses peurs, ses conflits, ses désirs. C’est là qu’il nous invite, parfois timidement, à entrer dans son monde.
 
-L’accompagnement se fait toujours en équipe. Les psychologues, les pédopsychiatres, les enseignants, les éducateurs, les orthophonistes, les psychomotriciens, chacun apporte une pièce du puzzle. Aucun ne détient la vérité. Tous cherchent à comprendre. Tous cherchent à soutenir l’enfant dans son développement, quel que soit le nom que l’on mettra — ou non — sur ses difficultés.
+L’accompagnement se fait toujours en équipe. Les psychologues, les pédopsychiatres, les enseignants, les éducateurs, les orthophonistes, les psychomotriciens, chacun apporte une pièce du puzzle. Aucun ne détient la vérité. Tous cherchent à comprendre. Tous cherchent à soutenir l’enfant dans son développement, quel que soit le nom que l’on mettra (ou non) sur ses difficultés.
 
 Pour les parents, l’enjeu est immense. Ils doivent apprendre à regarder leur enfant autrement, à entendre ce qu’il tente de dire, à ne pas se laisser écraser par les mots qui circulent trop vite. Ils doivent accepter que le diagnostic, s’il vient un jour, ne sera jamais une fin, mais un début. Ils doivent être accompagnés, soutenus, reconnus dans leurs doutes, leurs peurs, leurs épuisements.
 
 Un enfant n’est jamais un trouble. Il est un sujet en devenir. Un sujet qui cherche sa place. Un sujet qui, parfois, se cogne au monde. Un sujet qui, toujours, mérite qu’on prenne le temps de le rencontrer.
-
-​
 
 **RÉFÉRENCES**&#x20;
 
