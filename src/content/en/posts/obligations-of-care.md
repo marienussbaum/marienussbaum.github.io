@@ -1,6 +1,7 @@
 ---
-title: "The Obligation of Care in France"
-date: 2025-02-01T00:00:00.000Z
+title: "The Obligation of Care in France: Between legal constraint and
+  therapeutic transformation"
+date: 2025-02-18T00:00:00.000Z
 description: "Between legal constraint and therapeutic transformation"
 image: "/images/ObligationSoin.png"
 authors:
@@ -10,11 +11,9 @@ categories:
   - Healing
 draft: false
 ---
-**Between Legal Constraint and Therapeutic Process**
+In France, mandatory treatment is a legal measure requiring an individual to follow medical or psychological care, often as part of a judicial decision. This constraint, defined in Article 132‑45 of the French Penal Code, may be imposed before or after sentencing and applies to various conditions, particularly psychiatric disorders or addictions. It places the person in a paradoxical position: being sent to therapy without having chosen it.
 
-In France, mandatory treatment is a legal measure requiring an individual to follow medical or psychological care, often as part of a judicial decision. This constraint, defined in Article 132‑45 of the Penal Code, may be imposed before or after sentencing and applies to various conditions, particularly psychiatric disorders or addictions. It places the person in a paradoxical position: being sent to therapy without having chosen it.
-
-In private practice, where many of these patients arrive due to the lack of institutional availability, the first sentence is often the same: “I’m here because I have to be.” It carries resistance, fatigue, sometimes anger — but also a possible opening. Behind the constraint, there is often a story, a symptom, a suffering that has not yet found words.
+In my private practice, where many of these patients arrive due to the lack of institutional availability, the first sentence is often the same: “I’m here because I have to be.” It carries resistance, fatigue, sometimes anger — but also a possible opening. Behind the constraint, there is often a story, a symptom, a suffering that has not yet found words.
 
 In 2023, healthcare spending in France reached 325 billion euros, with a significant increase in outpatient care. Yet psychiatric institutions struggle to meet the growing demand. Many patients under mandatory treatment turn to private practitioners, who become the first witnesses of this tension: welcoming someone who did not choose to be there, while offering a space where something meaningful may occur.
 
@@ -32,8 +31,6 @@ Transforming obligation into voluntary engagement is a challenge, but also an op
 
 Thus, mandatory treatment, far from being an obstacle, can become a lever for revealing a deeper need, often buried beneath initial resistance. This is the art of therapy: turning constraint into openness, and obligation into possibility.
 
-​
-
 References
 
 Penal Code, art. 132‑45.
@@ -41,5 +38,3 @@ Fleury, C. (2019). _Le soin est un humanisme_. Gallimard.
 Levinas, E. (1961). _Totality and Infinity_. Le Livre de Poche.
 Rogers, C. R. (1961). _On Becoming a Person_. Houghton Mifflin.
 Cour des comptes (2024). _Healthcare Expenditure in France: Annual Report_.
-
-​
