@@ -1,5 +1,6 @@
 ---
-title: "L'obligation de soins en France"
+title: "L'obligation de soins en France : entre contrainte légale et cheminement
+  thérapeutique"
 description: "Une exploration de la mesure légale française d'obligation de
   soins, examinant comment les thérapeutes peuvent transformer une contrainte
   judiciaire en un authentique processus thérapeutique."
@@ -13,8 +14,6 @@ categories:
 draft: false
 image: "/images/ObligationSoin.png"
 ---
-**Entre contrainte légale et cheminement thérapeutique**
-
 En France, l’obligation de soins est une mesure légale qui impose à une personne de suivre un traitement médical ou psychologique, souvent dans le cadre d’une décision judiciaire. Cette contrainte, inscrite dans l’article 132‑45 du Code pénal, peut être prononcée avant ou après un jugement, et s’applique à des pathologies variées, notamment psychiatriques ou addictives. Elle place le sujet dans une position singulière : celle d’être envoyé vers un soin qu’il n’a pas demandé, parfois même qu’il refuse.
 
 Dans la clinique de ville, où ces patients arrivent faute de place en institution, la première phrase est souvent la même : « Je suis obligé(e) d’être là. » Elle porte en elle une résistance, une fatigue, parfois une colère, mais aussi une ouverture possible. Car derrière la contrainte, il y a souvent une histoire, un symptôme, une souffrance qui n’a pas encore trouvé de mots.
