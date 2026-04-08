@@ -11,7 +11,7 @@ categories:
   - Healing
 draft: false
 ---
-Through a transcultural and psychoanalytic lens, this article explores how collective rituals can function as therapeutic devices in the face of trauma. Drawing on examples from diverse cultural traditions — from Congo Square in New Orleans to Siberian shamanic ceremonies, from the pilgrimages of travelling communities in Camargue to religious festivals in India — it shows that psychological care is not limited to the clinical space. It can emerge in shared cultural settings where the body, speech and the group are set in motion. This perspective echoes the work of Moro, Nathan, Hamayon and Piketty, and questions the role of the therapist as mediator of connection, narrative and framework.
+Through a transcultural and psychoanalytic lens, this article explores how collective rituals can function as therapeutic devices in the face of trauma. Drawing on examples from diverse cultural traditions - from Congo Square in New Orleans to Siberian shamanic ceremonies, from the pilgrimages of travelling communities in Camargue to religious festivals in India - it shows that psychological care is not limited to the clinical space. It can emerge in shared cultural settings where the body, speech and the group are set in motion. This perspective echoes the work of Moro, Nathan, Hamayon and Piketty, and questions the role of the therapist as mediator of connection, narrative and framework.
 
 In his documentary _When the Levees Broke_ (2006), Spike Lee depicts the consequences of Hurricane Katrina, but above all the invisible wound left by institutional abandonment. Through testimonies, songs and gatherings, he shows how culture becomes a place of memory, resistance and care. This cinematic gesture illustrates a fundamental truth: care is not limited to the individual. It is cultural, communal, and sometimes sacred.
 
@@ -19,7 +19,7 @@ This idea resonates with transcultural clinical practice, which considers that p
 
 Congo Square in New Orleans is an emblematic site where freed slaves gathered every Sunday from the 18th century to dance, sing and practice African rites. This weekly gathering, within a ritualised framework, not only preserved cultural memory but also transformed suffering into symbolic expression. Today, groups still gather there to honour this living memory, in a logic of repair and resilience. Congo Square can be understood as a genuine community therapeutic device, where the body, music and group allow emotional movement. It functions as a shared psychic stage, comparable to ancient Greek theatre, where emotions can be experienced, expressed and transformed.
 
-The pilgrimage to Les Saintes-Maries-de-la-Mer offers another example. Each year, travelling communities — Gitans, Roma, Manouches — gather in Camargue to honour Sainte Sara the Black. The procession to the sea, the songs and dances constitute a ritual of family transmission and identity recognition. Often marginalised in public space, this pilgrimage nonetheless provides a powerful symbolic framework where internal conflicts can be replayed and transformed collectively.
+The pilgrimage to Les Saintes-Maries-de-la-Mer offers another example. Each year, travelling communities (such as Gitans, Roma, Manouches) gather in Camargue in Southern France to honour Sainte Sara the Black. The procession to the sea, the songs and dances constitute a ritual of family transmission and identity recognition. Often marginalised in public space, this pilgrimage nonetheless provides a powerful symbolic framework where internal conflicts can be replayed and transformed collectively.
 
 In India, the festival of Durga Puja celebrates the goddess Durga, a figure of strength and protection. Processions, dances and community rituals reaffirm social bonds, particularly in regions affected by catastrophe or violence. The ritual becomes a space of transformation, where trauma can be narrated, shared and symbolised through protective figures.
 
@@ -35,8 +35,6 @@ The work of Thomas Piketty and Michael J. Sandel on equality reminds us that “
 
 In the face of trauma, collective ritual acts as a stage of catharsis. It allows replaying, transforming, symbolising. It offers a framework where the subject can speak, connect and repair. Whether Congo Square, Les Saintes-Maries-de-la-Mer, Durga Puja or sweat lodges, these practices show that care is also a matter of culture, memory and connection — and cannot be reduced to a commodity or an economic service.
 
-​
-
 References
 
 Aristotle. (1991). _Poetics_ (J. Hardy, Trans.). Flammarion.
@@ -45,5 +43,3 @@ Lee, S. (Director). (2006). _When the Levees Broke: A Requiem in Four Acts_ \[Do
 Moro, M.-R. (2012). _La culture dans la psychiatrie: Une clinique de l’altérité_. La Découverte.
 Nathan, T. (2007). _L’influence qui guérit: Thérapie et rituel_. Odile Jacob.
 Piketty, T., & Sandel, M. J. (2024). _Ce que l’égalité veut dire: Éducation, justice et bien commun_. Seuil.
-
-​
