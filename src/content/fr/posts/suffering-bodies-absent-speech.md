@@ -15,8 +15,6 @@ categories:
 draft: false
 image: "/images/corpsTCA.png"
 ---
-#### Une lecture psychanalytique des troubles alimentaires
-
 Les troubles du comportement alimentaire (anorexie, boulimie, hyperphagie) questionnent bien au-delà de la nutrition ou du rapport à la nourriture. Ils révèlent un lien tourmenté au corps, à l'image de soi, au désir, et souvent, à l'Autre.
 
 En tant que psychologue clinicienne et psychanalyste, je souhaite ici proposer une lecture de ces troubles en m'appuyant sur les apports théoriques de la psychanalyse et sur mon expérience clinique. Les exemples et prénoms sont fictifs, comme pour mes autres publications. À travers mes propos, je propose de mieux comprendre comment, dans la douleur, le corps peut devenir langage, support d'un message que les mots n'ont pas su porter.
