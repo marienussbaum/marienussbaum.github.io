@@ -3,7 +3,7 @@ title: "L'obligation de soins en France"
 description: "Une exploration de la mesure légale française d'obligation de
   soins, examinant comment les thérapeutes peuvent transformer une contrainte
   judiciaire en un authentique processus thérapeutique."
-date: 2025-02-01T00:00:00.000Z
+date: 2025-02-18T00:00:00.000Z
 authors:
   - Marie Nussbaum
 categories:
