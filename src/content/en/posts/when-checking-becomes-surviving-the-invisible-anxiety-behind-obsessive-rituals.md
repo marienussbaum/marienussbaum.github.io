@@ -18,7 +18,7 @@ Some check the door several times before leaving home. Others wash their hands u
 
 One patient told me she washed her hands ten times before preparing her children’s meals. She said, “I know my hands are clean, but I’m afraid of giving them something.” That “something” had no shape, no name. It was a floating anxiety, a sense of threat that moved from one object to another. She was not truly afraid of germs. She was afraid of not being a protective enough mother, of letting an invisible danger slip through, of not being equal to what life demanded of her. Washing became a ritual to soothe an old guilt, an overwhelming responsibility, an anxious form of love.
 
-Another patient would systematically return to check the door of his apartment. He said, “I know it’s locked, but I’m afraid something will happen if I don’t check.” That “something” had no form either. It was a diffuse worry, a background anxiety looking for a place to land. The door became that place — a scene where anxiety could play itself out without flooding everything else.
+Another patient would systematically return to check the door of his apartment. He said, “I know it’s locked, but I’m afraid something will happen if I don’t check.” That “something” had no form either. It was a diffuse worry, a background anxiety looking for a place to land. The door became that place, a scene where anxiety could play itself out without flooding everything else.
 
 What often strikes me is the solitude in which these patients live their rituals. They know it makes no sense. They know the door is locked, the faucet is off, the lights are out. They know it intellectually, but their body does not know it. Their body demands another gesture, another verification, another impossible certainty. And it is this impossibility that exhausts them.
 
@@ -36,14 +36,10 @@ When that day comes, it is not a victory over the symptom. It is a meeting with 
 
 And perhaps this is what analytic work ultimately allows: not checking, but self-checking. Not controlling, but understanding. Not reassuring, but transforming. A way of giving the world back some of its fluidity, and the subject some of their freedom.
 
-​
-
-**References**&#x20;
+References&#x20;
 
 Bion, W. R. (1962). _Learning from Experience_. London: Heinemann.
 Douglas, M. (1966). _Purity and Danger_. London: Routledge.
 Freud, S. (1907/1984). _Delusion and Dream in Jensen’s Gradiva_. New York: Moffat, Yard.
 Kleinman, A. (1988). _Rethinking Psychiatry: From Cultural Category to Personal Experience_. New York: Free Press.
 Winnicott, D. W. (1965). _The Maturational Processes and the Facilitating Environment_. London: Hogarth Press.
-
-​
