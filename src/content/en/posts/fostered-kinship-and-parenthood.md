@@ -1,6 +1,6 @@
 ---
 title: "Fostered Kinship and Parenthood"
-date: 2025-04-01T00:00:00.000Z
+date: 2025-04-09T00:00:00.000Z
 description: "A psychic journey through the bond"
 image: "/images/AdoptionFiliation.png"
 authors:
