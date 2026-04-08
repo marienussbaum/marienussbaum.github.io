@@ -12,8 +12,6 @@ categories:
 draft: false
 image: "/images/Hypersensible.png"
 ---
-**Une réflexion au service des patients.**&#x20;
-
 Dans ma pratique de psychologue clinicienne, le terme d’hypersensibilité émerge fréquemment dans les récits de mes patients. Beaucoup s’identifient eux‑mêmes comme « hypersensibles », souvent à travers un autodiagnostic spontané. Ce mot, bien que largement utilisé, recouvre des réalités très différentes et peut remplir plusieurs fonctions dans le discours du patient.
 
 Loin d’être une étiquette pathologique ou un symptôme clinique, l’hypersensibilité est pour moi un indicateur précieux, une porte d’entrée pour explorer ce qui, chez le patient, se manifeste en termes d’anxiété, d’angoisse ou de surcharge émotionnelle.
@@ -33,8 +31,6 @@ Ce travail consiste notamment à identifier les déclencheurs émotionnels ou se
 Les recherches sur les « Highly Sensitive People » (HSP) menées par Elaine Aron ont montré que l’hypersensibilité est souvent associée à une hyperactivation neurologique, notamment au niveau de l’amygdale, responsable de la régulation des émotions. Ces données offrent un éclairage scientifique précieux, mais elles ne doivent pas occulter la singularité de chaque expérience. D’autres auteurs, comme Thomas d’Ansembourg, invitent à dépasser l’étiquette pour revenir à l’authenticité émotionnelle, une perspective intéressante lorsqu’elle est intégrée avec nuance.
 
 L’hypersensibilité n’est ni une faiblesse ni une pathologie ; c’est une caractéristique humaine riche et complexe. Pour le psychologue, elle constitue une clé précieuse permettant de comprendre et d’accompagner les formes spécifiques d’anxiété et d’angoisse vécues par le patient. Ce travail de mise en sens, à travers une écoute attentive et un cadre thérapeutique structurant, permet au patient de transformer cette sensibilité parfois écrasante en une ressource qui éclaire son fonctionnement, sa perception de soi et sa relation aux autres.
-
-​
 
 Références
 
