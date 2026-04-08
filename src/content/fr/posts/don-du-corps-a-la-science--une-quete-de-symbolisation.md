@@ -17,7 +17,7 @@ Deux ans d’attente pour récupérer le corps d’un parent. Deux ans sans cér
 
 Freud rappelait que le travail de deuil consiste à détacher, peu à peu, l’investissement psychique du défunt pour le réorienter vers la vie. Mais comment faire ce travail quand le corps n’est pas là ? Quand il n’y a pas de lieu où aller ? Quand il n’y a pas de moment où se rassembler ? Quand le temps lui-même semble suspendu ?
 
-Winnicott parlait de l’importance des objets et des gestes transitionnels pour permettre à l’enfant — et à l’adulte — de symboliser ce qui manque. Le rituel funéraire est un de ces objets. Il crée un passage. Il transforme la mort en événement psychique. Il permet de dire : « C’est arrivé. » Il permet de commencer à penser ce qui, sans cela, reste impensable.
+Winnicott parlait de l’importance des objets et des gestes transitionnels pour permettre à l’enfant (et à l’adulte) de symboliser ce qui manque. Le rituel funéraire est un de ces objets. Il crée un passage. Il transforme la mort en événement psychique. Il permet de dire : « C’est arrivé. » Il permet de commencer à penser ce qui, sans cela, reste impensable.
 
 Quand le corps est donné à la science, ce passage est interrompu. Le geste du parent, souvent généreux, parfois militant, peut être vécu par les enfants comme une dépossession. Non pas parce qu’ils s’opposent au don, mais parce qu’ils n’ont plus accès à ce qui, pour eux, aurait permis de commencer à se séparer. Dolto rappelait que le corps du défunt n’est pas seulement un corps biologique : il est un support symbolique, un dernier lien, un dernier message.
 
