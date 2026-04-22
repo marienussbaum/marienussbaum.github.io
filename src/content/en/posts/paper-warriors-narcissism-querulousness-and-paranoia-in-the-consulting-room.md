@@ -3,8 +3,14 @@ title: "Paper Warriors: Narcissism, Querulousness and Paranoia in the Consulting
 date: ""
 description: "Psychology Narcissims Querulousness Paranoia"
 image: "/images/querulence.png"
-authors: []
-categories: []
+authors:
+  - Marie Nussbaum
+categories:
+  - Disease
+  - Adults
+  - Narcissism
+  - Paranoia
+  - Querulousness
 draft: false
 ---
 There are patients who do not enter therapy the way one enters a place of care, but as one steps into a neutral zone after years of battle. They do not come seeking relief, but a breath. They do not come to understand, but because loneliness, thickening over time, has become a greater threat than their real or imagined enemies. They seek help rarely, and late, often when professional alliances fracture, when loved ones withdraw, when the inner war begins to cost more than the impossible peace. And when they cross the threshold, there is something in their gaze of the fatigue of sentinels who have never stopped keeping watch.
@@ -33,8 +39,6 @@ For children, growing up with a parent who lives in vigilance, procedure, or cer
 
 The consulting room is not a courtroom, nor a battlefield, nor an expert’s office. It is a place where one learns to live with one’s shadows without turning them into enemies. A place where strength is found not in certainty but in the capacity to doubt. A place where inner justice is not won against someone but with oneself. And sometimes, that is enough for the war to end, not in the world, but in the psyche of the one who carried it, allowing these paper warriors to lay down their weapons a little.
 
-​
-
 **References**
 
 American Psychiatric Association. (2013). _Diagnostic and Statistical Manual of Mental Disorders_ (5th ed.). Washington, DC: Author.
@@ -44,5 +48,3 @@ Kretschmer, E. (1974). _Der sensitive Beziehungswahn_. Berlin: Springer. (Origi
 Starobinski, J. (1957). _La transparence et l’obstacle: Essai sur Rousseau_. Paris: Gallimard.
 Targowla, R. (1993). _La quérulence_. Paris: PUF.
 Weinstein, E. (1981). _Woodrow Wilson: A Medical and Psychological Biography_. Princeton University Press.
-
-​
