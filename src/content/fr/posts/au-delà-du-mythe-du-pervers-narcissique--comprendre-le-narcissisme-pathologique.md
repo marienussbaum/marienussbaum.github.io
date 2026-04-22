@@ -11,7 +11,7 @@ categories:
   - Maladies
   - Psychopatholgie
   - Narcissisme
-draft: false
+draft: true
 ---
 Il y a des mots qui traversent notre époque comme des météores. Ils illuminent un instant, brûlent tout sur leur passage, puis laissent derrière eux une traînée de certitudes trop rapides. Le terme « pervers narcissique » est devenu l’un de ces astres. Il surgit dans les conversations, dans les dîners, dans les ruptures, dans les cabinets de consultation. Il arrive comme un diagnostic prêt‑à‑porter, un drapeau planté sur les ruines d’une histoire. Il rassure parce qu’il explique tout. Il soulage parce qu’il désigne un coupable. Mais il simplifie, il écrase, il fige. Et surtout, il empêche de penser.
 
