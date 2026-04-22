@@ -1,42 +1,46 @@
 ---
-title: "Au delà du mythe du pervers narcissique : comprendre le narcissisme
-  pathologique"
+title: "Beyond the Myth of the Narcissistic Monster: Understanding Pathological
+  Narcissism"
 date: 2026-05-13T18:06:00.000Z
-description: "Psychologie Psychanalyse Narcissisme"
-image: ""
+description: "Psychology Psychoanalysis Narcissism"
+image: "/images/narcissim2.png"
 authors:
   - Marie Nussbaum
 categories:
   - ""
 draft: false
 ---
-Il y a des mots qui traversent notre époque comme des météores. Ils illuminent un instant, brûlent tout sur leur passage, puis laissent derrière eux une traînée de certitudes trop rapides. Le terme « pervers narcissique » est devenu l’un de ces astres. Il surgit dans les conversations, dans les dîners, dans les ruptures, dans les cabinets de consultation. Il arrive comme un diagnostic prêt‑à‑porter, un drapeau planté sur les ruines d’une histoire. Il rassure parce qu’il explique tout. Il soulage parce qu’il désigne un coupable. Mais il simplifie, il écrase, il fige. Et surtout, il empêche de penser.
+There are words that move through an era like meteors. They flare brightly, burn everything in their path, and leave behind a trail of overly simple certainties. “Narcissistic pervert” has become one of these meteors. It appears in conversations, in breakups, in therapy rooms. It arrives like a ready‑made diagnosis, a flag planted on the ruins of a story. It reassures because it explains everything. It soothes because it names a culprit. But it simplifies, it flattens, it freezes. And above all, it prevents thinking.
 
-La clinique, elle, ne connaît pas les monstres. Elle connaît les blessures. Elle connaît les défenses. Elle connaît les structures psychiques, les traumas, les loyautés invisibles. Elle sait que le narcissisme n’est pas une essence, mais un continuum, un paysage mouvant où l’on peut glisser d’une rive à l’autre selon l’histoire, les pertes, les humiliations. Elle sait que derrière la façade de grandiosité se cache souvent une honte ancienne, un effondrement redouté, une solitude abyssale.
+Clinical work knows no monsters. It knows wounds. It knows defenses. It knows psychic structures, traumas, invisible loyalties. It knows that narcissism is not an essence but a continuum, a shifting landscape shaped by history, loss, humiliation. It knows that behind grandiosity often lies an ancient shame, a feared collapse, an abyss of loneliness.
 
-Un jour, une patiente est entrée dans mon cabinet, les épaules hautes comme des remparts. Elle s’est assise sans enlever son manteau, comme si elle n’était pas sûre de rester. « J’ai vécu avec un pervers narcissique », a‑t‑elle dit d’une voix blanche. Puis elle a sorti de son sac un dossier épais, rempli de messages imprimés, de captures d’écran, de preuves. Elle voulait me montrer la violence, la manipulation, les humiliations. Mais au fil des séances, ce n’est pas lui qui s’est dévoilé : c’est elle. Son enfance dans une maison où l’on ne parlait pas, son père qui disparaissait pendant des jours, sa mère qui ne pleurait jamais, son besoin d’être choisie, reconnue, vue. Ce qu’elle avait vécu n’était pas une perversion narcissique. C’était une rencontre entre deux solitudes, deux blessures, deux vulnérabilités qui s’étaient agrippées l’une à l’autre jusqu’à l’épuisement.
+One day, a patient walked into my office with her shoulders raised like ramparts. She sat down without removing her coat, as if she wasn’t sure she would stay. “I lived with a narcissistic pervert,” she said in a flat voice. Then she pulled from her bag a thick folder filled with printed messages, screenshots, evidence. She wanted to show me the violence, the manipulation, the humiliation. But over the sessions, it wasn’t him who emerged, it was her. Her childhood in a house where no one spoke, her father disappearing for days, her mother who never cried, her need to be chosen, recognized, seen. What she had lived was not narcissistic perversion. It was the collision of two solitudes, two wounds, two vulnerabilities clinging to each other until exhaustion.
 
-Le trouble de la personnalité narcissique, tel que décrit dans le DSM‑5, n’a rien à voir avec la caricature médiatique. Le narcissique pathologique ne cherche pas à détruire l’autre : il cherche à ne pas s’effondrer. Il avance dans la vie comme un funambule sur un fil tendu entre l’admiration et la honte. Il manipule parfois, non par jouissance, mais par panique. Il domine parfois, non par cruauté, mais par peur de disparaître. Il ne supporte pas la vulnérabilité, ni la sienne ni celle de l’autre. Il vit dans une oscillation permanente entre toute‑puissance et effondrement.
+The narcissistic personality disorder described in the DSM‑5 has nothing to do with the media caricature. The pathological narcissist does not seek to destroy the other; he seeks not to collapse. He walks through life like a tightrope walker suspended between admiration and shame. He manipulates at times, not out of pleasure but out of panic. He dominates at times, not out of cruelty but out of fear of disappearing. He cannot tolerate vulnerability, neither his own nor that of others. He lives in a permanent oscillation between omnipotence and collapse.
 
-La « perversion narcissique », au sens psychanalytique, existe, mais elle est rare. Très rare. Racamier parlait d’une « jouissance froide à détruire l’autre ». Kernberg d’une « organisation perverse du narcissisme ». Ces fonctionnements existent, mais ils ne peuplent pas les appartements ordinaires. Ils ne sont pas l’ex‑conjoint maladroit, ni le collègue blessant, ni le parent rigide. Ils relèvent de structures psychiques spécifiques, souvent proches de la perversion morale ou de la psychopathie. Rien à voir avec ce que l’on lit dans les magazines.
+“Narcissistic perversion,” in the psychoanalytic sense, exists but is rare. Very rare. Racamier spoke of a “cold enjoyment in destroying the other.” Kernberg described a “perverse organization of narcissism.” These structures exist, but they do not populate ordinary apartments. They are not the clumsy ex‑partner, the hurtful colleague, the rigid parent. They belong to specific psychic organizations, often close to moral perversion or psychopathy. Nothing like what one reads in magazines.
 
-Les films ont parfois mieux compris cela que les discours populaires. Norma Desmond dans _Sunset Boulevard_, reine déchue d’Hollywood, dont la grandiosité n’est qu’un masque posé sur une solitude sans fond. Charles Foster Kane dans _Citizen Kane_, dont la quête de pouvoir n’est qu’une tentative désespérée de combler un manque d’amour. Gatsby, dont la façade brillante cache une blessure originelle. Blanche DuBois, fragile et flamboyante, qui se réfugie dans l’illusion pour ne pas sombrer. Aucun n’est un « pervers narcissique ». Tous sont des êtres blessés, défendus, tragiques.
+Cinema has sometimes understood this better than popular discourse. Norma Desmond in _Sunset Boulevard_, a fallen queen whose grandiosity masks a bottomless solitude. Charles Foster Kane in _Citizen Kane_, whose hunger for power is a desperate attempt to fill an emotional void. Gatsby, whose brilliance hides an original wound. Blanche DuBois, fragile and flamboyant, clinging to illusion to avoid collapse. None of them are “narcissistic perverts.” All are wounded, defended, tragic.
 
-L’histoire regorge aussi de figures dont le narcissisme a façonné le destin : Napoléon, dont la grandiosité masquait une sensibilité extrême ; Howard Hughes, reclus dans sa paranoïa ; Oscar Wilde, flamboyant et fragile ; Maria Callas, déchirée entre l’admiration du monde et la solitude intime. Aucun n’était un monstre. Tous étaient des êtres humains aux prises avec leur propre abîme.
+History, too, is filled with figures shaped by narcissism: Napoleon, whose grandiosity hid extreme sensitivity; Howard Hughes, withdrawn into paranoia; Oscar Wilde, dazzling and fragile; Maria Callas, torn between the world’s admiration and intimate loneliness. None were monsters. All were human beings wrestling with their own abyss.
 
-En clinique, accompagner un patient narcissique demande une grande stabilité. Il faut pouvoir contenir la honte, accueillir la vulnérabilité, supporter les attaques sans se retirer, offrir un espace où la façade peut se fissurer sans s’effondrer. Il faut travailler sur la dépendance à l’admiration, sur la peur de l’abandon, sur les blessures précoces. Il faut permettre au patient de découvrir qu’il peut exister autrement que dans la performance ou la toute‑puissance. Il faut l’aider à rencontrer l’autre sans se sentir menacé, à tolérer la nuance, à supporter la frustration.
+In clinical work, accompanying a narcissistic patient requires great stability. One must contain shame, welcome vulnerability, withstand attacks without withdrawing, offer a space where the façade can crack without collapsing. One must work on dependence on admiration, fear of abandonment, early wounds. One must help the patient discover that they can exist outside performance or omnipotence. One must help them meet the other without feeling threatened, tolerate nuance, endure frustration.
 
-Pour le conjoint, le travail consiste à comprendre ce qu’il a vécu, à restaurer son estime de soi, à repérer les zones d’emprise émotionnelle, à reconstruire des limites, à sortir de la culpabilité. Il ne s’agit pas de désigner un bourreau et une victime, mais de comprendre une dynamique. Comme le disait Winnicott, « il n’y a pas de bébé sans mère » ; il n’y a pas non plus de relation sans deux histoires qui se croisent.
+For the partner, the work is to understand what they lived, restore self‑esteem, identify emotional entanglements, rebuild boundaries, release guilt. It is not about naming a villain and a victim but understanding a dynamic. As Winnicott said, “there is no baby without a mother”; there is no relationship without two histories crossing.
 
-Le narcissisme n’est pas un monstre tapi dans l’ombre. C’est une souffrance qui se défend. Une honte qui se protège. Une vulnérabilité qui se masque. Une peur ancienne qui se rigidifie. Et parfois, lorsque la parole trouve son chemin, lorsque la honte peut être déposée, lorsque la vulnérabilité peut être accueillie, alors quelque chose s’apaise. Non pas un miracle, mais un déplacement. Une respiration. Une possibilité.
+Narcissism is not a monster lurking in the shadows. It is a suffering that defends itself. A shame that protects itself. A vulnerability that hides. An ancient fear that hardens. And sometimes, when words find their way, when shame can be laid down, when vulnerability can be welcomed, something softens. Not a miracle, but a shift. A breath. A possibility.
 
-Et c’est souvent là que commence le travail.
+And that is often where the work begins.
 
-**Références**
+​
 
-American Psychiatric Association. (2013). _Diagnostic and Statistical Manual of Mental Disorders_ (5e éd.).
+**References**
+
+American Psychiatric Association. (2013). _Diagnostic and Statistical Manual of Mental Disorders_ (5th ed.).
 Kernberg, O. (1975). _Borderline Conditions and Pathological Narcissism_.
 Racamier, P.-C. (1992). _Le génie des origines_.
 Winnicott, D. W. (1965). _The Maturational Processes and the Facilitating Environment_.
-Freud, S. (1914). _Pour introduire le narcissisme_.
-Miller, A. (1981). _Le drame de l’enfant doué_.
+Freud, S. (1914). _On Narcissism_.
+Miller, A. (1981). _The Drama of the Gifted Child_.
+
+​
