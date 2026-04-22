@@ -11,7 +11,7 @@ categories:
   - Narcissism
   - Paranoia
   - Querulousness
-draft: true
+draft: false
 ---
 There are patients who do not enter therapy the way one enters a place of care, but as one steps into a neutral zone after years of battle. They do not come seeking relief, but a breath. They do not come to understand, but because loneliness, thickening over time, has become a greater threat than their real or imagined enemies. They seek help rarely, and late, often when professional alliances fracture, when loved ones withdraw, when the inner war begins to cost more than the impossible peace. And when they cross the threshold, there is something in their gaze of the fatigue of sentinels who have never stopped keeping watch.
 
