@@ -3,7 +3,7 @@ title: "Au delà du mythe du pervers narcissique : comprendre le narcissisme
   pathologique"
 date: 2026-05-13T18:38:00.000Z
 description: "Psychologie Psychanalyse Narcissisme"
-image: "/images/narcissim2.png"
+image: "/images/narcissim.png"
 authors:
   - Marie Nussbaum
 categories:
