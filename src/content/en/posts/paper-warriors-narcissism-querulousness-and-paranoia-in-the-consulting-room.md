@@ -1,6 +1,6 @@
 ---
 title: "Paper Warriors: Narcissism, Querulousness and Paranoia in the Consulting Room"
-date: ""
+date: 2026-04-22T20:18:00.000Z
 description: "Psychology Narcissims Querulousness Paranoia"
 image: "/images/querulence.png"
 authors:
