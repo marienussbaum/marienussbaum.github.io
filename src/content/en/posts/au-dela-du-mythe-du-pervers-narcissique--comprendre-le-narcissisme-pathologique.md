@@ -8,7 +8,7 @@ authors:
   - Marie Nussbaum
 categories:
   - ""
-draft: false
+draft: true
 ---
 There are words that move through an era like meteors. They flare brightly, burn everything in their path, and leave behind a trail of overly simple certainties. “Narcissistic pervert” has become one of these meteors. It appears in conversations, in breakups, in therapy rooms. It arrives like a ready‑made diagnosis, a flag planted on the ruins of a story. It reassures because it explains everything. It soothes because it names a culprit. But it simplifies, it flattens, it freezes. And above all, it prevents thinking.
 
