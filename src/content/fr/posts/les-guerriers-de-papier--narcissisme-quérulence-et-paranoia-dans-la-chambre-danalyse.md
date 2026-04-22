@@ -1,7 +1,7 @@
 ---
 title: "Les guerriers de papier : narcissisme, quérulence et paranoïa dans la
   chambre d’analyse"
-date: ""
+date: 2026-04-22T20:20:00.000Z
 description: "Psychologie narcissisme"
 image: "/images/querulence.png"
 authors:
