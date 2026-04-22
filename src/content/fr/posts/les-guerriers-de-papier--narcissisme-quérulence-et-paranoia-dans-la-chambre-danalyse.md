@@ -4,8 +4,14 @@ title: "Les guerriers de papier : narcissisme, quérulence et paranoïa dans la
 date: ""
 description: "Psychologie narcissisme"
 image: "/images/querulence.png"
-authors: []
-categories: []
+authors:
+  - Marie Nussbaum
+categories:
+  - Adultes
+  - Maladies
+  - Paranoïa
+  - Quérulence
+  - Narcissisme
 draft: false
 ---
 Il existe des patients qui n’arrivent pas en thérapie comme on arrive dans un lieu de soin, mais comme on entre dans une zone neutre après des années de combats. Ils ne viennent pas chercher un apaisement, mais une respiration. Ils ne viennent pas pour comprendre, mais parce que la solitude, à force de s’épaissir, finit par devenir une menace plus grande que leurs ennemis réels ou imaginaires. Ils consultent rarement, tardivement, souvent lorsque les alliances professionnelles se fissurent, lorsque les proches s’éloignent, lorsque la guerre intérieure commence à coûter plus cher que la paix impossible. Et lorsqu’ils franchissent la porte, il y a dans leur regard quelque chose de la fatigue des sentinelles qui n’ont jamais cessé de monter la garde.
@@ -33,8 +39,6 @@ Les familles vivent souvent dans un mélange de loyauté et d’épuisement. Ell
 Pour les enfants, grandir auprès d’un parent qui vit dans la vigilance, la procédure ou la certitude peut être déroutant. Ils apprennent trop tôt à mesurer leurs mots, à anticiper les réactions, à éviter les conflits. Certains deviennent des experts en diplomatie émotionnelle ; d’autres se replient ; d’autres encore s’épuisent à tenter de réparer ce qui ne leur appartient pas. La thérapie peut alors devenir un lieu où l’enfant, devenu adulte, peut déposer ce qu’il a porté trop longtemps, comprendre que ce parent n’était pas dur mais souffrant, et que sa propre vie peut se construire autrement.
 
 La clinique n’est pas un tribunal, ni un champ de bataille, ni un bureau d’expertise. C’est un lieu où l’on apprend à vivre avec ses ombres sans les transformer en ennemis. Un lieu où l’on découvre que la force n’est pas dans la certitude, mais dans la capacité à douter. Un lieu où l’on comprend que la justice intérieure ne se gagne pas contre quelqu’un, mais avec soi. Et parfois, cela suffit pour que la guerre cesse, non pas dans le monde, mais dans la psyché de celui qui la portait, et pour que ces guerriers de papier déposent un peu leurs armes.
-
-​
 
 **Références**
 
