@@ -12,7 +12,7 @@ categories:
   - Paranoïa
   - Quérulence
   - Narcissisme
-draft: true
+draft: false
 ---
 Il existe des patients qui n’arrivent pas en thérapie comme on arrive dans un lieu de soin, mais comme on entre dans une zone neutre après des années de combats. Ils ne viennent pas chercher un apaisement, mais une respiration. Ils ne viennent pas pour comprendre, mais parce que la solitude, à force de s’épaissir, finit par devenir une menace plus grande que leurs ennemis réels ou imaginaires. Ils consultent rarement, tardivement, souvent lorsque les alliances professionnelles se fissurent, lorsque les proches s’éloignent, lorsque la guerre intérieure commence à coûter plus cher que la paix impossible. Et lorsqu’ils franchissent la porte, il y a dans leur regard quelque chose de la fatigue des sentinelles qui n’ont jamais cessé de monter la garde.
 
