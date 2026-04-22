@@ -1,6 +1,6 @@
 ---
 title: When Silence Begins to Speak
-date: ""
+date: 2026-05-05T21:33:00.000Z
 description: "Psychology Psychoanalysis"
 image: "/images/Silence.png"
 authors:
@@ -22,19 +22,19 @@ Other silences are more abrupt. They fall like a curtain, a sudden blackout, a t
 
 ​
 
-There is also the silence that tests. The one addressed to the analyst without a word, like a riddle placed between them: \*What will you do with me if I give you nothing?\* This silence often reenacts older scenes: a parent too intrusive, another too absent, an environment where speaking had no place. Ogden showed how such silences are primitive forms of communication, where the patient probes the solidity of the other, their capacity to remain alive, thinking, breathing, even in apparent emptiness.
+There is also the silence that tests. The one addressed to the analyst without a word, like a riddle placed between them: “What will you do with me if I give you nothing?“ This silence often reenacts older scenes: a parent too intrusive, another too absent, an environment where speaking had no place. Ogden showed how such silences are primitive forms of communication, where the patient probes the solidity of the other, their capacity to remain alive, thinking, breathing, even in apparent emptiness.
 
 ​
 
-For the analyst, silence is never neutral. It moves through the body, alters the rhythm of breathing, shifts the focus of attention. Some silences induce drowsiness: the patient then deposits in the analyst a sense of emptiness, withdrawal, or emotional flatness. Others irritate, awaken a subtle impatience, a desire to shake, to restart, to “make the patient talk.” Sometimes, unexpectedly, tenderness arises — a nearly maternal impulse, the wish to soothe, to wrap the silence as one would wrap a worried child. These countertransference experiences, far from being disturbances, become instruments of work. They speak of what the patient cannot yet articulate. Green reminded us that the analyst must accept being affected in order to think what is unfolding in the shared space.
+For the analyst, silence is never neutral. It moves through the body, alters the rhythm of breathing, shifts the focus of attention. Some silences induce drowsiness: the patient then deposits in the analyst a sense of emptiness, withdrawal, or emotional flatness. Others irritate, awaken a subtle impatience, a desire to shake, to restart, to “make the patient talk.” Sometimes, unexpectedly, tenderness arises, a nearly maternal impulse, the wish to soothe, to wrap the silence as one would wrap a worried child. These countertransference experiences, far from being disturbances, become instruments of work. They speak of what the patient cannot yet articulate. Green reminded us that the analyst must accept being affected in order to think what is unfolding in the shared space.
 
 ​
 
-Silence sometimes takes the form of absence. The patient does not come, forgets, cancels, disappears for a few weeks. This absence is an amplified silence, an enactment. It may be a flight, a punishment, a fear, a repetition. It may also be a call: \*Hold me, even when I am not here.\* Absence, like silence, is a message addressed. It must be worked through like a dream, a slip, a symptom.
+Silence sometimes takes the form of absence. The patient does not come, forgets, cancels, disappears for a few weeks. This absence is an amplified silence, an enactment. It may be a flight, a punishment, a fear, a repetition. It may also be a call: “Hold me, even when I am not here.“ Absence, like silence, is a message addressed. It must be worked through like a dream, a slip, a symptom.
 
 ​
 
-Within the session, silence can become a place of transformation. One senses something shifting, reorganizing, as if the patient were dreaming with open eyes. The analyst accompanies this movement without rushing it, allowing silence to breathe. Sometimes a gentle sentence is enough: \*We can stay in this silence together.\* Sometimes nothing is needed. Silence works for both.
+Within the session, silence can become a place of transformation. One senses something shifting, reorganizing, as if the patient were dreaming with open eyes. The analyst accompanies this movement without rushing it, allowing silence to breathe. Sometimes a gentle sentence is enough: “We can stay in this silence together”. Sometimes nothing is needed. Silence works for both.
 
 ​
 
