@@ -3,7 +3,7 @@ title: "Beyond the Myth of the Narcissistic Monster: Understanding Pathological
   Narcissism"
 date: 2026-05-13T18:06:00.000Z
 description: "Psychology Psychoanalysis Narcissism"
-image: "/images/narcissim2.png"
+image: "/images/narcissim.png"
 authors:
   - Marie Nussbaum
 categories:
