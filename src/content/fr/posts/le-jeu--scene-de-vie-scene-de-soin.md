@@ -1,6 +1,6 @@
 ---
 title: "Le jeu : scène de vie, scène de soin"
-date: 2026-04-24T10:00:00.000Z
+date: 2026-04-25T10:00:00.000Z
 description: "Psychologie Enfants Jeux"
 image: "/images/jeu.png"
 authors:
