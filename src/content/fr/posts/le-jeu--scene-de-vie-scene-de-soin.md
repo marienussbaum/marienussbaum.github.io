@@ -2,7 +2,7 @@
 title: "Le jeu : scène de vie, scène de soin"
 date: 2026-04-25T10:00:00.000Z
 description: "Psychologie Enfants Jeux"
-image: "/images/jeu.png"
+image: "/images/jeu2.png"
 authors:
   - Marie Nussbaum
 categories:
