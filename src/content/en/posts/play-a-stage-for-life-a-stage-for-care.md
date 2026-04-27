@@ -2,7 +2,7 @@
 title: "Play: A stage for life, a stage for care"
 date: 2026-04-24T10:01:00.000Z
 description: "Psychology Children Parents Care"
-image: "/images/jeu.png"
+image: "/images/jeu2.png"
 authors: []
 categories: []
 draft: false
