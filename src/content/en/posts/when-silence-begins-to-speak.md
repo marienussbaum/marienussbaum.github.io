@@ -8,7 +8,7 @@ authors:
 categories:
   - Adultes
   - Therapy
-draft: true
+draft: false
 ---
 There are moments when the patient lies down and nothing comes. Silence settles into the room like a discreet visitor, almost shy, yet capable of filling all the available space. It is never a simple interval between two sentences. It is a psychic event, a sensitive material, a breath that takes shape between two bodies. Silence is not the absence of speech; it is speech turned inward, a form of language that has not yet found its words.
 
