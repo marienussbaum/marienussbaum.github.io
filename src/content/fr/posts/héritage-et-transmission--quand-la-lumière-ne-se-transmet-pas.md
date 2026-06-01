@@ -1,6 +1,6 @@
 ---
 title: "Héritage et transmission : quand la lumière ne se transmet pas"
-date: 2026-06-03T15:47:00.000Z
+date: 2026-06-01T15:47:00.000Z
 description: "Psychologie Psychanalyse"
 image: "/images/Consultation Kardashian.png"
 authors:
