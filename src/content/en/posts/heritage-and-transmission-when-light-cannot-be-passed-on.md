@@ -1,6 +1,6 @@
 ---
 title: "Heritage and Transmission: when light cannot be passed on"
-date: 2026-06-03T16:06:00.000Z
+date: 2026-06-01T16:06:00.000Z
 description: "Psychology Psychoanalysis"
 image: "/images/Consultation Kardashian_copy(1).png"
 authors:
