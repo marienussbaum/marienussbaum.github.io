@@ -3,8 +3,13 @@ title: "Héritage et transmission : quand la lumière ne se transmet pas"
 date: 2026-06-03T15:47:00.000Z
 description: "Psychologie Psychanalyse"
 image: "/images/Consultation Kardashian.png"
-authors: []
-categories: []
+authors:
+  - Marie Nussbaum
+categories:
+  - Enfants
+  - Adultes
+  - Vieillesse
+  - Thérapie familiale
 draft: false
 ---
 Il existe des familles où la filiation ressemble moins à une transmission qu’à une traversée initiatique. Dans ces lignées où l’un des parents devient figure publique, empire vivant, symbole plus qu’être humain, l’enfant naît déjà dans un récit qui n’est pas le sien. On lui demande d’habiter un décor construit avant lui, parfois même contre lui. Qu’il s’agisse d’un capitaine d’industrie, d’un artiste adulé, d’un dirigeant charismatique, d’un membre d’une dynastie monarchique ou d’un entrepreneur devenu mythe, la mécanique intime demeure la même : la puissance du parent crée une gravité qui attire, façonne, écrase, déforme.
