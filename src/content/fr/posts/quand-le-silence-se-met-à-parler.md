@@ -9,7 +9,7 @@ categories:
   - Thérapie
   - Adultes
   - Soin
-draft: true
+draft: false
 ---
 Il arrive que le patient s’allonge et que rien ne se dise. Le silence s’installe alors comme une présence discrète, presque timide, mais qui prend toute la place. Il n’est jamais un simple intervalle entre deux phrases: il est un événement psychique, une matière sensible, un souffle qui se dépose dans la pièce. Le silence n’est pas l’absence de parole; il est une parole retournée vers l’intérieur, une forme de langage qui n’a pas encore trouvé ses mots.
 
