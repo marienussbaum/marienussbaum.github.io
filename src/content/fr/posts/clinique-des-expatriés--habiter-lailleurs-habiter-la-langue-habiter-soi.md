@@ -1,6 +1,6 @@
 ---
 title: "Clinique des expatriés : habiter l’ailleurs, habiter la langue, habiter soi"
-date: ""
+date: 2026-06-13T19:30:00.000Z
 description: "Psychologie Expatriés"
 image: "/images/Expatriés.png"
 authors:
