@@ -9,6 +9,7 @@ categories:
   - Adultes
   - Psychopathologie
   - Traitements
+  - Psychologie & Société
 draft: false
 ---
 La chaleur extrême transforme la ville en un espace dense, presque immobile, où l’air semble retenir les corps et les pensées. Lors des épisodes de canicule, quelque chose se déplace dans la clinique: les seuils habituels se modifient, les symptômes s’expriment autrement, parfois plus vivement. Depuis plusieurs semaines, je rencontre chez certains patients une intensification nette de leurs troubles: irritabilité plus rapide, anxiété qui se fixe, sommeil qui se délite, fatigabilité émotionnelle qui s’installe sans prévenir. La chaleur agit comme un facteur de désorganisation discret mais constant, un élément extérieur qui vient fragiliser les régulations internes.
