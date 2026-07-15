@@ -9,7 +9,7 @@ authors:
 categories:
   - Adultes
   - Addiction
-draft: false
+draft: true
 ---
 Il arrive que l’alcool entre dans la séance avant même que le patient ne parle. Une odeur légère, un regard un peu voilé, une fatigue qui déborde du corps. Parfois, rien n’est visible, mais le récit porte une tension particulière: une manière de tenir debout en s’appuyant sur quelque chose qui, silencieusement, détruit. L’addiction, vue depuis la psychanalyse, n’est jamais un simple excès. Elle est une tentative de régulation psychique, un dispositif mis en place pour survivre à ce qui ne peut être symbolisé. Joyce McDougall écrivait que certaines conduites addictives fonctionnent comme des «théâtres du corps», où la souffrance psychique se déplace vers l’agir lorsque les mots manquent. Cette idée éclaire ce que l’on observe en clinique: l’alcool devient un langage de substitution, une manière de dire sans dire, de crier sans bruit.
 
