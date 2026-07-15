@@ -8,6 +8,7 @@ authors:
 categories:
   - Adultes
   - Psychopathology
+  - Psychology & Society
 draft: false
 ---
 Il y a dans le feu une vérité que les mots n’atteignent pas, une vérité ancienne, archaïque, presque préhumaine. Le feu fascine, effraie, attire, repousse. Il est destruction et purification, menace et promesse, fin et commencement. Depuis les premiers mythes, il est le lieu où l’homme projette ses angoisses, ses désirs, ses colères, ses renaissances. Dans la clinique, le feu n’est jamais un simple phénomène physique (il devient un langage). Il dit ce que le sujet ne peut pas dire autrement. Il révèle ce qui brûle à l’intérieur.
