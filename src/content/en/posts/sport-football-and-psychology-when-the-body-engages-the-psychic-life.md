@@ -1,5 +1,5 @@
 ---
-title: "Sport, Football and Psychology: When the Body Engages the Psychic Life"
+title: "Sport, Football and Psychology: how the Body Engages the Psychic Life"
 date: 2026-07-14T09:55:00.000Z
 description: "Sport, Football and Psychology"
 image: "/images/Foot et psy.png"
