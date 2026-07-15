@@ -9,6 +9,7 @@ categories:
   - Adults
   - Psychopathology
   - Medical treatment
+  - "Psychology & Society  "
 draft: false
 ---
 Extreme heat transforms the city into a dense, almost motionless space where the air seems to hold both bodies and thoughts in suspension. During heatwaves, something shifts in the clinical landscape: familiar thresholds change, symptoms take on new contours, sometimes more sharply. Over the past weeks, I have observed in several patients a clear intensification of their difficulties - irritability rising more quickly, anxiety settling in more firmly, sleep unraveling, emotional fatigue appearing without warning. Heat acts as a subtle but persistent destabilizing factor, an external element that weakens internal regulatory processes.
