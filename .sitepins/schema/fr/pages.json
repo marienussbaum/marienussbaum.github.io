@@ -1,26 +1,26 @@
 {
-  "file": "src/content/en/about/-index.md",
+  "file": "src/content/fr/about/-index.md",
   "name": "pages",
   "fileType": "md",
   "fmType": "yaml",
   "template": [
     {
       "name": "title",
-      "label": "Title",
+      "label": "Titre",
       "type": "string",
       "value": "",
       "defaultValue": ""
     },
     {
       "name": "subtitle",
-      "label": "Subtitle",
+      "label": "Sous-titre",
       "type": "string",
       "value": "",
       "defaultValue": ""
     },
     {
       "name": "meta_title",
-      "label": "Meta Title",
+      "label": "Méta Titre",
       "type": "string",
       "value": "",
       "defaultValue": ""
@@ -41,7 +41,7 @@
     },
     {
       "name": "draft",
-      "label": "Draft",
+      "label": "Brouillon",
       "type": "boolean",
       "value": false,
       "defaultValue": false
