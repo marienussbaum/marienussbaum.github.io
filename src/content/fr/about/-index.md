@@ -1,17 +1,16 @@
 ---
 title: "Marie Nussbaum"
 subtitle: "Psychologue"
-meta_title: "Marie Nussbaum – Psychologue à Marseille"
+meta_title: "Marie Nussbaum – Psychologue à Paris"
 description: "Marie Nussbaum, psychologue clinicienne et psychanalyste à
-  Marseille. Consultations pour adultes, adolescents et enfants à Marseille,
-  Paris et en ligne."
+  Paris. Consultations pour adultes, adolescents et enfants à Paris et en ligne."
 image: "/images/portraitMARIE.png"
 draft: false
 
 service_intro:
   title: Accompagnement clinique pour enfants, adolescents, adultes
   description: >
-    J’accompagne adultes, adolescents et enfants en cabinet à Marseille ou en
+    J’accompagne adultes, adolescents et enfants en cabinet à Paris ou en
     visioconférence. Ma pratique, s’appuyant sur une expérience
     institutionnelle, offre un soutien adapté aux difficultés émotionnelles et
     périodes de vie complexes.
@@ -25,7 +24,7 @@ service_intro:
 
 what_i_do:
   title: Mes services
-  subtitle: Les consultations se déroulent à Marseille, Paris et occasionnellement
+  subtitle: Les consultations se déroulent à Paris et occasionnellement
     en ligne
   items:
     - title: Consultations adultes – psychothérapie individuelle

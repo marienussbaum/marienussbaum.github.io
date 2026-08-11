@@ -38,8 +38,8 @@ const locale = (
 ) as "en" | "fr";
 
 const brandSuffix: Record<"en" | "fr", string> = {
-  en: "Marie Nussbaum – Psychologist in Marseille",
-  fr: "Marie Nussbaum – Psychologue à Marseille",
+  en: "Marie Nussbaum – Psychologist in Paris",
+  fr: "Marie Nussbaum – Psychologue à Paris",
 };
 
 const pageTitle = meta_title
@@ -78,9 +78,9 @@ const jsonLd = {
   image: `${config.site.base_url}${config.metadata.meta_image}`,
   address: {
     "@type": "PostalAddress",
-    streetAddress: "19 Boulevard Rabatau",
-    addressLocality: "Marseille",
-    postalCode: "13008",
+    streetAddress: "26 Boulevard Raspail",
+    addressLocality: "Paris",
+    postalCode: "75007",
     addressCountry: "FR",
   },
   sameAs: [linkedinUrl],

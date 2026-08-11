@@ -1,10 +1,9 @@
 ---
 title: "Marie Nussbaum"
 subtitle: "Psychologist"
-meta_title: "Marie Nussbaum – Psychologist in Marseille"
+meta_title: "Marie Nussbaum – Psychologist in Paris"
 description: "Marie Nussbaum is a clinical psychologist and psychoanalyst in
-  Marseille. Individual therapy for adults, adolescents and children in
-  Marseille, Paris and online."
+  Paris. Individual therapy for adults, adolescents and children in Paris and online."
 image: "/images/portraitMARIE.png"
 draft: false
 
@@ -12,7 +11,7 @@ service_intro:
   title: Clinical support for children, adolescents, and adults
   description: >
     I offer therapy for adults, teenagers, and children, either in my
-    consultation in Marseille or occasionally in Paris or through online
+    consultation in Paris or through online
     sessions. My practice, grounded in extensive institutional experience,
     provides tailored support for emotional difficulties and challenging life
     transitions.
@@ -26,7 +25,7 @@ service_intro:
 
 what_i_do:
   title: My services
-  subtitle: "Consultations take place in Marseille, Paris and occasionally online "
+  subtitle: "Consultations take place in Paris and occasionally online "
   items:
     - title: Adult consultations – individual psychotherapy
       subtitle: Individual approach
