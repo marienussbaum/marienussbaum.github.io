@@ -1,0 +1,27 @@
+---
+import { DOCTOLIB } from '../lib/site.js';
+const { lang, altPath = null } = Astro.props;
+const base = `/${lang}/`;
+const other = lang === 'fr' ? 'en' : 'fr';
+const otherHref = altPath ?? `/${other}/`;
+const t = lang === 'fr'
+  ? { consult: 'Consultations', approche: 'L’approche', visio: 'Visio', cabinet: 'Le cabinet',
+      carnets: 'Carnets', rdv: 'Prendre rendez-vous', sub: 'Psychologue — Paris 7ᵉ' }
+  : { consult: 'Who I see', approche: 'The approach', visio: 'Online', cabinet: 'The practice',
+      carnets: 'Notebooks', rdv: 'Book a session', sub: 'Psychologist — Paris 7th' };
+---
+<header class="site">
+  <a class="logo" href={base}>Marie Nussbaum<small>{t.sub}</small></a>
+  <nav class="main" aria-label={lang === 'fr' ? 'Navigation principale' : 'Main navigation'}>
+    <a href={`${base}#pourqui`}>{t.consult}</a>
+    <a href={`${base}#approche`}>{t.approche}</a>
+    <a href={`${base}#visio`}>{t.visio}</a>
+    <a href={`${base}#cabinet`}>{t.cabinet}</a>
+    <a href={`${base}blog/`}>{t.carnets}</a>
+  </nav>
+  <div class="lang-switch">
+    <a class={lang === 'fr' ? 'on' : ''} href={lang === 'fr' ? '/fr/' : otherHref} aria-label="Français">FR</a>
+    <a class={lang === 'en' ? 'on' : ''} href={lang === 'en' ? '/en/' : otherHref} aria-label="English">EN</a>
+  </div>
+  <a class="btn" href={DOCTOLIB} target="_blank" rel="noopener">{t.rdv}</a>
+</header>

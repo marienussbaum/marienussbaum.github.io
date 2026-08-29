@@ -1,0 +1,20 @@
+---
+import { ADELI, LINKEDIN } from '../lib/site.js';
+const { lang } = Astro.props;
+const t = lang === 'fr'
+  ? { role: 'Psychologue clinicienne & psychanalyste, Paris 7ᵉ', legal: 'Mentions légales',
+      legalHref: '/fr/mentions-legales/', contact: 'Contact', contactHref: '/fr/contact/' }
+  : { role: 'Clinical psychologist & psychoanalyst, Paris 7th', legal: 'Legal notice',
+      legalHref: '/en/legal/', contact: 'Contact', contactHref: '/en/contact/' };
+---
+<footer class="site">
+  <div class="foot">
+    <div>© {new Date().getFullYear()} Marie Nussbaum — {t.role}</div>
+    <div>
+      N° ADELI / RPPS {ADELI} ·
+      <a href={t.contactHref}>{t.contact}</a> ·
+      <a href={t.legalHref}>{t.legal}</a> ·
+      <a href={LINKEDIN} target="_blank" rel="noopener">LinkedIn</a>
+    </div>
+  </div>
+</footer>

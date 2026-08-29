@@ -1,0 +1,14 @@
+---
+import { catName, catUrl, fmtDate } from '../lib/site.js';
+const { post, lang } = Astro.props;
+const d = post.data;
+const href = `/${lang}/blog/${d.slug}/`;
+---
+<a class="post" href={href}>
+  {d.image && <img src={d.image} alt={d.imageAlt ?? ''} loading="lazy" width="600" height="400" />}
+  <div class="in">
+    {d.categories[0] && <span class="cat">{catName(lang, d.categories[0])}</span>}
+    <h3>{d.title}</h3>
+    <time datetime={d.date.toISOString().slice(0, 10)}>{fmtDate(lang, d.date)}</time>
+  </div>
+</a>

@@ -1,0 +1,48 @@
+---
+import Base from '../layouts/Base.astro';
+import { DOCTOLIB, PHONE_REV, EMAIL_REV } from '../lib/site.js';
+const { lang } = Astro.props;
+const t = lang === 'fr' ? {
+  title: 'Contact & rendez-vous — Marie Nussbaum, Paris 7ᵉ',
+  desc: 'Prendre rendez-vous avec Marie Nussbaum, psychologue clinicienne et psychanalyste au 26 boulevard Raspail, Paris 7ᵉ — au cabinet ou en visioconférence.',
+  caps: 'Contact', h1: 'Prendre rendez-vous.',
+  intro: 'Le plus simple est de réserver directement un créneau sur Doctolib — au cabinet ou en visioconférence.',
+  p2: 'Pour toute question avant une première consultation, vous pouvez écrire ou appeler ; en cas d’absence, laissez un message avec vos disponibilités.',
+  rdv: 'Réserver sur Doctolib', tel: 'Téléphone', adr: 'Adresse', visio: 'Visio', visioVal: 'Aux horaires du cabinet',
+  metro: 'Métro', metroVal: 'Sèvres-Babylone (10·12) · Rue du Bac (12)',
+  hono: 'Honoraires', honoVal: '120 € · 150 € en anglais — tarif étudiant sur demande',
+} : {
+  title: 'Contact & appointments — Marie Nussbaum, Paris 7th',
+  desc: 'Book a session with Marie Nussbaum, clinical psychologist and psychoanalyst at 26 boulevard Raspail, Paris 7th — in person or online.',
+  caps: 'Contact', h1: 'Book a session.',
+  intro: 'The simplest way is to book a slot directly on Doctolib — in person or online.',
+  p2: 'For any question ahead of a first session, feel free to write or call; if I am unavailable, leave a message with your availability.',
+  rdv: 'Book on Doctolib', tel: 'Phone', adr: 'Address', visio: 'Online', visioVal: 'Within office hours',
+  metro: 'Métro', metroVal: 'Sèvres-Babylone (10·12) · Rue du Bac (12)',
+  hono: 'Fees', honoVal: '€120 · €150 in English — student rate on request',
+};
+---
+<Base lang={lang} title={t.title} description={t.desc} path={`/${lang}/contact/`}
+      altPath={`/${lang === 'fr' ? 'en' : 'fr'}/contact/`}>
+  <div class="page-head">
+    <div class="wrap">
+      <span class="caps">{t.caps}</span>
+      <h1>{t.h1}</h1>
+      <p class="intro">{t.intro}</p>
+    </div>
+  </div>
+  <div class="wrap contact-cols">
+    <div>
+      <p style="color:#3A464F;max-width:56ch">{t.p2}</p>
+      <p style="margin-top:26px"><a class="btn" href={DOCTOLIB} target="_blank" rel="noopener">{t.rdv}</a></p>
+    </div>
+    <div class="carte-page">
+      <div><b>{t.tel}</b><a data-rev={PHONE_REV} data-tel href="#"></a></div>
+      <div><b>E-mail</b><a data-rev={EMAIL_REV} data-mail href="#"></a></div>
+      <div><b>{t.adr}</b><span>26 boulevard Raspail, 75007 Paris</span></div>
+      <div><b>{t.metro}</b><span>{t.metroVal}</span></div>
+      <div><b>{t.visio}</b><span>{t.visioVal}</span></div>
+      <div><b>{t.hono}</b><span>{t.honoVal}</span></div>
+    </div>
+  </div>
+</Base>

@@ -1,0 +1,88 @@
+# Sveltia CMS — interface d'édition à l'adresse /admin
+# ⚠ À FINALISER : base_url = l'adresse du petit worker Cloudflare qui gère la
+#   connexion GitHub (voir README, section « CMS »)
+backend:
+  name: github
+  repo: marienussbaum/marienussbaum.github.io
+  branch: master
+  base_url: https://sveltia-cms-auth.A-REMPLACER.workers.dev   # ← à remplacer
+
+media_folder: public/images
+public_folder: /images
+
+i18n:
+  structure: multiple_folders
+  locales: [fr, en]
+  default_locale: fr
+
+collections:
+  - name: carnets-fr
+    label: Carnets (français)
+    label_singular: Carnet (FR)
+    folder: src/content/blog/fr
+    create: true
+    extension: md
+    slug: "{{fields.slug}}"
+    summary: "{{title}} — {{date}}"
+    sortable_fields: [date, title]
+    fields:
+      - { name: title, label: Titre, widget: string }
+      - { name: description, label: "Description (Google, ~155 caractères)", widget: text }
+      - { name: date, label: Date, widget: datetime, format: "YYYY-MM-DD", time_format: false }
+      - { name: image, label: Image de couverture, widget: image, required: false }
+      - { name: imageAlt, label: "Texte alternatif de l'image", widget: string, required: false }
+      - name: categories
+        label: Rubriques
+        widget: select
+        multiple: true
+        options:
+          - { label: "Enfance & parentalité", value: enfance-et-parentalite }
+          - { label: "Adolescents", value: adolescents }
+          - { label: "Couple & liens", value: couple-et-liens }
+          - { label: "HPI & douance", value: hpi-et-douance }
+          - { label: "Travail & burn-out", value: travail-et-burn-out }
+          - { label: "Corps & maladie", value: corps-et-maladie }
+          - { label: "Deuil & grand âge", value: deuil-et-grand-age }
+          - { label: "Insolites", value: insolites }
+          - { label: "Psychanalyse & société", value: psychanalyse-et-societe }
+          - { label: "Expatriation & vies internationales", value: expatriation }
+      - { name: lang, label: Langue, widget: hidden, default: fr }
+      - { name: slug, label: "Adresse (slug — ne pas modifier après publication)", widget: string }
+      - { name: translation, label: "Adresse de la version anglaise", widget: string, required: false, hint: "ex. /en/blog/mon-article/" }
+      - { name: featured, label: "Mis en avant (accueil + « Par où commencer »)", widget: boolean, default: false, required: false }
+      - { name: body, label: Texte, widget: markdown }
+  - name: carnets-en
+    label: Notebooks (English)
+    label_singular: Notebook (EN)
+    folder: src/content/blog/en
+    create: true
+    extension: md
+    slug: "{{fields.slug}}"
+    summary: "{{title}} — {{date}}"
+    sortable_fields: [date, title]
+    fields:
+      - { name: title, label: Title, widget: string }
+      - { name: description, label: "Description (Google, ~155 characters)", widget: text }
+      - { name: date, label: Date, widget: datetime, format: "YYYY-MM-DD", time_format: false }
+      - { name: image, label: Cover image, widget: image, required: false }
+      - { name: imageAlt, label: "Image alt text", widget: string, required: false }
+      - name: categories
+        label: Sections
+        widget: select
+        multiple: true
+        options:
+          - { label: "Childhood & parenthood", value: childhood-and-parenthood }
+          - { label: "Adolescence", value: adolescence }
+          - { label: "Couples & bonds", value: couples-and-bonds }
+          - { label: "Giftedness", value: giftedness }
+          - { label: "Work & burnout", value: work-and-burnout }
+          - { label: "Body & illness", value: body-and-illness }
+          - { label: "Grief & old age", value: grief-and-old-age }
+          - { label: "Curiosities", value: curiosities }
+          - { label: "Psychoanalysis & society", value: psychoanalysis-and-society }
+          - { label: "Expat & international lives", value: expat-lives }
+      - { name: lang, label: Language, widget: hidden, default: en }
+      - { name: slug, label: "URL slug (do not change after publishing)", widget: string }
+      - { name: translation, label: "French version path", widget: string, required: false, hint: "e.g. /fr/blog/mon-article/" }
+      - { name: featured, label: "Featured (homepage + “Where to begin”)", widget: boolean, default: false, required: false }
+      - { name: body, label: Body, widget: markdown }

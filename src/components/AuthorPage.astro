@@ -1,0 +1,35 @@
+---
+import Base from '../layouts/Base.astro';
+const { lang } = Astro.props;
+const t = lang === 'fr' ? {
+  title: 'Marie Nussbaum — Psychologue clinicienne & psychanalyste, Paris 7ᵉ',
+  desc: 'Marie Nussbaum, psychologue clinicienne et psychanalyste à Paris 7ᵉ : quinze ans en entreprise avant la clinique, formée à l’Université Paris Cité.',
+  caps: 'L’autrice', h1: 'Marie Nussbaum',
+  bio1: 'Psychologue clinicienne et psychanalyste, je reçois adultes, adolescents et enfants au 26 boulevard Raspail, à Paris 7ᵉ — en français et en anglais, au cabinet ou en visioconférence.',
+  bio2: 'Avant la clinique, j’ai passé quinze ans dans les grands groupes internationaux, auprès des dirigeants. Formée à l’Université Paris Cité, je m’appuie sur une expérience institutionnelle continue — dont deux années au centre psychanalytique du GHU Sainte-Anne — et une supervision régulière (UFORCA, EPFCL).',
+  home: 'Découvrir le cabinet', blog: 'Lire les carnets',
+} : {
+  title: 'Marie Nussbaum — Clinical psychologist & psychoanalyst, Paris 7th',
+  desc: 'Marie Nussbaum, clinical psychologist and psychoanalyst in Paris 7th: fifteen years in global companies before the consulting room, trained at Université Paris Cité.',
+  caps: 'The author', h1: 'Marie Nussbaum',
+  bio1: 'Clinical psychologist and psychoanalyst, I see adults, adolescents and children at 26 boulevard Raspail, Paris 7th — in English and in French, in person or online.',
+  bio2: 'Before the consulting room, I spent fifteen years in global companies, working alongside senior executives. Trained at Université Paris Cité, my practice rests on continuous institutional experience — including two years at the psychoanalytic centre of the GHU Sainte-Anne — and regular supervision (UFORCA, EPFCL).',
+  home: 'About the practice', blog: 'Read the notebooks',
+};
+---
+<Base lang={lang} title={t.title} description={t.desc} path={`/${lang}/authors/marie-nussbaum/`}
+      altPath={`/${lang === 'fr' ? 'en' : 'fr'}/authors/marie-nussbaum/`}>
+  <div class="wrap auteur">
+    <img src="/images/photo-marie.jpg" alt="Marie Nussbaum" width="560" height="700" />
+    <div>
+      <span class="caps" style="color:var(--laiton-d)">{t.caps}</span>
+      <h1 style="font-size:clamp(32px,4vw,44px);margin:14px 0 18px">{t.h1}</h1>
+      <p style="color:#3A464F;max-width:60ch;margin-bottom:14px">{t.bio1}</p>
+      <p style="color:#3A464F;max-width:60ch">{t.bio2}</p>
+      <p style="margin-top:28px;display:flex;gap:14px;flex-wrap:wrap">
+        <a class="btn ligne" href={`/${lang}/`}>{t.home}</a>
+        <a class="btn ligne" href={`/${lang}/blog/`}>{t.blog}</a>
+      </p>
+    </div>
+  </div>
+</Base>

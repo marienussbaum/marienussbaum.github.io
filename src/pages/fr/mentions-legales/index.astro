@@ -1,0 +1,61 @@
+---
+import Base from '../../../layouts/Base.astro';
+import { ADELI, PHONE_REV, EMAIL_REV } from '../../../lib/site.js';
+---
+<Base lang="fr" title="Mentions légales — Marie Nussbaum" path="/fr/mentions-legales/"
+      altPath="/en/legal/"
+      description="Mentions légales du site de Marie Nussbaum, psychologue clinicienne et psychanalyste à Paris 7ᵉ.">
+  <div class="page-head">
+    <div class="wrap"><span class="caps">Informations</span><h1>Mentions légales</h1></div>
+  </div>
+  <div class="texte">
+    <h2>1. Éditeur du site</h2>
+    <p>Marie Nussbaum<br />Psychologue clinicienne et psychanalyste<br />
+       N° ADELI / RPPS : {ADELI}<br />SIREN : 931 345 995<br />
+       26 boulevard Raspail, 75007 Paris<br />
+       Téléphone : <a data-rev={PHONE_REV} data-tel href="#"></a><br />
+       E-mail : <a data-rev={EMAIL_REV} data-mail href="#"></a></p>
+    <h2>2. Directrice de la publication</h2>
+    <p>Marie Nussbaum</p>
+    <h2>3. Hébergement</h2>
+    <p>GitHub, Inc.<br />88 Colin P Kelly Jr St<br />San Francisco, CA 94107, États-Unis<br />
+       <a href="https://github.com" rel="noopener">github.com</a></p>
+    <h2>4. Propriété intellectuelle</h2>
+    <p>L’ensemble du contenu de ce site (textes, images, articles de blog) est protégé par le droit d’auteur.
+       Toute reproduction, même partielle, est interdite sans autorisation préalable écrite de l’éditrice.</p>
+    <h2>5. Confidentialité des situations cliniques</h2>
+    <p>Les situations cliniques, témoignages et cas évoqués dans les articles de blog sont fictifs ou ont été
+       profondément modifiés — noms, détails biographiques, circonstances — afin de protéger l’identité et
+       la vie privée des personnes concernées. Toute ressemblance avec des personnes réelles, vivantes ou
+       décédées, serait purement fortuite. Ces récits ont pour seul but d’illustrer des dynamiques
+       psychologiques à visée pédagogique.</p>
+    <h2>6. Sécurité — Cloudflare</h2>
+    <p>Ce site est protégé par <strong>Cloudflare</strong> (Cloudflare, Inc., 101 Townsend St, San Francisco,
+       CA 94107, États-Unis), un service de sécurité et de distribution de contenu (CDN). Pour protéger le
+       site contre les attaques informatiques (DDoS, bots malveillants, spam), Cloudflare peut déposer des
+       cookies techniques de sécurité sur votre navigateur.</p>
+    <p>Ces cookies sont <strong>strictement nécessaires</strong> au bon fonctionnement et à la sécurité du
+       site. Ils permettent à Cloudflare de distinguer les visiteurs humains légitimes des accès automatisés
+       malveillants. Ils ne sont utilisés ni à des fins de traçage publicitaire, ni de profilage
+       comportemental, ni de partage de données à des fins commerciales.</p>
+    <p>Les cookies strictement nécessaires à la sécurité ne sont pas soumis à l’obligation de recueil du
+       consentement préalable au sens du RGPD et des recommandations de la CNIL. Pour en savoir plus :
+       <a href="https://www.cloudflare.com/privacypolicy/" rel="noopener">politique de confidentialité de Cloudflare</a>.</p>
+    <h2>7. Protection des données personnelles (RGPD)</h2>
+    <p>En dehors des cookies de sécurité Cloudflare mentionnés ci-dessus, ce site ne collecte aucune donnée
+       personnelle sans votre consentement explicite. Aucun cookie de traçage ou de profilage n’est utilisé.
+       Ce site ne comporte pas de formulaire de contact : les échanges se font directement par e-mail, par
+       téléphone ou via Doctolib.</p>
+    <p>La prise de rendez-vous s’effectue via Doctolib, qui traite vos données selon sa propre politique de
+       confidentialité.</p>
+    <p>Ce site utilise une mesure d’audience sans cookie (Cloudflare Web Analytics), qui ne permet pas
+       d’identifier les visiteurs.</p>
+    <p>Conformément au Règlement général sur la protection des données (RGPD) et à la loi Informatique et
+       Libertés, vous disposez d’un droit d’accès, de rectification et de suppression de vos données. Pour
+       exercer ce droit, contactez : <a data-rev={EMAIL_REV} data-mail href="#"></a>.</p>
+    <h2>8. Responsabilité</h2>
+    <p>Le contenu de ce site est fourni à titre informatif et ne constitue pas un avis médical ou
+       psychologique. Marie Nussbaum ne pourra être tenue responsable de l’utilisation faite des informations
+       publiées sur ce site.</p>
+  </div>
+</Base>
