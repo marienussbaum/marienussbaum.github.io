@@ -1,0 +1,38 @@
+---
+import Base from '../layouts/Base.astro';
+import PostCard from './PostCard.astro';
+import { CATEGORIES } from '../lib/site.js';
+
+const { lang, cat, posts } = Astro.props;
+const name = lang === 'fr' ? cat.nameFr : cat.nameEn;
+const intro = lang === 'fr' ? cat.introFr : cat.introEn;
+const t = lang === 'fr'
+  ? { caps: 'Carnets cliniques', retour: '← Tous les carnets', n: (x) => `${x} texte${x > 1 ? 's' : ''}` }
+  : { caps: 'Clinical notebooks', retour: '← All notebooks', n: (x) => `${x} essay${x > 1 ? 's' : ''}` };
+---
+<Base lang={lang} title={`${name} — ${t.caps} — Marie Nussbaum`} description={intro}
+      path={`/${lang}/categories/${cat[lang]}/`}
+      altPath={`/${lang === 'fr' ? 'en' : 'fr'}/categories/${cat[lang === 'fr' ? 'en' : 'fr']}/`}>
+  <div class="page-head">
+    <div class="wrap">
+      <span class="caps">{t.caps} · {t.n(posts.length)}</span>
+      <h1>{name}</h1>
+      <p class="intro">{intro}</p>
+      <div class="chips">
+        {CATEGORIES.map((c) => (
+          <a class={c[lang] === cat[lang] ? 'on' : ''} href={`/${lang}/categories/${c[lang]}/`}>
+            {lang === 'fr' ? c.nameFr : c.nameEn}
+          </a>
+        ))}
+      </div>
+    </div>
+  </div>
+  <div class="blog-listing">
+    <div class="wrap">
+      <div class="posts" style="margin-top:8px">
+        {posts.map((p) => <PostCard post={p} lang={lang} />)}
+      </div>
+      <p style="margin-top:44px"><a class="btn ligne" href={`/${lang}/blog/`}>{t.retour}</a></p>
+    </div>
+  </div>
+</Base>

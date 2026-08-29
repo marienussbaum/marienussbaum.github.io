@@ -1,0 +1,53 @@
+---
+import Base from '../layouts/Base.astro';
+import PostCard from './PostCard.astro';
+import { render } from 'astro:content';
+import { catName, catUrl, fmtDate, DOCTOLIB } from '../lib/site.js';
+
+const { post, lang, allPosts } = Astro.props;
+const d = post.data;
+const { Content } = await render(post);
+const path = `/${lang}/blog/${d.slug}/`;
+// « À lire ensuite » : trois textes de la même rubrique (la première), sinon les plus récents.
+const prim = d.categories[0];
+const pool = allPosts.filter((p) => p.data.slug !== d.slug);
+const same = pool.filter((p) => prim && p.data.categories.includes(prim));
+const next = [...same, ...pool.filter((p) => !same.includes(p))].slice(0, 3);
+const t = lang === 'fr'
+  ? { suite: 'À lire ensuite', bande: 'Un texte vous parle ? La consultation est l’endroit où déposer ce qu’il remue.', rdv: 'Prendre rendez-vous' }
+  : { suite: 'Read next', bande: 'If an essay resonates, the consulting room is where what it stirs can be worked through.', rdv: 'Book a session' };
+---
+<Base lang={lang} title={`${d.title} — Marie Nussbaum`} description={d.description}
+      path={path} altPath={d.translation ?? null} ogImage={d.image} ogType="article">
+  <article>
+    <div class="article-head">
+      <div class="cats">
+        {d.categories.map((c) => <a href={catUrl(lang, c)}>{catName(lang, c)}</a>)}
+      </div>
+      <h1>{d.title}</h1>
+      <time datetime={d.date.toISOString().slice(0, 10)}>{fmtDate(lang, d.date)}</time>
+    </div>
+    {d.image && (
+      <div class="article-cover">
+        <img src={d.image} alt={d.imageAlt ?? ''} width="1200" height="800" fetchpriority="high" />
+      </div>
+    )}
+    <div class="prose"><Content /></div>
+  </article>
+  <div class="bande-rdv">
+    <div class="wrap">
+      <p>{t.bande}</p>
+      <a class="btn" href={DOCTOLIB} target="_blank" rel="noopener">{t.rdv}</a>
+    </div>
+  </div>
+  {next.length > 0 && (
+    <div class="suite">
+      <div class="wrap">
+        <h2 class="serif">{t.suite}</h2>
+        <div class="posts" style="margin-top:24px">
+          {next.map((p) => <PostCard post={p} lang={lang} />)}
+        </div>
+      </div>
+    </div>
+  )}
+</Base>

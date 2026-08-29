@@ -1,0 +1,55 @@
+---
+import Base from '../layouts/Base.astro';
+import PostCard from './PostCard.astro';
+import { getCollection } from 'astro:content';
+import { CATEGORIES } from '../lib/site.js';
+
+const { lang } = Astro.props as { lang: 'fr' | 'en' };
+const posts = (await getCollection('blog', (p) => p.data.lang === lang))
+  .sort((a, b) => b.data.date.getTime() - a.data.date.getTime());
+const featured = posts.filter((p) => p.data.featured);
+const count = (slug: string) => posts.filter((p) => p.data.categories.includes(slug)).length;
+const t = lang === 'fr' ? {
+  title: 'Carnets cliniques — Marie Nussbaum',
+  desc: 'Des textes pour penser ce que la vie nous fait : enfance, couple, travail, deuil, expatriation — par une psychologue clinicienne et psychanalyste à Paris.',
+  caps: 'Carnets cliniques', h1: 'Penser ce que la vie nous fait.',
+  intro: `${posts.length} textes, en français et en anglais — la même voix dans les deux langues. Les situations évoquées sont fictives ou profondément modifiées.`,
+  commencer: 'Par où commencer', tous: 'Tous les textes',
+} : {
+  title: 'Clinical notebooks — Marie Nussbaum',
+  desc: 'Essays for thinking through what life does to us: childhood, couples, work, grief, expat lives — by a clinical psychologist and psychoanalyst in Paris.',
+  caps: 'Clinical notebooks', h1: 'Thinking through what life does to us.',
+  intro: `${posts.length} essays, in English and in French — the same voice in both languages. The situations described are fictional or deeply altered.`,
+  commencer: 'Where to begin', tous: 'All essays',
+};
+---
+<Base lang={lang} title={t.title} description={t.desc} path={`/${lang}/blog/`} altPath={`/${lang === 'fr' ? 'en' : 'fr'}/blog/`}>
+  <div class="page-head">
+    <div class="wrap">
+      <span class="caps">{t.caps}</span>
+      <h1>{t.h1}</h1>
+      <p class="intro">{t.intro}</p>
+      <div class="chips">
+        {CATEGORIES.map((c) => (
+          <a href={`/${lang}/categories/${c[lang]}/`}>{lang === 'fr' ? c.nameFr : c.nameEn}<span>{count(c.fr) || count(c.en) || 0}</span></a>
+        ))}
+      </div>
+    </div>
+  </div>
+  <div class="blog-listing">
+    <div class="wrap">
+      {featured.length > 0 && (
+        <>
+          <h2 class="serif">{t.commencer}</h2>
+          <div class="posts" style="margin-top:24px">
+            {featured.map((p) => <PostCard post={p} lang={lang} />)}
+          </div>
+        </>
+      )}
+      <h2 class="serif">{t.tous}</h2>
+      <div class="posts" style="margin-top:24px">
+        {posts.map((p) => <PostCard post={p} lang={lang} />)}
+      </div>
+    </div>
+  </div>
+</Base>

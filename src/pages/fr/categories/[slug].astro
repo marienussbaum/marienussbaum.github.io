@@ -1,0 +1,13 @@
+---
+import { getCollection } from 'astro:content';
+import { CATEGORIES } from '../../../lib/site.js';
+import CategoryPage from '../../../components/CategoryPage.astro';
+
+export function getStaticPaths() {
+  return CATEGORIES.map((cat) => ({ params: { slug: cat.fr }, props: { cat } }));
+}
+const { cat } = Astro.props;
+const posts = (await getCollection('blog', (p) => p.data.lang === 'fr' && p.data.categories.includes(cat.fr)))
+  .sort((a, b) => b.data.date.getTime() - a.data.date.getTime());
+---
+<CategoryPage lang="fr" cat={cat} posts={posts} />

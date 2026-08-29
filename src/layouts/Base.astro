@@ -1,187 +1,84 @@
 ---
-import TwSizeIndicator from "@/components/TwSizeIndicator.astro";
-import config from "@/config/config.json";
-import social from "@/config/social.json";
-import theme from "@/config/theme.json";
-import { plainify } from "@/lib/utils/textConverter";
-import Footer from "@/partials/Footer.astro";
-import Header from "@/partials/Header.astro";
-import "@/styles/main.css";
-import { Font } from "astro:assets";
-import { ClientRouter } from "astro:transitions";
+import '../styles/global.css';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { SITE_URL, DOCTOLIB, LINKEDIN } from '../lib/site.js';
 
-// font families - extract font names for Font component (filter out type keys)
-const fontEntries = Object.entries(theme.fonts.font_family).filter(
-  ([key]) => !key.includes("_type"),
-);
-
-// types for frontmatters
-export interface Props {
-  title?: string;
-  meta_title?: string;
-  description?: string;
-  image?: string;
-  noindex?: boolean;
-  canonical?: string;
-  ogType?: "website" | "article";
-  hreflangSlug?: string;
-  /** Override hreflang hrefs when the slug differs between locales. */
-  hreflangPaths?: { en: string; fr: string };
+interface Props {
+  lang: 'fr' | 'en';
+  title: string;
+  description: string;
+  path: string;            // chemin canonique, ex. « /fr/blog/ »
+  altPath?: string | null; // page équivalente dans l'autre langue
+  ogImage?: string;
+  ogType?: string;
+  withSchema?: boolean;    // JSON-LD (page d'accueil)
 }
-
-// destructure frontmatters
-const { title, meta_title, description, image, noindex, canonical, ogType, hreflangSlug, hreflangPaths } =
-  Astro.props;
-
-const locale = (
-  Astro.currentLocale ?? (Astro.url.pathname.startsWith("/fr") ? "fr" : "en")
-) as "en" | "fr";
-
-const brandSuffix: Record<"en" | "fr", string> = {
-  en: "Marie Nussbaum – Psychologist in Paris",
-  fr: "Marie Nussbaum – Psychologue à Paris",
-};
-
-const pageTitle = meta_title
-  ? plainify(meta_title)
-  : title
-    ? `${plainify(title)} | ${brandSuffix[locale]}`
-    : brandSuffix[locale];
-
-const siteDescription =
-  typeof config.metadata.meta_description === "string"
-    ? config.metadata.meta_description
-    : (config.metadata.meta_description as Record<string, string>)[locale];
-
-const metaDesc = plainify(description ?? siteDescription);
-
-const canonicalUrl = new URL(Astro.url.pathname, config.site.base_url).href;
-
-const pathWithoutLocale = Astro.url.pathname.replace(/^\/(en|fr)/, "") || "/";
-const effectivePath = hreflangSlug ?? pathWithoutLocale;
-const enPath = hreflangPaths?.en ?? effectivePath;
-const frPath = hreflangPaths?.fr ?? effectivePath;
-const enHref = new URL(`/en${enPath === "/" ? "" : enPath}`, config.site.base_url).href;
-const frHref = new URL(`/fr${frPath === "/" ? "" : frPath}`, config.site.base_url).href;
-
-const linkedinUrl =
-  social.main.find((s: { name: string; link: string }) => s.name === "linkedin")?.link ?? "";
-
-const jsonLd = {
-  "@context": "https://schema.org",
-  "@type": ["LocalBusiness", "Psychologist"],
-  name: config.site.logo_text,
-  description: siteDescription,
-  url: config.site.base_url,
-  telephone: config.contactinfo.phone,
-  email: config.contactinfo.email,
-  image: `${config.site.base_url}${config.metadata.meta_image}`,
-  address: {
-    "@type": "PostalAddress",
-    streetAddress: "26 Boulevard Raspail",
-    addressLocality: "Paris",
-    postalCode: "75007",
-    addressCountry: "FR",
-  },
-  sameAs: [linkedinUrl],
+const { lang, title, description, path, altPath = null,
+        ogImage = '/images/og-cabinet.jpg', ogType = 'website', withSchema = false } = Astro.props;
+const canonical = SITE_URL + encodeURI(path);
+const frPath = lang === 'fr' ? path : altPath;
+const enPath = lang === 'en' ? path : altPath;
+const schema = {
+  '@context': 'https://schema.org',
+  '@type': 'Psychologist',
+  name: 'Marie Nussbaum',
+  description: lang === 'fr'
+    ? 'Psychologue clinicienne et psychanalyste à Paris 7ᵉ. Consultations en français et en anglais, au cabinet ou en visioconférence.'
+    : 'Clinical psychologist and psychoanalyst in Paris 7th. Sessions in English and French, in person or online.',
+  url: SITE_URL + '/',
+  image: SITE_URL + '/images/photo-marie.jpg',
+  address: { '@type': 'PostalAddress', streetAddress: '26 boulevard Raspail',
+             postalCode: '75007', addressLocality: 'Paris', addressCountry: 'FR' },
+  areaServed: 'Paris',
+  knowsLanguage: ['fr', 'en'],
+  priceRange: '120€ - 150€',
+  sameAs: [LINKEDIN, DOCTOLIB],
 };
 ---
-
-<!doctype html>
-<html lang={locale}>
-  <head>
-    <!-- favicon -->
-    <link rel="icon" type="image/x-icon" href="/images/favicon/favicon.ico" />
-    <link rel="icon" type="image/svg+xml" href="/images/favicon/favicon.svg" />
-    <link rel="icon" type="image/png" sizes="96x96" href="/images/favicon/favicon-96x96.png" />
-    <link rel="apple-touch-icon" sizes="180x180" href="/images/favicon/apple-touch-icon.png" />
-    <link rel="manifest" href="/images/favicon/site.webmanifest" />
-    <!-- theme meta -->
-    <meta name="theme-name" content="bookworm-light-astro" />
-    <meta name="msapplication-TileColor" content="#000000" />
-    <meta
-      name="theme-color"
-      media="(prefers-color-scheme: light)"
-      content="#fff"
-    />
-    <meta
-      name="theme-color"
-      media="(prefers-color-scheme: dark)"
-      content="#000"
-    />
-    <meta name="generator" content={Astro.generator} />
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-
-    <!-- google font css - Astro 6 built-in Font API -->
-    {
-      fontEntries.map(([key]) => {
-        const cssVar = `--font-${key}` as any;
-        return <Font cssVariable={cssVar} preload />;
-      })
-    }
-
-    <!-- responsive meta -->
-    <meta
-      name="viewport"
-      content="width=device-width, initial-scale=1, maximum-scale=5"
-    />
-
-    <!-- title -->
-    <title>{pageTitle}</title>
-
-    <!-- canonical url -->
-    <link rel="canonical" href={canonical ?? canonicalUrl} />
-
-    <!-- hreflang -->
-    <link rel="alternate" hreflang="en" href={enHref} />
-    <link rel="alternate" hreflang="fr" href={frHref} />
-    <link rel="alternate" hreflang="x-default" href={enHref} />
-
-    <!-- noindex robots -->
-    {noindex && <meta name="robots" content="noindex,nofollow" />}
-
-    <!-- meta-description -->
-    <meta name="description" content={metaDesc} />
-
-    <ClientRouter />
-
-    <!-- author from config.json -->
-    <meta name="author" content={config.metadata.meta_author} />
-
-    <!-- og tags -->
-    <meta property="og:title" content={pageTitle} />
-    <meta property="og:description" content={metaDesc} />
-    <meta property="og:type" content={ogType ?? "website"} />
-    <meta property="og:url" content={canonicalUrl} />
-    <meta property="og:locale" content={locale === "fr" ? "fr_FR" : "en_GB"} />
-    <meta property="og:site_name" content="Marie Nussbaum" />
-
-    <!-- twitter tags -->
-    <meta name="twitter:title" content={pageTitle} />
-    <meta name="twitter:description" content={metaDesc} />
-
-    <!-- og-image -->
-    <meta
-      property="og:image"
-      content={`${config.site.base_url}${image ? image : config.metadata.meta_image}`}
-    />
-
-    <!-- twitter-image -->
-    <meta
-      name="twitter:image"
-      content={`${config.site.base_url}${image ? image : config.metadata.meta_image}`}
-    />
-    <meta name="twitter:card" content="summary_large_image" />
-
-    <!-- JSON-LD LocalBusiness -->
-    <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
-  </head>
-  <body>
-    <TwSizeIndicator />
-    <Header />
-    <main id="main-content" class="min-h-[60vh]">
-      <slot />
-    </main>
-    <Footer />
-  </body>
+<html lang={lang}>
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>{title}</title>
+  <meta name="description" content={description} />
+  <link rel="canonical" href={canonical} />
+  {frPath && <link rel="alternate" hreflang="fr" href={SITE_URL + encodeURI(frPath)} />}
+  {enPath && <link rel="alternate" hreflang="en" href={SITE_URL + encodeURI(enPath)} />}
+  {frPath && <link rel="alternate" hreflang="x-default" href={SITE_URL + encodeURI(frPath)} />}
+  <link rel="icon" href="/favicon.ico" sizes="32x32" />
+  <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png" />
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+  <meta property="og:title" content={title} />
+  <meta property="og:description" content={description} />
+  <meta property="og:type" content={ogType} />
+  <meta property="og:url" content={canonical} />
+  <meta property="og:image" content={SITE_URL + ogImage} />
+  <meta property="og:site_name" content="Marie Nussbaum" />
+  <meta property="og:locale" content={lang === 'fr' ? 'fr_FR' : 'en_GB'} />
+  <meta name="twitter:card" content="summary_large_image" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Marcellus&family=Mulish:ital,wght@0,300;0,400;0,600;0,700;1,400&display=swap" rel="stylesheet" />
+  {withSchema && <script type="application/ld+json" set:html={JSON.stringify(schema)} />}
+  <!-- Mesure d'audience sans cookie : décommenter et renseigner le token une fois
+       le site derrière Cloudflare Web Analytics.
+  <script defer src="https://static.cloudflareinsights.com/beacon.min.js"
+          data-cf-beacon='{"token": "TOKEN_A_RENSEIGNER"}'></script> -->
+</head>
+<body>
+  <Header lang={lang} altPath={altPath} />
+  <slot />
+  <Footer lang={lang} />
+  <script is:inline>
+    // Coordonnées assemblées côté navigateur : intactes pour les visiteurs,
+    // illisibles pour les robots qui moissonnent le HTML.
+    document.querySelectorAll('[data-rev]').forEach(function (el) {
+      var v = el.getAttribute('data-rev').split('').reverse().join('');
+      el.textContent = v;
+      if (el.hasAttribute('data-mail')) el.setAttribute('href', 'mailto:' + v);
+      if (el.hasAttribute('data-tel')) el.setAttribute('href', 'tel:' + v.replace(/[^+\d]/g, ''));
+    });
+  </script>
+</body>
 </html>

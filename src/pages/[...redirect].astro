@@ -1,0 +1,29 @@
+---
+// Pages-relais : les 145 anciennes adresses (doublons racine, 85 anciennes
+// catégories, pagination) renvoient vers leur équivalent dans la nouvelle
+// arborescence. Balise canonique + redirection immédiate ; exclues du sitemap.
+import redirects from '../lib/redirects.json';
+import { SITE_URL } from '../lib/site.js';
+
+export function getStaticPaths() {
+  return Object.entries(redirects).map(([from, to]) => ({
+    params: { redirect: from === '/' ? undefined : from.replace(/^\/+|\/+$/g, '') },
+    props: { to },
+  }));
+}
+const { to } = Astro.props;
+const target = SITE_URL + encodeURI(to);
+const lang = to.startsWith('/en/') ? 'en' : 'fr';
+---
+<html lang={lang}>
+<head>
+  <meta charset="utf-8" />
+  <title>Marie Nussbaum</title>
+  <meta http-equiv="refresh" content={`0;url=${target}`} />
+  <link rel="canonical" href={target} />
+  <meta name="robots" content="noindex" />
+</head>
+<body>
+  <p><a href={target}>Marie Nussbaum — {target}</a></p>
+</body>
+</html>
