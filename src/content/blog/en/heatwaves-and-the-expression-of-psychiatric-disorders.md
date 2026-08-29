@@ -10,8 +10,6 @@ slug: "heatwaves-and-the-expression-of-psychiatric-disorders"
 translation: "/fr/blog/canicule-et-expression-des-troubles-psychiatriques/"
 ---
 
-![Heatwaves and the Expression of Psychiatric Disorders](/images/canicule-copy-1.jpg).png>)
-
 Extreme heat transforms the city into a dense, almost motionless space where the air seems to hold both bodies and thoughts in suspension. During heatwaves, something shifts in the clinical landscape: familiar thresholds change, symptoms take on new contours, sometimes more sharply. Over the past weeks, I have observed in several patients a clear intensification of their difficulties - irritability rising more quickly, anxiety settling in more firmly, sleep unraveling, emotional fatigue appearing without warning. Heat acts as a subtle but persistent destabilizing factor, an external element that weakens internal regulatory processes.
 
 Scientific literature describes this phenomenon with precision. Heatwaves are associated with increased psychiatric consultations and hospital admissions, particularly among individuals with psychotic disorders, mood disorders, or neurocognitive conditions. High temperatures disrupt thermoregulation, alter sleep, modify bodily perception, and impose an environmental stress that can amplify symptoms. Psychotropic medications contribute significantly to this vulnerability: certain antidepressants, neuroleptics, benzodiazepines, and lithium can reduce the body’s ability to cool itself, diminish thirst perception, or increase the risk of dehydration. Lithium levels, in particular, fluctuate with hydration and may reach toxic ranges during periods of intense heat. Research also notes an increase in suicidal risk, linked to emotional disorganization, impulsivity, and fragmented sleep.

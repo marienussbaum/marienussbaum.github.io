@@ -10,8 +10,6 @@ slug: "quand-la-nuit-nous-regarde--ce-que-les-tueurs-en-serie-revelent-de-notre-
 translation: "/en/blog/when-the-night-looks-back-at-us-what-serial-killers-reveal-about-our-imaginary/"
 ---
 
-![Quand la nuit nous regarde : ce que les tueurs en série révèlent de notre imaginaire](/images/tueurs-copy-1.jpg).png>)
-
 Il y a quelque chose d’inquiétant et de profondément humain dans notre fascination pour les tueurs en série. Nous les observons à travers des documentaires, des séries, des podcasts, comme si nous cherchions à comprendre ce qui, en eux, a basculé. Comme si, en approchant l’extrême, nous tentions de mieux saisir nos propres zones d’ombre. Ce n’est pas la violence brute qui nous attire, mais l’énigme. L’énigme d’un sujet qui franchit une limite que nous ne franchirons jamais, mais qui nous interroge malgré nous.
 
 Freud rappelait que l’être humain porte en lui des motions agressives qu’il préfère ignorer. La figure du tueur en série, dans sa radicalité, devient alors un miroir déformant : elle nous permet de regarder la violence humaine sans être engloutis par elle. Lacan, lui, soulignait que le passage à l’acte surgit là où la parole échoue, là où le sujet ne trouve plus d’adresse possible pour sa souffrance. Le tueur en série, dans cette perspective, n’est pas un monstre mais un sujet dont le lien symbolique s’est rompu, parfois depuis longtemps.

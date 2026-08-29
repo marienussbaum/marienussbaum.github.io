@@ -10,8 +10,6 @@ slug: "fire-the-psyche-and-the-shadow-what-burning-means"
 translation: "/fr/blog/le-feu-la-psyché-et-lombre--ce-que-brûler-veut-dire/"
 ---
 
-![Fire, the Psyche and the Shadow: What Burning Means](/images/pyro-psy.jpg).png>)
-
 There is in fire a truth that words cannot reach, an ancient and archaic truth, almost pre‑human. Fire fascinates, frightens, attracts, repels. It is destruction and purification, threat and promise, end and beginning. Since the earliest myths, it has been the place where humans project their anxieties, desires, anger and rebirths. In clinical practice, fire is never merely physical (it becomes a language). It speaks what the subject cannot say otherwise. It reveals what burns within.
 
 Pyromania, as defined in the DSM‑5, belongs to impulse‑control disorders. The subject feels rising tension before the act, fascination with fire, gratification at ignition, and no material or vengeful motive. Yet this definition remains insufficient. It does not express what psychoanalysis has explored for more than a century: fire as metaphor for inner conflict, as response to anxiety, as attempt to master psychic chaos. Freud already evoked the link between fire and infantile sexuality (Freud, 1908). Fenichel described the arsonist as caught between aggressive impulse and ego ideal. Kernberg illuminated these acts as attempts to restore coherence, fight inner emptiness, produce intensity that replaces absence.

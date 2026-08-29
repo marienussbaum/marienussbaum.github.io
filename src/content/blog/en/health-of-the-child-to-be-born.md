@@ -10,8 +10,6 @@ slug: "health-of-the-child-to-be-born"
 translation: "/fr/blog/health-of-the-child-to-be-born/"
 ---
 
-![Does the mental health of parents affect the health of the child to be born?](/images/placenta-copy-1.jpg).png>)
-
 Pregnancy is a period of profound transformation, marked by physical, emotional, and psychological changes. For some women, this time can be accompanied by stress and anxiety, which may affect not only their own mental health but also that of their unborn child.
 
 Psychoanalyst Daniel Stern introduced the concept of *“psychic transparency”* to describe a state of heightened emotional vulnerability and increased receptivity to unconscious thoughts and feelings during pregnancy. This vulnerability makes pregnant women more sensitive to stressors and negative emotions, with potential consequences for both maternal and fetal mental health. Appropriate psychological support therefore becomes essential for expectant mothers experiencing psychological difficulties. The central question remains: how does parental mental health shape the developmental trajectory of the unborn child?

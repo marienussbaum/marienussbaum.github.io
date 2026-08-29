@@ -10,8 +10,6 @@ slug: "culture-ritual-healing"
 translation: "/fr/blog/culture-ritual-healing/"
 ---
 
-![Culture, Ritual and Healing](/images/transculturel-copy-1.jpg).png>)
-
 Through a transcultural and psychoanalytic lens, this article explores how collective rituals can function as therapeutic devices in the face of trauma. Drawing on examples from diverse cultural traditions - from Congo Square in New Orleans to Siberian shamanic ceremonies, from the pilgrimages of travelling communities in Camargue to religious festivals in India - it shows that psychological care is not limited to the clinical space. It can emerge in shared cultural settings where the body, speech and the group are set in motion. This perspective echoes the work of Moro, Nathan, Hamayon and Piketty, and questions the role of the therapist as mediator of connection, narrative and framework.
 
 In his documentary *When the Levees Broke* (2006), Spike Lee depicts the consequences of Hurricane Katrina, but above all the invisible wound left by institutional abandonment. Through testimonies, songs and gatherings, he shows how culture becomes a place of memory, resistance and care. This cinematic gesture illustrates a fundamental truth: care is not limited to the individual. It is cultural, communal, and sometimes sacred.

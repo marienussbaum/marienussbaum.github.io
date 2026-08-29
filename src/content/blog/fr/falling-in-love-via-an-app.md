@@ -10,8 +10,6 @@ slug: "falling-in-love-via-an-app"
 translation: "/en/blog/falling-in-love-via-an-app/"
 ---
 
-![Tomber amoureux via une app](/images/applove-copy-1.jpg).png>)
-
 ###### Colloque du GHU de Saint-Anne (Mai 2024) : notes sur mon intervention sur « Tomber amoureux via une application »
 
 En mai, les jardins de Sainte‑Anne prennent une allure presque irréelle. Sous la chaleur douce du printemps, les pivoines s’ouvrent comme des souffles, les rosiers exhalent une odeur sucrée, et les grands arbres projettent des ombres mouvantes sur les allées. Nous étions là, réunis pour le colloque du GHU, dans ce décor suspendu où les pétales tombent comme une neige lente. Entre deux chants d’oiseaux et le bruissement des feuilles, nous parlions de rencontres, de désir, d’amour, et de la manière dont, aujourd’hui, ces expériences passent si souvent par la médiation d’une application. Le thème du colloque portait sur l’association dans sa dimension analytique, et j’avais choisi d’explorer comment, dans les applications amoureuses, les personnes associent sur l’autre, construisent des images internes, projettent, déplacent, condensent, rêvent l’autre avant même de le rencontrer.

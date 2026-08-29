@@ -10,8 +10,6 @@ slug: "le-feu-la-psyché-et-lombre--ce-que-brûler-veut-dire"
 translation: "/en/blog/fire-the-psyche-and-the-shadow-what-burning-means/"
 ---
 
-![Le feu, la psyché et l’ombre : ce que brûler veut dire](/images/pyro-psy.jpg).png>)
-
 Il y a dans le feu une vérité que les mots n’atteignent pas, une vérité ancienne, archaïque, presque préhumaine. Le feu fascine, effraie, attire, repousse. Il est destruction et purification, menace et promesse, fin et commencement. Depuis les premiers mythes, il est le lieu où l’homme projette ses angoisses, ses désirs, ses colères, ses renaissances. Dans la clinique, le feu n’est jamais un simple phénomène physique (il devient un langage). Il dit ce que le sujet ne peut pas dire autrement. Il révèle ce qui brûle à l’intérieur.
 
 La pyromanie, telle que définie par le DSM‑5, appartient aux troubles du contrôle des impulsions. Le sujet ressent une tension croissante avant l’acte, une fascination pour le feu, une gratification au moment de l’allumage, et l’absence de motivation matérielle ou vengeresse. Mais cette définition, nécessaire, reste insuffisante. Elle ne dit pas ce que la psychanalyse explore depuis plus d’un siècle : le feu comme métaphore d’un conflit interne, comme réponse à une angoisse, comme tentative de maîtriser un chaos psychique. Freud évoquait déjà le lien entre feu et sexualité infantile (Freud, 1908). Fenichel décrivait l’incendiaire comme un sujet pris entre pulsion agressive et idéal du moi. Kernberg, dans ses travaux sur les états limites, éclaire ces passages à l’acte : le feu comme tentative de restaurer une cohérence interne, de lutter contre un vide, de produire une intensité qui remplace une absence.

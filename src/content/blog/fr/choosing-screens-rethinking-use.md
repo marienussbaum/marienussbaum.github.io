@@ -10,8 +10,6 @@ slug: "choosing-screens-rethinking-use"
 translation: "/en/blog/choosing-screens-rethinking-use/"
 ---
 
-![Choisir les écrans, penser les usages](/images/ecrans-copy-1.jpg).png>)
-
 Choisir l’usage des écrans et favoriser d’autres activités bénéficie à la santé somatique, psychique et cognitive. Lorsqu’il est excessif ou non accompagné, l’usage des écrans peut affecter la santé globale : surpoids, troubles du sommeil, agitation, inhibition, fatigue mentale, appauvrissement du lien à soi et à l’autre. Il ne s’agit pas d’interdire les écrans, ni de les diaboliser, mais de penser leur place dans le quotidien, leur fonction, leur temporalité, et les alternatives qu’on peut leur offrir c’est-à-dire, retrouver une temporalité subjective et des alternatives créatives.
 
 Un adolescent qui appelle un ami et lui parle, qui cherche une information pour ses devoirs, mobilise des fonctions cognitives et relationnelles précieuses. Ce n’est pas la même chose que de passer des heures en solitaire sur des jeux vidéo ou de faire défiler des contenus aléatoires sur une application. Le lien ne se construit pas par des textos, mais par des mots échangés, des regards, des silences partagés. Regarder une émission en famille, la commenter, en rire ou en débattre, n’a pas les mêmes effets que visionner seul des vidéos courtes et répétitives.

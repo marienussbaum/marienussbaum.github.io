@@ -10,8 +10,6 @@ slug: "lenfant---plante--quand-le-soin-remplace-la-possession"
 translation: "/en/blog/the-child--plant-when-care-replaces-possession/"
 ---
 
-![L’enfant - plante : quand le soin remplace la possession](/images/enfantplante-copy-1.jpg).png>)
-
 Dans l’espace d’une consultation, les mots prennent parfois une densité inattendue. Ils deviennent des éclats de vérité, ou des armes légères, selon la manière dont ils sont lancés. Ce jour‑là, l’un des parents, excédé, s’est tourné vers l’autre en lâchant un « *your precious* » à propos de l’enfant qu’ils élèvent ensemble. Le ton n’était pas tendre : il accusait, il piquait, il insinuait que l’autre s’accrochait trop à l’enfant, comme à un objet précieux qu’il faudrait protéger de tout, y compris du second parent.
 
 Mais ce qui se joue dans cette phrase dépasse l’agacement. Elle révèle une projection : l’idée que si l’autre parent prend soin de l’enfant, c’est forcément par narcissisme, par possession, par fusion. Comme si la préciosité ne pouvait être que une forme d’appropriation. Or, la préciosité véritable n’a rien d’un geste possessif. Elle relève d’un soin, d’une responsabilité, d’une présence qui reconnaît l’enfant comme un être séparé, imprévisible, singulier.

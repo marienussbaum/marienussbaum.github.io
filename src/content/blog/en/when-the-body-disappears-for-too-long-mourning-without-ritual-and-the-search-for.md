@@ -10,8 +10,6 @@ slug: "when-the-body-disappears-for-too-long-mourning-without-ritual-and-the-sea
 translation: "/fr/blog/don-du-corps-a-la-science--une-quete-de-symbolisation/"
 ---
 
-![When the Body Disappears for Too Long: Mourning Without Ritual and the Search for Symbolization](/images/anatomie-copy-1.jpg).png>)
-
 There are forms of mourning that open in a particular kind of silence. Mourning in which the body of the deceased disappears for months, sometimes years, because it has been donated to science. Mourning in which the relatives remain in a strange suspension, caught between gratitude for the gesture and the pain of being deprived of what has always helped humans say goodbye: a body, a place, a ritual, a name carved somewhere.
 
 Two years of waiting to recover the body of a parent. Two years without a ceremony, without a grave, without a date, without a collective gesture. Two years in which mourning could neither begin nor continue. Two years in which absence remained raw, without form, without contour. Two years in which pain had no place to go.

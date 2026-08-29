@@ -10,8 +10,6 @@ slug: "heritage-and-transmission-when-light-cannot-be-passed-on"
 translation: "/fr/blog/héritage-et-transmission--quand-la-lumière-ne-se-transmet-pas/"
 ---
 
-![Heritage and Transmission: when light cannot be passed on](/images/consultation-kardashian-copy-1.jpg).png>)
-
 Some families transmit less a lineage than an initiation. In those where a parent becomes a public figure, a living empire, a symbol more than a human being, the child is born into a narrative that is not their own. They are asked to inhabit a scenery built before them, sometimes even against them. Whether the parent is an industrial leader, a celebrated artist, a charismatic head of state, a member of a royal dynasty or an entrepreneur turned myth, the inner mechanism remains the same: the parent’s power creates a gravity that attracts, shapes, crushes, distorts.
 
 Children of such figures learn early that love may be conditional, loyalty tested, visibility dangerous. Some are pushed to follow the predetermined path, others to flee it to avoid being consumed. In families where success has become a collective identity, the individual ceases to be a subject and becomes a role. Clinicians speak of narcissistic transmission, family mandates, invisible loyalties, and group psychoanalysis describes these dynamics as non-negotiated psychic inheritances: the child becomes the extension of a parental dream or the container of an anxiety the parent never managed to symbolize. These ideas, found in Bowen, Boszormenyi-Nagy, Kaës or Winnicott, illuminate how such families shape destinies.

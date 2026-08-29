@@ -10,8 +10,6 @@ slug: "when-a-child-seeks-their-own-path-understanding-without-confining"
 translation: "/fr/blog/quand-un-enfant-cherche-son-chemin--comprendre-sans-enfermer/"
 ---
 
-![When a Child Seeks Their Own Path: Understanding Without Confining](/images/tdahautisme-copy-1.jpg).png>)
-
 In my consultation, parents sometimes arrive with a word already placed upon their child: autism, ADHD, “behavioral disorder.” Sometimes suggested by school, sometimes by a hurried professional, sometimes born from an anxiety that has grown too large. They arrive with this word as one arrives with an explanation that reassures as much as it unsettles. They are trying to understand what, in their five‑ or seven‑year‑old child, resists, overflows, withdraws, opposes, or agitates.
 
 But at this age, not everything that resembles autism is autism. And not everything that resembles a disorder is one.

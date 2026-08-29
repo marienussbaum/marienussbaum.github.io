@@ -10,8 +10,6 @@ slug: "the-inner-sea-psychoanalysis-and-sailors"
 translation: "/fr/blog/la-mer-intérieure--psychanalyse-et-marins-voileux/"
 ---
 
-![The Inner Sea: Psychoanalysis and Sailors](/images/marin-solitaire-copy-1.jpg).png>)
-
 There is something in a sailor’s solitude that speaks directly to the unconscious. The one who goes to sea alone, a.k.a the solitary sailor, enters a space where the boundaries between inside and outside dissolve. The horizon becomes a mirror, the waves a pulsation of the psyche. In your own research on solitary sailors, you described this crossing as a psychic drift, a movement in which the inner world expands until it merges with the immensity of the ocean.
 
 Psychoanalytic literature has long been fascinated by this encounter between the human mind and the sea. Freud evoked the oceanic feeling (that impression of limitless unity) as the trace of an infantile experience, the memory of fusion with the maternal body. Winnicott later spoke of the capacity to be alone, not as isolation but as a creative space where the self can exist without collapsing. The sailor, in this sense, embodies that capacity: alone, yet held by the rhythm of the waves, contained by the continuity of the sea as a good‑enough environment.

@@ -10,8 +10,6 @@ slug: "the-child--plant-when-care-replaces-possession"
 translation: "/fr/blog/lenfant---plante--quand-le-soin-remplace-la-possession/"
 ---
 
-![The Child – Plant: When Care Replaces Possession](/images/enfantplante-copy-1.jpg).png>)
-
 In the quiet space of a consultation, words sometimes acquire a weight they did not intend to carry. They become fragments of truth or subtle weapons, depending on how they are thrown. That day, one parent, irritated and wounded, turned to the other and said, “*your precious*” about the child they raise together. The tone was sharp: an accusation, an insinuation that the other parent clung too tightly to the child, as if holding a rare object meant to be protected from everything, including the co‑parent.
 
 Yet this phrase reveals more than frustration. It exposes a projection: the assumption that if one parent cares deeply for the child, it must be out of narcissism, possession, or fusion. As if preciousness could only mean ownership. But genuine preciousness has nothing to do with possession. It is rooted in care, responsibility, and a presence that recognizes the child as a separate, unpredictable, singular being.

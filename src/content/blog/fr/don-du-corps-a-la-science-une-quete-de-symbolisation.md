@@ -10,8 +10,6 @@ slug: "don-du-corps-a-la-science--une-quete-de-symbolisation"
 translation: "/en/blog/when-the-body-disappears-for-too-long-mourning-without-ritual-and-the-search-for-symbolization/"
 ---
 
-![Don du corps à la science : une quête de symbolisation](/images/anatomie-copy-1.jpg).png>)
-
 Il existe des deuils qui s’ouvrent dans un silence particulier. Des deuils où le corps du défunt disparaît pendant des mois, parfois des années, parce qu’il a été donné à la science. Des deuils où les proches restent dans une attente étrange, suspendus entre la gratitude pour le geste accompli et la douleur d’être privés de ce qui, depuis toujours, aide les humains à dire adieu : un corps, un lieu, un rituel, un nom gravé quelque part.
 
 Deux ans d’attente pour récupérer le corps d’un parent. Deux ans sans cérémonie, sans tombe, sans date, sans geste collectif. Deux ans où le deuil ne pouvait ni commencer ni se poursuivre. Deux ans où l’absence restait brute, sans forme, sans contour. Deux ans où la douleur ne trouvait pas d’adresse.
