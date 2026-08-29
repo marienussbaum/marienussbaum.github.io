@@ -3,11 +3,13 @@ import Base from '../layouts/Base.astro';
 import PostCard from './PostCard.astro';
 import { render } from 'astro:content';
 import { catName, catUrl, fmtDate, DOCTOLIB } from '../lib/site.js';
+import dims from '../lib/imagedims.json';
 
 const { post, lang, allPosts } = Astro.props;
 const d = post.data;
 const { Content } = await render(post);
 const path = `/${lang}/blog/${d.slug}/`;
+const dim = d.image ? dims[d.image.split('/').pop()] : undefined;
 // « À lire ensuite » : trois textes de la même rubrique (la première), sinon les plus récents.
 const prim = d.categories[0];
 const pool = allPosts.filter((p) => p.data.slug !== d.slug);
@@ -29,7 +31,7 @@ const t = lang === 'fr'
     </div>
     {d.image && (
       <div class="article-cover">
-        <img src={d.image} alt={d.imageAlt ?? ''} width="1200" height="800" fetchpriority="high" />
+        <img src={d.image} alt={d.imageAlt ?? ''} width={dim?.w} height={dim?.h} fetchpriority="high" />
       </div>
     )}
     <div class="prose"><Content /></div>

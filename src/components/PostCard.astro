@@ -1,11 +1,13 @@
 ---
 import { catName, catUrl, fmtDate } from '../lib/site.js';
+import dims from '../lib/imagedims.json';
 const { post, lang } = Astro.props;
 const d = post.data;
 const href = `/${lang}/blog/${d.slug}/`;
+const dim = d.image ? dims[d.image.split('/').pop()] : undefined;
 ---
 <a class="post" href={href}>
-  {d.image && <img src={d.image} alt={d.imageAlt ?? ''} loading="lazy" width="600" height="400" />}
+  {d.image && <img src={d.image} alt={d.imageAlt ?? ''} loading="lazy" width={dim?.w} height={dim?.h} />}
   <div class="in">
     {d.categories[0] && <span class="cat">{catName(lang, d.categories[0])}</span>}
     <h3>{d.title}</h3>

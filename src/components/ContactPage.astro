@@ -8,6 +8,7 @@ const t = lang === 'fr' ? {
   caps: 'Contact', h1: 'Prendre rendez-vous.',
   intro: 'Le plus simple est de réserver directement un créneau sur Doctolib — au cabinet ou en visioconférence.',
   p2: 'Pour toute question avant une première consultation, vous pouvez écrire ou appeler ; en cas d’absence, laissez un message avec vos disponibilités.',
+  urgence: 'En cas d’urgence : 15 (SAMU) ou 3114 (prévention du suicide, 24h/24).',
   rdv: 'Réserver sur Doctolib', tel: 'Téléphone', adr: 'Adresse', visio: 'Visio', visioVal: 'Aux horaires du cabinet',
   metro: 'Métro', metroVal: 'Sèvres-Babylone (10·12) · Rue du Bac (12)',
   hono: 'Honoraires', honoVal: '120 € · 150 € en anglais — tarif étudiant sur demande',
@@ -17,6 +18,7 @@ const t = lang === 'fr' ? {
   caps: 'Contact', h1: 'Book a session.',
   intro: 'The simplest way is to book a slot directly on Doctolib — in person or online.',
   p2: 'For any question ahead of a first session, feel free to write or call; if I am unavailable, leave a message with your availability.',
+  urgence: 'In an emergency: dial 15 (SAMU) or 3114 (suicide prevention line, 24/7).',
   rdv: 'Book on Doctolib', tel: 'Phone', adr: 'Address', visio: 'Online', visioVal: 'Within office hours',
   metro: 'Métro', metroVal: 'Sèvres-Babylone (10·12) · Rue du Bac (12)',
   hono: 'Fees', honoVal: '€120 · €150 in English — student rate on request',
@@ -35,6 +37,7 @@ const t = lang === 'fr' ? {
     <div>
       <p style="color:#3A464F;max-width:56ch">{t.p2}</p>
       <p style="margin-top:26px"><a class="btn" href={DOCTOLIB} target="_blank" rel="noopener">{t.rdv}</a></p>
+      <p class="note-urgence">{t.urgence}</p>
     </div>
     <div class="carte-page">
       <div><b>{t.tel}</b><a data-rev={PHONE_REV} data-tel href="#"></a></div>
