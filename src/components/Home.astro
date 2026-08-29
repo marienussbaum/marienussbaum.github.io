@@ -2,13 +2,14 @@
 import Base from '../layouts/Base.astro';
 import PostCard from './PostCard.astro';
 import { getCollection } from 'astro:content';
-import { DOCTOLIB, PHONE_REV, EMAIL_REV } from '../lib/site.js';
+import { CATEGORIES, DOCTOLIB, PHONE_REV, EMAIL_REV } from '../lib/site.js';
 
 const { lang } = Astro.props as { lang: 'fr' | 'en' };
 const posts = (await getCollection('blog', (p) => p.data.lang === lang))
   .sort((a, b) => b.data.date.getTime() - a.data.date.getTime());
 const featured = posts.filter((p) => p.data.featured).slice(0, 3);
 const cards = featured.length === 3 ? featured : posts.slice(0, 3);
+const count = (slug: string) => posts.filter((p) => p.data.categories.includes(slug)).length;
 
 const fr = {
   title: 'Marie Nussbaum — Psychologue clinicienne & psychanalyste, Paris 7ᵉ',
@@ -46,7 +47,7 @@ const fr = {
   adresse: 'Adresse', metro: 'Métro', langues: 'Langues', languesNote: 'Notions d’espagnol, d’allemand, de suédois, de russe',
   hono: 'Honoraires', honoEn: 'en anglais', honoNote: 'Tarif étudiant sur demande',
   carnetsCaps: 'Carnets cliniques', carnetsH2: 'Penser ce que la vie nous fait.',
-  carnetsP: '92 textes en français et en anglais — la même voix dans les deux langues.',
+  carnetsP: `${posts.length} textes écrits par Marie Nussbaum, en français et en anglais.`,
   tous: 'Tous les carnets',
   finalH2: 'Commencer, simplement.',
   finalP: 'Une première consultation pour se rencontrer, poser ce qui vous amène, et décider ensemble de la suite — au cabinet ou en visio.',
@@ -89,7 +90,7 @@ const en = {
   adresse: 'Address', metro: 'Métro', langues: 'Languages', languesNote: 'Working notions of Spanish, German, Swedish, Russian',
   hono: 'Fees', honoEn: 'in English', honoNote: 'Student rate on request',
   carnetsCaps: 'Clinical notebooks', carnetsH2: 'Thinking through what life does to us.',
-  carnetsP: '92 essays in French and English — the same voice in both languages.',
+  carnetsP: `${posts.length} essays by Marie Nussbaum, in English and in French.`,
   tous: 'All notebooks',
   finalH2: 'Begin, simply.',
   finalP: 'A first session to meet, lay out what brings you here, and decide together where to go — in person or online.',
@@ -180,6 +181,11 @@ const t = lang === 'fr' ? fr : en;
         <span class="caps" style="color:var(--laiton-d)">{t.carnetsCaps}</span>
         <h2>{t.carnetsH2}</h2>
         <p>{t.carnetsP}</p>
+        <div class="chips">
+          {CATEGORIES.map((c) => (
+            <a href={`/${lang}/categories/${c[lang]}/`}>{lang === 'fr' ? c.nameFr : c.nameEn}<span>{count(c.fr) || count(c.en) || 0}</span></a>
+          ))}
+        </div>
       </div>
       <div class="posts">
         {cards.map((p) => <PostCard post={p} lang={lang} />)}
