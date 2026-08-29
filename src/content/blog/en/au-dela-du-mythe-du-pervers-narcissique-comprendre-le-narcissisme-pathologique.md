@@ -1,6 +1,6 @@
 ---
 title: "Beyond the Myth of the Narcissistic Monster: Understanding Pathological Narcissism"
-description: "Psychology Psychoanalysis Narcissism"
+description: "Beyond the “narcissistic pervert” myth: understanding pathological narcissism — what it protects, what it destroys, and how care is possible."
 date: 2026-05-13
 image: "/images/narcissim.jpg"
 imageAlt: "Beyond the Myth of the Narcissistic Monster: Understanding Pathological Narcissism"

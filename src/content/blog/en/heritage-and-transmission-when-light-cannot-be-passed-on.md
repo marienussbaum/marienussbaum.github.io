@@ -1,6 +1,6 @@
 ---
 title: "Heritage and Transmission: when light cannot be passed on"
-description: "Psychology Psychoanalysis"
+description: "In family firms as elsewhere, passing something on is not the same as giving it. What happens when heritage crushes instead of enlightening."
 date: 2026-06-01
 image: "/images/consultation-kardashian-copy-1.jpg"
 imageAlt: "Heritage and Transmission: when light cannot be passed on"

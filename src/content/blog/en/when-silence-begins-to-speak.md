@@ -1,6 +1,6 @@
 ---
 title: "When Silence Begins to Speak"
-description: "Psychology Psychoanalysis"
+description: "In therapy, silence is not emptiness: it works. What happens when we fall silent — and what silence ends up saying."
 date: 2026-05-05
 image: "/images/silence.jpg"
 imageAlt: "When Silence Begins to Speak"

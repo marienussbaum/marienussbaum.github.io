@@ -15,12 +15,25 @@ const prim = d.categories[0];
 const pool = allPosts.filter((p) => p.data.slug !== d.slug);
 const same = pool.filter((p) => prim && p.data.categories.includes(prim));
 const next = [...same, ...pool.filter((p) => !same.includes(p))].slice(0, 3);
+const jsonld = {
+  '@context': 'https://schema.org',
+  '@type': 'BlogPosting',
+  headline: d.title,
+  description: d.description,
+  datePublished: d.date.toISOString().slice(0, 10),
+  inLanguage: lang,
+  image: d.image ? 'https://marienussbaum.com' + d.image : undefined,
+  mainEntityOfPage: 'https://marienussbaum.com' + encodeURI(path),
+  author: { '@type': 'Person', name: 'Marie Nussbaum',
+            url: `https://marienussbaum.com/${lang}/authors/marie-nussbaum/` },
+};
 const t = lang === 'fr'
   ? { suite: 'À lire ensuite', bande: 'Un texte vous parle ? La consultation est l’endroit où déposer ce qu’il remue.', rdv: 'Prendre rendez-vous' }
   : { suite: 'Read next', bande: 'If an essay resonates, the consulting room is where what it stirs can be worked through.', rdv: 'Book a session' };
 ---
 <Base lang={lang} title={`${d.title} — Marie Nussbaum`} description={d.description}
       path={path} altPath={d.translation ?? null} ogImage={d.image} ogType="article">
+  <script type="application/ld+json" set:html={JSON.stringify(jsonld)} />
   <article>
     <div class="article-head">
       <div class="cats">
