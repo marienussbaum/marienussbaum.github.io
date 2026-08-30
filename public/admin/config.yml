@@ -322,3 +322,97 @@ collections:
           - { name: metroVal, label: "Les stations de métro", widget: string }
           - { name: hono, label: "Libellé « Honoraires »", widget: string }
           - { name: honoVal, label: "Le détail des honoraires", widget: string }
+      - name: rubriques
+        label: "Les dix rubriques — noms et présentations"
+        file: src/data/rubriques.json
+        fields:
+          - name: enfance-et-parentalite
+            label: "Enfance & parentalité"
+            widget: object
+            collapsed: true
+            fields:
+              - { name: nameFr, label: "Nom affiché en français", widget: string }
+              - { name: nameEn, label: "Nom affiché en anglais", widget: string }
+              - { name: introFr, label: "Présentation, en français", widget: text, hint: "Phrase affichée en haut de la page de la rubrique." }
+              - { name: introEn, label: "Présentation, en anglais", widget: text }
+          - name: adolescents
+            label: "Adolescents"
+            widget: object
+            collapsed: true
+            fields:
+              - { name: nameFr, label: "Nom affiché en français", widget: string }
+              - { name: nameEn, label: "Nom affiché en anglais", widget: string }
+              - { name: introFr, label: "Présentation, en français", widget: text, hint: "Phrase affichée en haut de la page de la rubrique." }
+              - { name: introEn, label: "Présentation, en anglais", widget: text }
+          - name: couple-et-liens
+            label: "Couple & liens"
+            widget: object
+            collapsed: true
+            fields:
+              - { name: nameFr, label: "Nom affiché en français", widget: string }
+              - { name: nameEn, label: "Nom affiché en anglais", widget: string }
+              - { name: introFr, label: "Présentation, en français", widget: text, hint: "Phrase affichée en haut de la page de la rubrique." }
+              - { name: introEn, label: "Présentation, en anglais", widget: text }
+          - name: hpi-et-douance
+            label: "HPI & douance"
+            widget: object
+            collapsed: true
+            fields:
+              - { name: nameFr, label: "Nom affiché en français", widget: string }
+              - { name: nameEn, label: "Nom affiché en anglais", widget: string }
+              - { name: introFr, label: "Présentation, en français", widget: text, hint: "Phrase affichée en haut de la page de la rubrique." }
+              - { name: introEn, label: "Présentation, en anglais", widget: text }
+          - name: travail-et-burn-out
+            label: "Travail & burn-out"
+            widget: object
+            collapsed: true
+            fields:
+              - { name: nameFr, label: "Nom affiché en français", widget: string }
+              - { name: nameEn, label: "Nom affiché en anglais", widget: string }
+              - { name: introFr, label: "Présentation, en français", widget: text, hint: "Phrase affichée en haut de la page de la rubrique." }
+              - { name: introEn, label: "Présentation, en anglais", widget: text }
+          - name: corps-et-maladie
+            label: "Corps & maladie"
+            widget: object
+            collapsed: true
+            fields:
+              - { name: nameFr, label: "Nom affiché en français", widget: string }
+              - { name: nameEn, label: "Nom affiché en anglais", widget: string }
+              - { name: introFr, label: "Présentation, en français", widget: text, hint: "Phrase affichée en haut de la page de la rubrique." }
+              - { name: introEn, label: "Présentation, en anglais", widget: text }
+          - name: deuil-et-grand-age
+            label: "Deuil & grand âge"
+            widget: object
+            collapsed: true
+            fields:
+              - { name: nameFr, label: "Nom affiché en français", widget: string }
+              - { name: nameEn, label: "Nom affiché en anglais", widget: string }
+              - { name: introFr, label: "Présentation, en français", widget: text, hint: "Phrase affichée en haut de la page de la rubrique." }
+              - { name: introEn, label: "Présentation, en anglais", widget: text }
+          - name: insolites
+            label: "Insolites"
+            widget: object
+            collapsed: true
+            fields:
+              - { name: nameFr, label: "Nom affiché en français", widget: string }
+              - { name: nameEn, label: "Nom affiché en anglais", widget: string }
+              - { name: introFr, label: "Présentation, en français", widget: text, hint: "Phrase affichée en haut de la page de la rubrique." }
+              - { name: introEn, label: "Présentation, en anglais", widget: text }
+          - name: psychanalyse-et-societe
+            label: "Psychanalyse & société"
+            widget: object
+            collapsed: true
+            fields:
+              - { name: nameFr, label: "Nom affiché en français", widget: string }
+              - { name: nameEn, label: "Nom affiché en anglais", widget: string }
+              - { name: introFr, label: "Présentation, en français", widget: text, hint: "Phrase affichée en haut de la page de la rubrique." }
+              - { name: introEn, label: "Présentation, en anglais", widget: text }
+          - name: expatriation
+            label: "Expatriation & vies internationales"
+            widget: object
+            collapsed: true
+            fields:
+              - { name: nameFr, label: "Nom affiché en français", widget: string }
+              - { name: nameEn, label: "Nom affiché en anglais", widget: string }
+              - { name: introFr, label: "Présentation, en français", widget: text, hint: "Phrase affichée en haut de la page de la rubrique." }
+              - { name: introEn, label: "Présentation, en anglais", widget: text }

@@ -1,0 +1,62 @@
+{
+  "enfance-et-parentalite": {
+    "nameFr": "Enfance & parentalité",
+    "nameEn": "Childhood & parenthood",
+    "introFr": "Grandir ne va jamais de soi. Colères, jeu, séparations, écrans, autisme, adoption : ce que traversent les enfants — et ceux qui les accompagnent.",
+    "introEn": "Growing up is never a given. Tantrums, play, separations, screens, autism, adoption: what children go through — and those who walk with them."
+  },
+  "adolescents": {
+    "nameFr": "Adolescents",
+    "nameEn": "Adolescence",
+    "introFr": "Entre deux âges, tout se rejoue : le corps, l’appartenance, l’orientation. Des textes sur ces années où l’on se cherche — parfois bruyamment, parfois en silence.",
+    "introEn": "Between two ages everything is replayed: the body, belonging, direction. Essays on the years when we search for ourselves — sometimes loudly, sometimes in silence."
+  },
+  "couple-et-liens": {
+    "nameFr": "Couple & liens",
+    "nameEn": "Couples & bonds",
+    "introFr": "Aimer, s’attacher, se séparer, se retrouver. Le couple comme lieu où le passé insiste — et où quelque chose peut se réparer.",
+    "introEn": "Loving, attaching, separating, finding one another again. The couple as the place where the past insists — and where something can be repaired."
+  },
+  "hpi-et-douance": {
+    "nameFr": "HPI & douance",
+    "nameEn": "Giftedness",
+    "introFr": "Au-delà des chiffres du QI : ce que vivre avec une pensée vive veut dire, pour l’enfant comme pour l’adulte.",
+    "introEn": "Beyond IQ scores: what living with a quick mind actually means, for children and adults alike."
+  },
+  "travail-et-burn-out": {
+    "nameFr": "Travail & burn-out",
+    "nameEn": "Work & burnout",
+    "introFr": "L’épuisement n’est pas une faiblesse : c’est un signal. Sur la charge, l’idéal professionnel et le monde de l’hyper-responsabilité.",
+    "introEn": "Exhaustion is not weakness: it is a signal. On workload, professional ideals and the world of high responsibility."
+  },
+  "corps-et-maladie": {
+    "nameFr": "Corps & maladie",
+    "nameEn": "Body & illness",
+    "introFr": "Quand le corps parle à la place des mots : maladie, addictions, troubles alimentaires, rituels — et ce que le soin psychique peut en entendre.",
+    "introEn": "When the body speaks in place of words: illness, addictions, eating disorders, rituals — and what psychic care can hear in them."
+  },
+  "deuil-et-grand-age": {
+    "nameFr": "Deuil & grand âge",
+    "nameEn": "Grief & old age",
+    "introFr": "Perdre, vieillir, transmettre. Des textes sur ce que le temps fait aux liens, et sur les deuils — y compris ceux qui n’ont pas de rituel.",
+    "introEn": "Losing, ageing, passing on. Essays on what time does to our bonds, and on mourning — including the kinds that come without ritual."
+  },
+  "insolites": {
+    "nameFr": "Insolites",
+    "nameEn": "Curiosities",
+    "introFr": "La clinique hors les murs : astronautes, marins solitaires, expertise psychiatrique, quérulence. Des terrains inattendus qui éclairent le psychisme ordinaire.",
+    "introEn": "The clinic beyond its walls: astronauts, solo sailors, forensic psychiatry, querulousness. Unexpected terrains that light up the ordinary psyche."
+  },
+  "psychanalyse-et-societe": {
+    "nameFr": "Psychanalyse & société",
+    "nameEn": "Psychoanalysis & society",
+    "introFr": "Ce que l’époque fait au psychisme — écrans, IA, canicules, faits divers — lu avec les outils de la psychanalyse.",
+    "introEn": "What the times do to the psyche — screens, AI, heatwaves, the news — read with the tools of psychoanalysis."
+  },
+  "expatriation": {
+    "nameFr": "Expatriation & vies internationales",
+    "nameEn": "Expat & international lives",
+    "introFr": "Changer de pays, de langue, de place : la clinique transculturelle des vies internationales, au cabinet comme en visio.",
+    "introEn": "Changing countries, languages, place: transcultural work with international lives, in the consulting room or online."
+  }
+}
