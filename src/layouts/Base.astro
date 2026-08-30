@@ -61,10 +61,11 @@ const schema = {
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Marcellus&family=Mulish:ital,wght@0,300;0,400;0,600;0,700;1,400&display=swap" rel="stylesheet" />
   {withSchema && <script type="application/ld+json" set:html={JSON.stringify(schema)} />}
-  <!-- Mesure d'audience sans cookie : décommenter et renseigner le token une fois
-       le site derrière Cloudflare Web Analytics.
-  <script defer src="https://static.cloudflareinsights.com/beacon.min.js"
-          data-cf-beacon='{"token": "TOKEN_A_RENSEIGNER"}'></script> -->
+  <!-- Mesure d'audience sans cookie (Cloudflare Web Analytics) : aucun cookie,
+       aucune donnée identifiante — donc pas de bandeau de consentement.
+       Ce jeton est public par conception. -->
+  <script is:inline type="module" src="https://static.cloudflareinsights.com/beacon.min.js"
+          data-cf-beacon='{"token": "15efb3cbad954651879e15d67d7b5512"}'></script>
 </head>
 <body>
   <Header lang={lang} altPath={altPath} />
