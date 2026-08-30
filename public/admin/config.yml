@@ -1,11 +1,11 @@
 # Sveltia CMS — interface d'édition à l'adresse /admin
-# ⚠ À FINALISER : base_url = l'adresse du petit worker Cloudflare qui gère la
-#   connexion GitHub (voir README, section « CMS »)
+# base_url = le worker Cloudflare qui gère la connexion GitHub
+# (déployé le 30/08/2026 ; source dans ../../cms-auth-worker)
 backend:
   name: github
   repo: marienussbaum/marienussbaum.github.io
   branch: master
-  base_url: https://sveltia-cms-auth.A-REMPLACER.workers.dev   # ← à remplacer
+  base_url: https://sveltia-cms-auth.marienussbaum.workers.dev
 
 media_folder: public/images
 public_folder: /images
