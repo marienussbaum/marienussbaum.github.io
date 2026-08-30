@@ -1,0 +1,79 @@
+{
+  "title": "Marie Nussbaum — Psychologue clinicienne & psychanalyste, Paris 7ᵉ",
+  "desc": "Un espace d’écoute au 26 boulevard Raspail, Paris 7ᵉ. Consultations pour adultes, adolescents et enfants, en français et en anglais, au cabinet ou en visioconférence.",
+  "sur": "Psychologue clinicienne & psychanalyste — Paris 7ᵉ · Sèvres-Babylone",
+  "h1": "Un espace d’écoute, au calme du 7ᵉ arrondissement.",
+  "lead": "Au 26 boulevard Raspail, dans un cabinet lumineux, avec vue sur les toits, je reçois adultes, adolescents et enfants — en français et en anglais, au cabinet ou en visioconférence.",
+  "rdv": "Prendre rendez-vous",
+  "decouvrir": "Découvrir l’approche",
+  "assur": [
+    "Consultations in English",
+    "Visio pour les patients à l’étranger",
+    "Confidentialité absolue"
+  ],
+  "photo": "/images/photo-marie.jpg",
+  "photoAlt": "Marie Nussbaum, dans son cabinet",
+  "pill": "Formée à l’Université Paris Cité",
+  "quiCaps": "Consultations",
+  "quiH2": "Des vies exigeantes, des histoires singulières.",
+  "qui": [
+    {
+      "titre": "Dirigeants & hyper-responsabilité",
+      "texte": "Surcharge mentale, effondrements silencieux, burn-out — un espace confidentiel pour ceux qui portent beaucoup et ne le déposent nulle part."
+    },
+    {
+      "titre": "Expats & familles internationales",
+      "texte": "Couples mixtes, enfants entre deux langues, vies entre deux villes. Une clinique transculturelle, en anglais comme en français."
+    },
+    {
+      "titre": "Étudiants & jeunes adultes",
+      "texte": "Haut niveau d’exigence, sensibilité vive, crises d’orientation — au moment où tout se joue. Honoraires adaptés."
+    },
+    {
+      "titre": "Enfants & ados singuliers",
+      "texte": "Haut potentiel ou vraies difficultés cognitives : par le jeu et la créativité, un accompagnement sur mesure. L’enfant est le patient premier."
+    }
+  ],
+  "avantHtml": "Avant la clinique, j’ai passé quinze ans dans les grands groupes internationaux, auprès des dirigeants — dont plusieurs années à Londres, en Suède et en Australie : <b>le monde de l’hyper-responsabilité, comme celui de l’expatriation, je les connais de l’intérieur</b>.",
+  "apprCaps": "L’approche",
+  "apprH2": "Une psychanalyse contemporaine, profonde et adaptable.",
+  "appr": [
+    "Un cadre <b>rigoureux et souple à la fois</b>, qui s’ajuste à votre vie réelle — y compris quand elle se déplace entre plusieurs villes ou plusieurs langues.",
+    "Il ne s’agit pas d’appliquer des techniques pour « aller mieux vite », mais de <b>comprendre en profondeur</b> ce qui se répète, se tait ou déborde — et d’ouvrir, progressivement, d’autres façons d’être en relation avec soi et avec les autres.",
+    "Ma pratique s’appuie sur une expérience institutionnelle continue — dont deux années au centre psychanalytique du GHU Sainte-Anne — et une supervision régulière (UFORCA, EPFCL)."
+  ],
+  "exergue": "« Il n’y a pas de prêt-à-porter psychique : chaque histoire demande du sur-mesure. »",
+  "visioCaps": "La visio",
+  "visioH2": "Maintenir le lien, à distance.",
+  "visioP": "Une partie de ma patientèle vit à l’étranger ou entre plusieurs villes. La visio permet de commencer ou de poursuivre un suivi à distance, <b>aux horaires d’ouverture du cabinet</b> — entre l’Asie en matinée et les Amériques en fin de journée, on trouve généralement un créneau.",
+  "visioPts": [
+    "Des créneaux aux horaires du cabinet, ajustés à votre décalage horaire",
+    "Continuité du suivi pendant les expatriations et déplacements",
+    "Guidance parentale à distance pour les familles internationales"
+  ],
+  "visioImage": "/images/transculturel.jpg",
+  "visioAlt": "Aquarelle — une consultation ouverte sur le monde",
+  "cabCaps": "Le cabinet",
+  "cabH2": "Boulevard Raspail, vue sur les toits.",
+  "cabP": "Un espace lumineux, en hauteur — on y accède par une arrière-cour discrète, à deux pas de Sèvres-Babylone. La discrétion du 7ᵉ, la douceur d’un lieu conçu pour la parole.",
+  "cabImage": "/images/cabinet.jpg",
+  "cabAlt": "Le cabinet — fauteuils face à face, secrétaire ancien et toits de Paris par la fenêtre",
+  "adresse": "Adresse",
+  "metro": "Métro",
+  "langues": "Langues",
+  "languesNote": "Notions d’espagnol, d’allemand, de suédois, de russe",
+  "hono": "Honoraires",
+  "honoEn": "en anglais",
+  "honoNote": "Tarif étudiant sur demande",
+  "carnetsCaps": "Carnets cliniques",
+  "carnetsH2": "Penser ce que la vie nous fait.",
+  "carnetsP": "{count} textes écrits par Marie Nussbaum, en français et en anglais.",
+  "tous": "Tous les carnets",
+  "finalH2": "Commencer, simplement.",
+  "finalP": "Une première consultation pour se rencontrer, poser ce qui vous amène, et décider ensemble de la suite — au cabinet ou en visio.",
+  "reserver": "Réserver sur Doctolib",
+  "tel": "Téléphone",
+  "cab": "Cabinet",
+  "visioLbl": "Visio",
+  "visioVal": "Aux horaires du cabinet"
+}

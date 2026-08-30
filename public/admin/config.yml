@@ -86,3 +86,239 @@ collections:
       - { name: translation, label: "French version path", widget: string, required: false, hint: "e.g. /fr/blog/mon-article/" }
       - { name: featured, label: "Featured (homepage + “Where to begin”)", widget: boolean, default: false, required: false }
       - { name: body, label: Body, widget: markdown }
+
+  - name: pages
+    label: Textes du site
+    # Les pages fixes : on peut y reformuler les phrases et changer les photos,
+    # sans toucher a la structure du site.
+    files:
+      - name: home-fr
+        label: "Accueil — version française"
+        file: src/data/home.fr.json
+        fields:
+          # ── Référencement (ce que Google affiche) ──
+          - { name: title, label: "Titre dans l’onglet et dans Google", widget: string, hint: "Environ 60 caractères." }
+          - { name: desc, label: "Résumé affiché sous le titre dans Google", widget: text, hint: "Environ 155 caractères." }
+          # ── Haut de page ──
+          - { name: sur, label: "Surtitre, au-dessus du grand titre", widget: string }
+          - { name: h1, label: "Grand titre", widget: string }
+          - { name: lead, label: "Phrase d’introduction", widget: text }
+          - { name: rdv, label: "Bouton — prendre rendez-vous", widget: string }
+          - { name: decouvrir, label: "Bouton — découvrir l’approche", widget: string }
+          - name: assur
+            label: "Les trois mentions rassurantes"
+            widget: list
+            field: { name: item, label: "Ligne", widget: string }
+          - { name: photo, label: "Photo de Marie", widget: image }
+          - { name: photoAlt, label: "Description de la photo (pour les non-voyants et Google)", widget: string }
+          - { name: pill, label: "Mention sous la photo", widget: string }
+          # ── Pour qui — les quatre publics ──
+          - { name: quiCaps, label: "Petit intitulé de section", widget: string }
+          - { name: quiH2, label: "Titre de section", widget: string }
+          - name: qui
+            label: "Les quatre publics"
+            widget: list
+            hint: "Vous pouvez réécrire chaque bloc, en ajouter ou en retirer."
+            fields:
+              - { name: titre, label: "Titre", widget: string }
+              - { name: texte, label: "Texte", widget: text }
+          - { name: avantHtml, label: "Le bandeau « Avant la clinique… »", widget: text, hint: "Le texte entre <b> et </b> s’affiche en gras. Ne pas supprimer ces balises si vous voulez garder l’effet." }
+          # ── L’approche ──
+          - { name: apprCaps, label: "Petit intitulé de section", widget: string }
+          - { name: apprH2, label: "Titre de section", widget: string }
+          - name: appr
+            label: "Les paragraphes de l’approche"
+            widget: list
+            hint: "Le texte entre <b> et </b> s’affiche en gras. Ne pas supprimer ces balises si vous voulez garder l’effet."
+            field: { name: item, label: "Paragraphe", widget: text }
+          - { name: exergue, label: "La phrase mise en exergue", widget: text }
+          # ── La visio ──
+          - { name: visioCaps, label: "Petit intitulé de section", widget: string }
+          - { name: visioH2, label: "Titre de section", widget: string }
+          - { name: visioP, label: "Paragraphe", widget: text, hint: "Le texte entre <b> et </b> s’affiche en gras. Ne pas supprimer ces balises si vous voulez garder l’effet." }
+          - name: visioPts
+            label: "Les trois points"
+            widget: list
+            field: { name: item, label: "Ligne", widget: string }
+          - { name: visioImage, label: "Illustration", widget: image }
+          - { name: visioAlt, label: "Description de l’illustration", widget: string }
+          # ── Le cabinet ──
+          - { name: cabCaps, label: "Petit intitulé de section", widget: string }
+          - { name: cabH2, label: "Titre de section", widget: string }
+          - { name: cabP, label: "Paragraphe", widget: text }
+          - { name: cabImage, label: "Photo du cabinet", widget: image }
+          - { name: cabAlt, label: "Description de la photo", widget: string }
+          - { name: adresse, label: "Libellé « Adresse »", widget: string }
+          - { name: metro, label: "Libellé « Métro »", widget: string }
+          - { name: langues, label: "Libellé « Langues »", widget: string }
+          - { name: languesNote, label: "Note sous les langues", widget: string }
+          - { name: hono, label: "Libellé « Honoraires »", widget: string }
+          - { name: honoEn, label: "Mention « en anglais »", widget: string }
+          - { name: honoNote, label: "Note sous les honoraires", widget: string }
+          # ── Les carnets ──
+          - { name: carnetsCaps, label: "Petit intitulé de section", widget: string }
+          - { name: carnetsH2, label: "Titre de section", widget: string }
+          - { name: carnetsP, label: "Phrase de présentation", widget: string, hint: "Gardez {count} : il est remplacé automatiquement par le nombre de textes publiés." }
+          - { name: tous, label: "Bouton — tous les carnets", widget: string }
+          # ── Bas de page ──
+          - { name: finalH2, label: "Titre final", widget: string }
+          - { name: finalP, label: "Paragraphe final", widget: text }
+          - { name: reserver, label: "Bouton — réserver", widget: string }
+          - { name: tel, label: "Libellé « Téléphone »", widget: string }
+          - { name: cab, label: "Libellé « Cabinet »", widget: string }
+          - { name: visioLbl, label: "Libellé « Visio »", widget: string }
+          - { name: visioVal, label: "Valeur en face de « Visio »", widget: string }
+      - name: home-en
+        label: "Accueil — version anglaise"
+        file: src/data/home.en.json
+        fields:
+          # ── Référencement (ce que Google affiche) ──
+          - { name: title, label: "Titre dans l’onglet et dans Google", widget: string, hint: "Environ 60 caractères." }
+          - { name: desc, label: "Résumé affiché sous le titre dans Google", widget: text, hint: "Environ 155 caractères." }
+          # ── Haut de page ──
+          - { name: sur, label: "Surtitre, au-dessus du grand titre", widget: string }
+          - { name: h1, label: "Grand titre", widget: string }
+          - { name: lead, label: "Phrase d’introduction", widget: text }
+          - { name: rdv, label: "Bouton — prendre rendez-vous", widget: string }
+          - { name: decouvrir, label: "Bouton — découvrir l’approche", widget: string }
+          - name: assur
+            label: "Les trois mentions rassurantes"
+            widget: list
+            field: { name: item, label: "Ligne", widget: string }
+          - { name: photo, label: "Photo de Marie", widget: image }
+          - { name: photoAlt, label: "Description de la photo (pour les non-voyants et Google)", widget: string }
+          - { name: pill, label: "Mention sous la photo", widget: string }
+          # ── Pour qui — les quatre publics ──
+          - { name: quiCaps, label: "Petit intitulé de section", widget: string }
+          - { name: quiH2, label: "Titre de section", widget: string }
+          - name: qui
+            label: "Les quatre publics"
+            widget: list
+            hint: "Vous pouvez réécrire chaque bloc, en ajouter ou en retirer."
+            fields:
+              - { name: titre, label: "Titre", widget: string }
+              - { name: texte, label: "Texte", widget: text }
+          - { name: avantHtml, label: "Le bandeau « Avant la clinique… »", widget: text, hint: "Le texte entre <b> et </b> s’affiche en gras. Ne pas supprimer ces balises si vous voulez garder l’effet." }
+          # ── L’approche ──
+          - { name: apprCaps, label: "Petit intitulé de section", widget: string }
+          - { name: apprH2, label: "Titre de section", widget: string }
+          - name: appr
+            label: "Les paragraphes de l’approche"
+            widget: list
+            hint: "Le texte entre <b> et </b> s’affiche en gras. Ne pas supprimer ces balises si vous voulez garder l’effet."
+            field: { name: item, label: "Paragraphe", widget: text }
+          - { name: exergue, label: "La phrase mise en exergue", widget: text }
+          # ── La visio ──
+          - { name: visioCaps, label: "Petit intitulé de section", widget: string }
+          - { name: visioH2, label: "Titre de section", widget: string }
+          - { name: visioP, label: "Paragraphe", widget: text, hint: "Le texte entre <b> et </b> s’affiche en gras. Ne pas supprimer ces balises si vous voulez garder l’effet." }
+          - name: visioPts
+            label: "Les trois points"
+            widget: list
+            field: { name: item, label: "Ligne", widget: string }
+          - { name: visioImage, label: "Illustration", widget: image }
+          - { name: visioAlt, label: "Description de l’illustration", widget: string }
+          # ── Le cabinet ──
+          - { name: cabCaps, label: "Petit intitulé de section", widget: string }
+          - { name: cabH2, label: "Titre de section", widget: string }
+          - { name: cabP, label: "Paragraphe", widget: text }
+          - { name: cabImage, label: "Photo du cabinet", widget: image }
+          - { name: cabAlt, label: "Description de la photo", widget: string }
+          - { name: adresse, label: "Libellé « Adresse »", widget: string }
+          - { name: metro, label: "Libellé « Métro »", widget: string }
+          - { name: langues, label: "Libellé « Langues »", widget: string }
+          - { name: languesNote, label: "Note sous les langues", widget: string }
+          - { name: hono, label: "Libellé « Honoraires »", widget: string }
+          - { name: honoEn, label: "Mention « en anglais »", widget: string }
+          - { name: honoNote, label: "Note sous les honoraires", widget: string }
+          # ── Les carnets ──
+          - { name: carnetsCaps, label: "Petit intitulé de section", widget: string }
+          - { name: carnetsH2, label: "Titre de section", widget: string }
+          - { name: carnetsP, label: "Phrase de présentation", widget: string, hint: "Gardez {count} : il est remplacé automatiquement par le nombre de textes publiés." }
+          - { name: tous, label: "Bouton — tous les carnets", widget: string }
+          # ── Bas de page ──
+          - { name: finalH2, label: "Titre final", widget: string }
+          - { name: finalP, label: "Paragraphe final", widget: text }
+          - { name: reserver, label: "Bouton — réserver", widget: string }
+          - { name: tel, label: "Libellé « Téléphone »", widget: string }
+          - { name: cab, label: "Libellé « Cabinet »", widget: string }
+          - { name: visioLbl, label: "Libellé « Visio »", widget: string }
+          - { name: visioVal, label: "Valeur en face de « Visio »", widget: string }
+      - name: about-fr
+        label: "À propos — version française"
+        file: src/data/about.fr.json
+        fields:
+          # ── Référencement ──
+          - { name: title, label: "Titre dans l’onglet et dans Google", widget: string, hint: "Environ 60 caractères." }
+          - { name: desc, label: "Résumé affiché dans Google", widget: text, hint: "Environ 155 caractères." }
+          # ── La page ──
+          - { name: caps, label: "Petit intitulé", widget: string }
+          - { name: h1, label: "Titre", widget: string }
+          - { name: photo, label: "Photo", widget: image }
+          - { name: photoAlt, label: "Description de la photo", widget: string }
+          - { name: bio1, label: "Premier paragraphe", widget: text }
+          - { name: bio2, label: "Second paragraphe", widget: text }
+          - { name: home, label: "Bouton — vers le cabinet", widget: string }
+          - { name: blog, label: "Bouton — vers les carnets", widget: string }
+      - name: about-en
+        label: "À propos — version anglaise"
+        file: src/data/about.en.json
+        fields:
+          # ── Référencement ──
+          - { name: title, label: "Titre dans l’onglet et dans Google", widget: string, hint: "Environ 60 caractères." }
+          - { name: desc, label: "Résumé affiché dans Google", widget: text, hint: "Environ 155 caractères." }
+          # ── La page ──
+          - { name: caps, label: "Petit intitulé", widget: string }
+          - { name: h1, label: "Titre", widget: string }
+          - { name: photo, label: "Photo", widget: image }
+          - { name: photoAlt, label: "Description de la photo", widget: string }
+          - { name: bio1, label: "Premier paragraphe", widget: text }
+          - { name: bio2, label: "Second paragraphe", widget: text }
+          - { name: home, label: "Bouton — vers le cabinet", widget: string }
+          - { name: blog, label: "Bouton — vers les carnets", widget: string }
+      - name: contact-fr
+        label: "Contact — version française"
+        file: src/data/contact.fr.json
+        fields:
+          # ── Référencement ──
+          - { name: title, label: "Titre dans l’onglet et dans Google", widget: string, hint: "Environ 60 caractères." }
+          - { name: desc, label: "Résumé affiché dans Google", widget: text, hint: "Environ 155 caractères." }
+          # ── La page ──
+          - { name: caps, label: "Petit intitulé", widget: string }
+          - { name: h1, label: "Titre", widget: string }
+          - { name: intro, label: "Paragraphe d’introduction", widget: text }
+          - { name: p2, label: "Second paragraphe", widget: text }
+          - { name: urgence, label: "La ligne d’urgence", widget: text, hint: "Numéros d’urgence affichés sous le bouton de rendez-vous." }
+          - { name: rdv, label: "Bouton — réserver", widget: string }
+          # ── Les informations pratiques ──
+          - { name: tel, label: "Libellé « Téléphone »", widget: string }
+          - { name: adr, label: "Libellé « Adresse »", widget: string }
+          - { name: visio, label: "Libellé « Visio »", widget: string }
+          - { name: visioVal, label: "Valeur en face de « Visio »", widget: string }
+          - { name: metro, label: "Libellé « Métro »", widget: string }
+          - { name: metroVal, label: "Les stations de métro", widget: string }
+          - { name: hono, label: "Libellé « Honoraires »", widget: string }
+          - { name: honoVal, label: "Le détail des honoraires", widget: string }
+      - name: contact-en
+        label: "Contact — version anglaise"
+        file: src/data/contact.en.json
+        fields:
+          # ── Référencement ──
+          - { name: title, label: "Titre dans l’onglet et dans Google", widget: string, hint: "Environ 60 caractères." }
+          - { name: desc, label: "Résumé affiché dans Google", widget: text, hint: "Environ 155 caractères." }
+          # ── La page ──
+          - { name: caps, label: "Petit intitulé", widget: string }
+          - { name: h1, label: "Titre", widget: string }
+          - { name: intro, label: "Paragraphe d’introduction", widget: text }
+          - { name: p2, label: "Second paragraphe", widget: text }
+          - { name: urgence, label: "La ligne d’urgence", widget: text, hint: "Numéros d’urgence affichés sous le bouton de rendez-vous." }
+          - { name: rdv, label: "Bouton — réserver", widget: string }
+          # ── Les informations pratiques ──
+          - { name: tel, label: "Libellé « Téléphone »", widget: string }
+          - { name: adr, label: "Libellé « Adresse »", widget: string }
+          - { name: visio, label: "Libellé « Visio »", widget: string }
+          - { name: visioVal, label: "Valeur en face de « Visio »", widget: string }
+          - { name: metro, label: "Libellé « Métro »", widget: string }
+          - { name: metroVal, label: "Les stations de métro", widget: string }
+          - { name: hono, label: "Libellé « Honoraires »", widget: string }
+          - { name: honoVal, label: "Le détail des honoraires", widget: string }

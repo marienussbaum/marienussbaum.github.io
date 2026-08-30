@@ -3,6 +3,9 @@ import Base from '../layouts/Base.astro';
 import PostCard from './PostCard.astro';
 import { getCollection } from 'astro:content';
 import { CATEGORIES, DOCTOLIB, PHONE_REV, EMAIL_REV } from '../lib/site.js';
+import frText from '../data/home.fr.json';
+import enText from '../data/home.en.json';
+import dims from '../lib/imagedims.json';
 
 const { lang } = Astro.props as { lang: 'fr' | 'en' };
 const posts = (await getCollection('blog', (p) => p.data.lang === lang))
@@ -11,93 +14,10 @@ const featured = posts.filter((p) => p.data.featured).slice(0, 3);
 const cards = featured.length === 3 ? featured : posts.slice(0, 3);
 const count = (slug: string) => posts.filter((p) => p.data.categories.includes(slug)).length;
 
-const fr = {
-  title: 'Marie Nussbaum — Psychologue clinicienne & psychanalyste, Paris 7ᵉ',
-  desc: 'Un espace d’écoute au 26 boulevard Raspail, Paris 7ᵉ. Consultations pour adultes, adolescents et enfants, en français et en anglais, au cabinet ou en visioconférence.',
-  sur: 'Psychologue clinicienne & psychanalyste — Paris 7ᵉ · Sèvres-Babylone',
-  h1: 'Un espace d’écoute, au calme du 7ᵉ arrondissement.',
-  lead: 'Au 26 boulevard Raspail, dans un cabinet lumineux, avec vue sur les toits, je reçois adultes, adolescents et enfants — en français et en anglais, au cabinet ou en visioconférence.',
-  rdv: 'Prendre rendez-vous', decouvrir: 'Découvrir l’approche',
-  assur: ['Consultations in English', 'Visio pour les patients à l’étranger', 'Confidentialité absolue'],
-  pill: 'Formée à l’Université Paris Cité', photoAlt: 'Marie Nussbaum, dans son cabinet',
-  quiCaps: 'Consultations', quiH2: 'Des vies exigeantes, des histoires singulières.',
-  qui: [
-    ['Dirigeants & hyper-responsabilité', 'Surcharge mentale, effondrements silencieux, burn-out — un espace confidentiel pour ceux qui portent beaucoup et ne le déposent nulle part.'],
-    ['Expats & familles internationales', 'Couples mixtes, enfants entre deux langues, vies entre deux villes. Une clinique transculturelle, en anglais comme en français.'],
-    ['Étudiants & jeunes adultes', 'Haut niveau d’exigence, sensibilité vive, crises d’orientation — au moment où tout se joue. Honoraires adaptés.'],
-    ['Enfants & ados singuliers', 'Haut potentiel ou vraies difficultés cognitives : par le jeu et la créativité, un accompagnement sur mesure. L’enfant est le patient premier.'],
-  ],
-  avantHtml: 'Avant la clinique, j’ai passé quinze ans dans les grands groupes internationaux, auprès des dirigeants — dont plusieurs années à Londres, en Suède et en Australie : <b>le monde de l’hyper-responsabilité, comme celui de l’expatriation, je les connais de l’intérieur</b>.',
-  apprCaps: 'L’approche', apprH2: 'Une psychanalyse contemporaine, profonde et adaptable.',
-  appr: [
-    'Un cadre <b>rigoureux et souple à la fois</b>, qui s’ajuste à votre vie réelle — y compris quand elle se déplace entre plusieurs villes ou plusieurs langues.',
-    'Il ne s’agit pas d’appliquer des techniques pour « aller mieux vite », mais de <b>comprendre en profondeur</b> ce qui se répète, se tait ou déborde — et d’ouvrir, progressivement, d’autres façons d’être en relation avec soi et avec les autres.',
-    'Ma pratique s’appuie sur une expérience institutionnelle continue — dont deux années au centre psychanalytique du GHU Sainte-Anne — et une supervision régulière (UFORCA, EPFCL).',
-  ],
-  exergue: '« Il n’y a pas de prêt-à-porter psychique : chaque histoire demande du sur-mesure. »',
-  visioCaps: 'La visio', visioH2: 'Maintenir le lien, à distance.',
-  visioP: 'Une partie de ma patientèle vit à l’étranger ou entre plusieurs villes. La visio permet de commencer ou de poursuivre un suivi à distance, <b>aux horaires d’ouverture du cabinet</b> — entre l’Asie en matinée et les Amériques en fin de journée, on trouve généralement un créneau.',
-  visioPts: ['Des créneaux aux horaires du cabinet, ajustés à votre décalage horaire',
-    'Continuité du suivi pendant les expatriations et déplacements',
-    'Guidance parentale à distance pour les familles internationales'],
-  visioAlt: 'Aquarelle — une consultation ouverte sur le monde',
-  cabCaps: 'Le cabinet', cabH2: 'Boulevard Raspail, vue sur les toits.',
-  cabP: 'Un espace lumineux, en hauteur — on y accède par une arrière-cour discrète, à deux pas de Sèvres-Babylone. La discrétion du 7ᵉ, la douceur d’un lieu conçu pour la parole.',
-  cabAlt: 'Le cabinet — fauteuils face à face, secrétaire ancien et toits de Paris par la fenêtre',
-  adresse: 'Adresse', metro: 'Métro', langues: 'Langues', languesNote: 'Notions d’espagnol, d’allemand, de suédois, de russe',
-  hono: 'Honoraires', honoEn: 'en anglais', honoNote: 'Tarif étudiant sur demande',
-  carnetsCaps: 'Carnets cliniques', carnetsH2: 'Penser ce que la vie nous fait.',
-  carnetsP: `${posts.length} textes écrits par Marie Nussbaum, en français et en anglais.`,
-  tous: 'Tous les carnets',
-  finalH2: 'Commencer, simplement.',
-  finalP: 'Une première consultation pour se rencontrer, poser ce qui vous amène, et décider ensemble de la suite — au cabinet ou en visio.',
-  reserver: 'Réserver sur Doctolib',
-  tel: 'Téléphone', cab: 'Cabinet', visioLbl: 'Visio', visioVal: 'Aux horaires du cabinet',
-};
-const en = {
-  title: 'Marie Nussbaum — Clinical psychologist & psychoanalyst, Paris 7th',
-  desc: 'A quiet space for deep listening at 26 boulevard Raspail, Paris 7th. Sessions for adults, adolescents and children, in English and French, in person or online.',
-  sur: 'Clinical psychologist & psychoanalyst — Paris 7th · Sèvres-Babylone',
-  h1: 'A quiet space for deep listening, in the 7th arrondissement.',
-  lead: 'At 26 boulevard Raspail, in a light-filled office overlooking the rooftops, I see adults, adolescents and children — in English and in French, in person or online.',
-  rdv: 'Book on Doctolib', decouvrir: 'The approach',
-  assur: ['Sessions in English & French', 'Online sessions for patients abroad', 'Absolute confidentiality'],
-  pill: 'Trained at Université Paris Cité', photoAlt: 'Marie Nussbaum, in her consulting room',
-  quiCaps: 'Who I work with', quiH2: 'Demanding lives, singular stories.',
-  qui: [
-    ['Executives & high responsibility', 'Mental overload, silent collapses, burnout — a confidential space for those who carry a great deal and have nowhere to set it down.'],
-    ['Expats & international families', 'Cross-cultural couples, children between two languages, lives between two cities. A transcultural practice, in English as in French.'],
-    ['Students & young adults', 'High expectations, vivid sensitivity, crossroads moments — at the age when everything feels decisive. Adjusted fees.'],
-    ['Children & teens who don’t fit the mold', 'High potential or genuine cognitive difficulties: through play and creativity, tailored support. The child is always the first patient.'],
-  ],
-  avantHtml: 'Before the consulting room, I spent fifteen years in global companies, working alongside senior executives — including several years in London, Sweden and Australia: <b>high responsibility and expat life are worlds I know from the inside</b>.',
-  apprCaps: 'The approach', apprH2: 'Contemporary psychoanalysis — deep, and adaptable.',
-  appr: [
-    'A setting that is <b>rigorous and flexible at once</b>, adjusting to your real life — including when that life moves between cities or languages.',
-    'The point is not to apply techniques to “feel better fast”, but to <b>understand in depth</b> what repeats, stays silent or overflows — and gradually to open other ways of being in relation to yourself and to others.',
-    'My practice rests on continuous institutional experience — including two years at the psychoanalytic centre of the GHU Sainte-Anne in Paris — and regular supervision (UFORCA, EPFCL).',
-  ],
-  exergue: '“There is no psychic prêt-à-porter: every story calls for made-to-measure.”',
-  visioCaps: 'Online sessions', visioH2: 'Keeping the work going, from wherever you are.',
-  visioP: 'Part of my practice lives abroad or between cities. Online sessions let us begin or continue the work at a distance, <b>within the office’s opening hours</b> — mornings often suit Asia, late afternoons the Americas.',
-  visioPts: ['Office-hour slots, planned around your time zone',
-    'Continuity through relocations and travel',
-    'Remote parental guidance for international families'],
-  visioAlt: 'Watercolour — a consultation open onto the world',
-  cabCaps: 'The practice', cabH2: 'Boulevard Raspail, overlooking the rooftops.',
-  cabP: 'A bright top-floor space, reached through a discreet courtyard just off Sèvres-Babylone — the discretion of the 7ᵉ, in a room designed for conversation.',
-  cabAlt: 'The consulting room — armchairs face to face, an antique writing desk, Paris rooftops through the window',
-  adresse: 'Address', metro: 'Métro', langues: 'Languages', languesNote: 'Working notions of Spanish, German, Swedish, Russian',
-  hono: 'Fees', honoEn: 'in English', honoNote: 'Student rate on request',
-  carnetsCaps: 'Clinical notebooks', carnetsH2: 'Thinking through what life does to us.',
-  carnetsP: `${posts.length} essays by Marie Nussbaum, in English and in French.`,
-  tous: 'All notebooks',
-  finalH2: 'Begin, simply.',
-  finalP: 'A first session to meet, lay out what brings you here, and decide together where to go — in person or online.',
-  reserver: 'Book on Doctolib',
-  tel: 'Phone', cab: 'Office', visioLbl: 'Online', visioVal: 'Within office hours',
-};
-const t = lang === 'fr' ? fr : en;
+const t = lang === 'fr' ? frText : enText;
+// Dimensions reelles des images, pour reserver la place avant chargement.
+const dim = (src) => dims[src.split('/').pop()] ?? {};
+const carnetsP = t.carnetsP.replace('{count}', String(posts.length));
 ---
 <Base lang={lang} title={t.title} description={t.desc} path={`/${lang}/`} altPath={`/${lang === 'fr' ? 'en' : 'fr'}/`} withSchema>
   <div class="haut" style="margin-top:-1px">
@@ -113,7 +33,7 @@ const t = lang === 'fr' ? fr : en;
         <div class="assur">{t.assur.map((a) => <span>{a}</span>)}</div>
       </div>
       <figure class="medaillon">
-        <img src="/images/photo-marie.jpg" alt={t.photoAlt} width="971" height="1072" fetchpriority="high" />
+        <img src={t.photo} alt={t.photoAlt} width={dim(t.photo).w} height={dim(t.photo).h} fetchpriority="high" />
         <figcaption>{t.pill}</figcaption>
       </figure>
     </div>
@@ -126,7 +46,7 @@ const t = lang === 'fr' ? fr : en;
         <h2>{t.quiH2}</h2>
       </div>
       <div class="pourqui">
-        {t.qui.map(([h, p]) => <div><h3>{h}</h3><p>{p}</p></div>)}
+        {t.qui.map((q) => <div><h3>{q.titre}</h3><p>{q.texte}</p></div>)}
       </div>
     </div>
   </section>
@@ -148,7 +68,7 @@ const t = lang === 'fr' ? fr : en;
 
   <section class="visio" id="visio">
     <div class="wrap visio-grid">
-      <img src="/images/transculturel.jpg" alt={t.visioAlt} width="1200" height="800" loading="lazy" />
+      <img src={t.visioImage} alt={t.visioAlt} width={dim(t.visioImage).w} height={dim(t.visioImage).h} loading="lazy" />
       <div>
         <span class="caps" style="color:var(--laiton-d)">{t.visioCaps}</span>
         <h2>{t.visioH2}</h2>
@@ -171,7 +91,7 @@ const t = lang === 'fr' ? fr : en;
           <div><b>{t.hono}</b>120&nbsp;€ <small style="display:inline">· 150&nbsp;€ {t.honoEn}</small><small>{t.honoNote}</small></div>
         </div>
       </div>
-      <img src="/images/cabinet.jpg" alt={t.cabAlt} width="1200" height="1200" loading="lazy" />
+      <img src={t.cabImage} alt={t.cabAlt} width={dim(t.cabImage).w} height={dim(t.cabImage).h} loading="lazy" />
     </div>
   </section>
 
@@ -180,7 +100,7 @@ const t = lang === 'fr' ? fr : en;
       <div class="sec-head">
         <span class="caps" style="color:var(--laiton-d)">{t.carnetsCaps}</span>
         <h2>{t.carnetsH2}</h2>
-        <p>{t.carnetsP}</p>
+        <p>{carnetsP}</p>
         <div class="chips">
           {CATEGORIES.map((c) => (
             <a href={`/${lang}/categories/${c[lang]}/`}>{lang === 'fr' ? c.nameFr : c.nameEn}<span>{count(c.fr) || count(c.en) || 0}</span></a>

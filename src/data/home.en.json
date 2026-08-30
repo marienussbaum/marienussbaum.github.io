@@ -1,0 +1,79 @@
+{
+  "title": "Marie Nussbaum — Clinical psychologist & psychoanalyst, Paris 7th",
+  "desc": "A quiet space for deep listening at 26 boulevard Raspail, Paris 7th. Sessions for adults, adolescents and children, in English and French, in person or online.",
+  "sur": "Clinical psychologist & psychoanalyst — Paris 7th · Sèvres-Babylone",
+  "h1": "A quiet space for deep listening, in the 7th arrondissement.",
+  "lead": "At 26 boulevard Raspail, in a light-filled office overlooking the rooftops, I see adults, adolescents and children — in English and in French, in person or online.",
+  "rdv": "Book on Doctolib",
+  "decouvrir": "The approach",
+  "assur": [
+    "Sessions in English & French",
+    "Online sessions for patients abroad",
+    "Absolute confidentiality"
+  ],
+  "photo": "/images/photo-marie.jpg",
+  "photoAlt": "Marie Nussbaum, in her consulting room",
+  "pill": "Trained at Université Paris Cité",
+  "quiCaps": "Who I work with",
+  "quiH2": "Demanding lives, singular stories.",
+  "qui": [
+    {
+      "titre": "Executives & high responsibility",
+      "texte": "Mental overload, silent collapses, burnout — a confidential space for those who carry a great deal and have nowhere to set it down."
+    },
+    {
+      "titre": "Expats & international families",
+      "texte": "Cross-cultural couples, children between two languages, lives between two cities. A transcultural practice, in English as in French."
+    },
+    {
+      "titre": "Students & young adults",
+      "texte": "High expectations, vivid sensitivity, crossroads moments — at the age when everything feels decisive. Adjusted fees."
+    },
+    {
+      "titre": "Children & teens who don’t fit the mold",
+      "texte": "High potential or genuine cognitive difficulties: through play and creativity, tailored support. The child is always the first patient."
+    }
+  ],
+  "avantHtml": "Before the consulting room, I spent fifteen years in global companies, working alongside senior executives — including several years in London, Sweden and Australia: <b>high responsibility and expat life are worlds I know from the inside</b>.",
+  "apprCaps": "The approach",
+  "apprH2": "Contemporary psychoanalysis — deep, and adaptable.",
+  "appr": [
+    "A setting that is <b>rigorous and flexible at once</b>, adjusting to your real life — including when that life moves between cities or languages.",
+    "The point is not to apply techniques to “feel better fast”, but to <b>understand in depth</b> what repeats, stays silent or overflows — and gradually to open other ways of being in relation to yourself and to others.",
+    "My practice rests on continuous institutional experience — including two years at the psychoanalytic centre of the GHU Sainte-Anne in Paris — and regular supervision (UFORCA, EPFCL)."
+  ],
+  "exergue": "“There is no psychic prêt-à-porter: every story calls for made-to-measure.”",
+  "visioCaps": "Online sessions",
+  "visioH2": "Keeping the work going, from wherever you are.",
+  "visioP": "Part of my practice lives abroad or between cities. Online sessions let us begin or continue the work at a distance, <b>within the office’s opening hours</b> — mornings often suit Asia, late afternoons the Americas.",
+  "visioPts": [
+    "Office-hour slots, planned around your time zone",
+    "Continuity through relocations and travel",
+    "Remote parental guidance for international families"
+  ],
+  "visioImage": "/images/transculturel.jpg",
+  "visioAlt": "Watercolour — a consultation open onto the world",
+  "cabCaps": "The practice",
+  "cabH2": "Boulevard Raspail, overlooking the rooftops.",
+  "cabP": "A bright top-floor space, reached through a discreet courtyard just off Sèvres-Babylone — the discretion of the 7ᵉ, in a room designed for conversation.",
+  "cabImage": "/images/cabinet.jpg",
+  "cabAlt": "The consulting room — armchairs face to face, an antique writing desk, Paris rooftops through the window",
+  "adresse": "Address",
+  "metro": "Métro",
+  "langues": "Languages",
+  "languesNote": "Working notions of Spanish, German, Swedish, Russian",
+  "hono": "Fees",
+  "honoEn": "in English",
+  "honoNote": "Student rate on request",
+  "carnetsCaps": "Clinical notebooks",
+  "carnetsH2": "Thinking through what life does to us.",
+  "carnetsP": "{count} essays by Marie Nussbaum, in English and in French.",
+  "tous": "All notebooks",
+  "finalH2": "Begin, simply.",
+  "finalP": "A first session to meet, lay out what brings you here, and decide together where to go — in person or online.",
+  "reserver": "Book on Doctolib",
+  "tel": "Phone",
+  "cab": "Office",
+  "visioLbl": "Online",
+  "visioVal": "Within office hours"
+}
