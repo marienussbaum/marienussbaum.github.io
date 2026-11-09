@@ -32,7 +32,7 @@ const t = lang === 'fr'
   : { suite: 'Read next', bande: 'If an essay resonates, the consulting room is where what it stirs can be worked through.', rdv: 'Book a session' };
 ---
 <Base lang={lang} title={`${d.title} — Marie Nussbaum`} description={d.description}
-      path={path} altPath={d.translation ?? null} ogImage={d.image} ogType="article">
+      path={path} altPath={d.translation ? (d.translation.startsWith('/') ? d.translation : `/${lang === 'fr' ? 'en' : 'fr'}/blog/${d.translation}/`) : null} ogImage={d.image} ogType="article">
   <script type="application/ld+json" set:html={JSON.stringify(jsonld)} />
   <article>
     <div class="article-head">

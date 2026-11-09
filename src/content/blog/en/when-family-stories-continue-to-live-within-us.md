@@ -1,14 +1,14 @@
 ---
 title: When Family Stories Continue to Live Within Us
-description: Psychology Family secrets, family loyalty, crypt
+description: "Guilt, anxiety, patterns we cannot explain: does everything we carry belong to us? On family secrets, invisible loyalties and stories that live on in us."
 date: 2026-09-29
 image: /images/crypte.png
 imageAlt: ''
 categories:
   - body-and-illness
 lang: en
-slug: When-Family-Stories-Continue-to Live-Within-Us
-translation: ''
+slug: when-family-stories-continue-to-live-within-us
+translation: /fr/blog/quand-certaines-histoires-continuent-de-vivre-en-nous/
 featured: false
 ---
 

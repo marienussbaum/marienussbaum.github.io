@@ -1,6 +1,6 @@
 ---
 title: "Hypersensitivity"
-description: "A reflection in the service of patients"
+description: "Many patients describe themselves as “highly sensitive”. What does this self-diagnosis cover, and what role does it play in the way they speak of themselves?"
 date: 2024-10-08
 image: "/images/hypersensible.jpg"
 imageAlt: "Hypersensitivity"

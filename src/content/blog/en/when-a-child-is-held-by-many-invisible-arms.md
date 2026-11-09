@@ -1,14 +1,14 @@
 ---
 title: When a Child Is Held by Many Invisible Arms
-description: Psychology Children Kids Parents Network Medical Psychologist School
+description: "A child never grows up alone. Discover how family, educational and therapeutic bonds support a child’s emotional development and resilience."
 date: 2026-10-17
 image: /images/NetworkChild2.png
 imageAlt: ''
 categories:
   - childhood-and-parenthood
 lang: en
-slug: When-a-Child-Is-Held-by-Many-Invisible-Arms
-translation: ''
+slug: when-a-child-is-held-by-many-invisible-arms
+translation: /fr/blog/quand-un-enfant-est-porte-par-plusieurs-bras-invisibles/
 featured: false
 ---
 

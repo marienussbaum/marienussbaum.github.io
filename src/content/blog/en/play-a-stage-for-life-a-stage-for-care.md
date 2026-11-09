@@ -1,6 +1,6 @@
 ---
 title: "Play: A stage for life, a stage for care"
-description: "Psychology Children Parents Care"
+description: "In child therapy, play is the first language. Before words and diagnoses, how play builds thought and gives shape to the child’s inner world."
 date: 2026-04-24
 image: "/images/jeu2.jpg"
 imageAlt: "Play: A stage for life, a stage for care"

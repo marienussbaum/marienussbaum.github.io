@@ -1,6 +1,6 @@
 ---
 title: "Fostered Kinship and Parenthood"
-description: "A psychic journey through the bond"
+description: "Becoming a parent when you were adopted is a psychic journey: origins, bonds and transmission are revisited at every turning point of adult life."
 date: 2025-04-09
 image: "/images/adoptionfiliation.jpg"
 imageAlt: "Fostered Kinship and Parenthood"

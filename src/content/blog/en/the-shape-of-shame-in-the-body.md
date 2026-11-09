@@ -1,14 +1,14 @@
 ---
 title: The Shape of Shame in the Body
-description: Psychology, psychologist, Shame, Body
+description: "Shame is not a confession; it is a posture. How shame settles into the body, the breath and the way we stand — and what therapy can hear in it."
 date: 2026-09-14
 image: /images/Honte.png
 imageAlt: ''
 categories:
   - body-and-illness
 lang: en
-slug: The Shape of Shame in the Body
-translation: ''
+slug: the-shape-of-shame-in-the-body
+translation: /fr/blog/ce-que-la-honte-depose-dans-les-corps/
 featured: false
 ---
 

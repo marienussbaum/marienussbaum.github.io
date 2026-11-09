@@ -1,6 +1,6 @@
 ---
 title: "L’enfant - plante : quand le soin remplace la possession"
-description: "Psychologie Enfants Séparation Parents"
+description: "Quand le soin de l’un est lu par l’autre comme une possession : une scène de consultation, et ce qu’elle révèle de la séparation et de la place de l’enfant."
 date: 2024-07-08
 image: "/images/enfantplante-copy-1.jpg"
 imageAlt: "L’enfant - plante : quand le soin remplace la possession"

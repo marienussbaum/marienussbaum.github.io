@@ -1,14 +1,14 @@
 ---
 title: Quand certaines histoires continuent de vivre en nous
-description: Psychologie Quand certaines histoires continuent de vivre en nous Secret Crypte Loyautés invisibles
+description: "Culpabilité, inquiétude, répétitions : tout ce que nous portons nous appartient-il ? Secrets de famille, loyautés invisibles, histoires qui vivent en nous."
 date: 2026-09-25
 image: /images/crypte.png
 imageAlt: ''
 categories:
   - corps-et-maladie
 lang: fr
-slug: Quand-certaines-histoires-continuent-de-vivre-en-nous
-translation: ''
+slug: quand-certaines-histoires-continuent-de-vivre-en-nous
+translation: /en/blog/when-family-stories-continue-to-live-within-us/
 featured: false
 ---
 

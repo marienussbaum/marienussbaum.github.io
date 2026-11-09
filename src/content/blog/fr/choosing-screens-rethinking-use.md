@@ -1,6 +1,6 @@
 ---
 title: "Choisir les écrans, penser les usages"
-description: "Retrouver une temporalité subjective et des alternatives créatives"
+description: "Sommeil, attention, lien à l’autre : un usage excessif des écrans pèse sur la santé. Comment choisir ses usages et faire place à d’autres activités."
 date: 2025-09-24
 image: "/images/ecrans-copy-1.jpg"
 imageAlt: "Choisir les écrans, penser les usages"

@@ -1,14 +1,14 @@
 ---
 title: What Trees Know About Us
-description: Nature is more than a pleasant backdrop. Research in psychology, psychiatry, and neuroscience shows that time spent in natural environments can reduce stress, support emotional regulation, and enhance well-being. From Japanese forest bathing to eco-anxiety, discover how reconnecting with nature can nurture mental health, restore attention, and offer a sense of calm, perspective, and inner balance.
+description: "Time in nature reduces stress and supports emotional balance. From Japanese forest bathing to eco-anxiety, how reconnecting with nature nurtures mental health."
 date: 2026-10-25
 image: /images/NatureBienfaits1.png
 imageAlt: ''
 categories:
   - psychoanalysis-and-society
 lang: en
-slug: What-Trees-Know-About-Us
-translation: ''
+slug: what-trees-know-about-us
+translation: /fr/blog/ce-que-les-arbres-savent-de-nous/
 featured: true
 ---
 

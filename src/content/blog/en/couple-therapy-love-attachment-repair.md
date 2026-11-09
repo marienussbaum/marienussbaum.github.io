@@ -1,6 +1,6 @@
 ---
 title: "Couple Therapy: Between Love, Attachment, and Repair"
-description: "Psychology Couple therapy"
+description: "Couple therapy is not about saving a relationship at all costs. It gives partners a space to explore wounds, expectations, repetitions and silences."
 date: 2025-11-25
 image: "/images/therapiecouple.jpg"
 imageAlt: "Couple Therapy: Between Love, Attachment, and Repair"

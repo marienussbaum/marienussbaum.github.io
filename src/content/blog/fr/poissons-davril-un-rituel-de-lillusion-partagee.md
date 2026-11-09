@@ -1,6 +1,6 @@
 ---
 title: "Poissons d’avril : un rituel de l’illusion partagée"
-description: "psychologie avril poisson illusion"
+description: "Le 1er avril, on accepte que la vérité se dérobe. Ce que le poisson d’avril, petit rituel d’illusion partagée, dit de notre besoin de jeu et de lien."
 date: 2026-04-02
 image: "/images/poissonavril.jpg"
 imageAlt: "Poissons d’avril : un rituel de l’illusion partagée"

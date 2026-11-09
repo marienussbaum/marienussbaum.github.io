@@ -1,6 +1,6 @@
 ---
 title: Ce que la honte dépose dans le corps
-description: Psychologie Honte Soins Psychologue
+description: "La honte n’est pas un aveu : c’est une posture. Comment elle se dépose dans le corps, le souffle et la manière de se tenir — et ce que le soin peut en entendre."
 date: 2026-09-14
 image: /images/Honte.png
 imageAlt: ''
@@ -8,7 +8,7 @@ categories:
   - corps-et-maladie
 lang: fr
 slug: ce-que-la-honte-depose-dans-les-corps
-translation: ''
+translation: /en/blog/the-shape-of-shame-in-the-body/
 featured: false
 ---
 

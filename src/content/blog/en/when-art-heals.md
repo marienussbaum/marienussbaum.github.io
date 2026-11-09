@@ -1,14 +1,14 @@
 ---
 title: 'When Art Heals: Creativity, Psychosis, Sublimation, and Mental Health'
-description: Art plays a significant role in mental health by helping individuals express, transform, and symbolize difficult psychological experiences. Drawing on psychology, psychoanalysis, neuroscience, and art therapy research, this article explores the relationship between artistic creation, emotional well-being, and resilience. The works of Michelangelo, Charles Baudelaire, Vincent van Gogh, Frida Kahlo, Edvard Munch, Auguste Rodin, and Camille Claudel illustrate how art can give form to suffering without reducing it to pathology. Concepts such as Freud's sublimation, Bion's negative capability, and Winnicott's theory of creativity help explain the psychological function of artistic expression. The article also examines the complex relationship between psychosis and creativity, emphasizing that artistic expression may, in some cases, facilitate the symbolic processing of intense internal experiences. Ultimately, art offers a unique space where vulnerability, meaning, and human connection can emerge, revealing why creativity remains a powerful resource for psychological growth, resilience, and healing.
+description: "Art helps us express and transform painful experiences. Through Michelangelo, Van Gogh, Frida Kahlo and Munch, how creation supports mental health."
 date: 2026-11-25
 image: /images/Art & thérapie.png
 imageAlt: ''
 categories:
   - body-and-illness
 lang: en
-slug: When-Art-Heals
-translation: ''
+slug: when-art-heals
+translation: /fr/blog/quand-l-art-soigne/
 featured: false
 ---
 

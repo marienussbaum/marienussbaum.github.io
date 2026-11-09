@@ -1,6 +1,6 @@
 ---
 title: "Beyond IQ Test Results: Understanding and supporting gifted individuals"
-description: "Understanding and supporting gifted individuals"
+description: "Beyond IQ scores: what WAIS and WISC results reveal about a gifted person’s overall functioning, and their relationship to learning, effort and frustration."
 date: 2024-11-10
 image: "/images/iq.jpg"
 imageAlt: "Beyond IQ Test Results: Understanding and supporting gifted individuals"

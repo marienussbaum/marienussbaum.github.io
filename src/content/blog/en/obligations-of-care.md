@@ -1,6 +1,6 @@
 ---
 title: "The Obligation of Care in France: Between legal constraint and therapeutic transformation"
-description: "Between legal constraint and therapeutic transformation"
+description: "In France, a court can order mandatory treatment. Between legal constraint and therapy: how an imposed obligation of care can still become real care."
 date: 2025-02-18
 image: "/images/obligationsoin.jpg"
 imageAlt: "The Obligation of Care in France: Between legal constraint and therapeutic transformation"

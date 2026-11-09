@@ -1,6 +1,6 @@
 ---
 title: "Suffering Bodies, Absent Speech"
-description: "A psychoanalytic reading of eating disorders"
+description: "Anorexia, bulimia, binge eating: a psychoanalytic reading of eating disorders as a troubled bond with the body, self-image, desire and the other."
 date: 2025-04-16
 image: "/images/corpstca.jpg"
 imageAlt: "Suffering Bodies, Absent Speech"

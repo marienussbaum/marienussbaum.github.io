@@ -1,14 +1,14 @@
 ---
 title: The Invisible Side of Autism
-description: Sensory processing differences are a central aspect of Autism Spectrum Disorder (ASD). Noise, light, movement, odors, and social interactions can be experienced with unusual intensity, profoundly influencing learning, emotional well-being, and social participation. Drawing on clinical experience within Fondation l'Élan Retrouvé's outpatient autism service, this article explores how sensory needs shape daily life in transportation, residential settings, family environments, and therapeutic spaces. It highlights how accommodations such as sensory regulation rooms, adapted lighting, and noise-canceling headphones can reduce sensory overload and support autonomy. Grounded in recent scientific research, the article invites readers to rethink inclusion by considering not only individual differences but also the environments in which autistic people live. How can schools, public transportation systems, residential programs, and clinical settings become more accessible and more responsive to diverse sensory experiences? The answer may lie in recognizing the often invisible sensory realities that shape autistic lives.
+description: "Noise, light, smells, social contact: in autism, everything can be felt with unusual intensity. How sensory needs shape learning, well-being and daily life."
 date: 2026-11-04
 image: /images/Autism.png
 imageAlt: ''
 categories:
   - childhood-and-parenthood
 lang: en
-slug: The-Invisible-Side-of-Autism
-translation: ''
+slug: the-invisible-side-of-autism
+translation: /fr/blog/la-part-invisible-de-l-autisme/
 featured: false
 ---
 

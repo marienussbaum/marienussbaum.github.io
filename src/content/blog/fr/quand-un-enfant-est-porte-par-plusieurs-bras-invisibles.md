@@ -7,8 +7,8 @@ imageAlt: ''
 categories:
   - enfance-et-parentalite
 lang: fr
-slug: Quand-un-enfant-est-porté-par-plusieurs-bras-invisibles
-translation: ''
+slug: quand-un-enfant-est-porte-par-plusieurs-bras-invisibles
+translation: /en/blog/when-a-child-is-held-by-many-invisible-arms/
 featured: false
 ---
 

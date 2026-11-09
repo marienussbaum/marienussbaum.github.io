@@ -1,6 +1,6 @@
 ---
 title: "Au delà du mythe du pervers narcissique : comprendre le narcissisme pathologique"
-description: "Psychologie Psychanalyse Narcissisme"
+description: "« Pervers narcissique » : un mot devenu omniprésent. Au-delà du mythe et des certitudes trop rapides, comprendre ce que recouvre le narcissisme pathologique."
 date: 2026-05-13
 image: "/images/narcissim.jpg"
 imageAlt: "Au delà du mythe du pervers narcissique : comprendre le narcissisme pathologique"

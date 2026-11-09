@@ -1,6 +1,6 @@
 ---
 title: "Separation and Coparental Reconstruction"
-description: "A psychoanalytic perspective"
+description: "Separating without breaking the child: the psychic stakes of a break-up for children caught in conflict, and the conditions for workable co-parenting."
 date: 2025-05-21
 image: "/images/parentsepares.jpg"
 imageAlt: "Separation and Coparental Reconstruction"

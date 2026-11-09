@@ -1,6 +1,6 @@
 ---
 title: "When a Child Steps Slightly Aside from the World: Meeting Autism Without Reducing It"
-description: "Psychology Autism Children Parents Babies"
+description: "When parents arrive with the word “autism” already placed on their child: how to welcome a young child’s difference without reducing them to a label."
 date: 2026-03-08
 image: "/images/autisme.jpg"
 imageAlt: "When a Child Steps Slightly Aside from the World: Meeting Autism Without Reducing It"

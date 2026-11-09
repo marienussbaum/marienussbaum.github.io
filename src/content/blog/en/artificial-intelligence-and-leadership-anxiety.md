@@ -1,14 +1,14 @@
 ---
 title: 'Artificial Intelligence and Leadership Anxiety: The Human Challenge Behind Technological Change'
-description: 'Artificial intelligence is transforming organizations at an unprecedented pace, creating not only technological challenges but also significant psychological pressures for leaders and decision-makers. Beyond productivity gains and automation, AI introduces new forms of uncertainty that can affect confidence, decision-making, and professional identity. Drawing on neuroscience, neuroleadership, psychoanalytic theory, and organizational psychology, this article explores why uncertainty is often more stressful than known difficulties and how rapid technological change can activate anxiety, cognitive overload, and even imposter syndrome among experienced executives. As AI increasingly performs tasks associated with expertise, analysis, and creativity, many professionals are prompted to reconsider what truly defines their value. Current research suggests that human strengths remain essential: emotional intelligence, ethical judgment, critical thinking, empathy, leadership, and the ability to create meaning in complex environments. Rather than replacing human expertise, artificial intelligence may be redefining it, highlighting the importance of resilience, psychological safety, and distinctly human capacities in an era of continuous transformation and uncertainty.'
+description: "AI is transforming organizations at unprecedented speed. Beyond productivity, the uncertainty it brings can shake leaders’ confidence, decisions and identity."
 date: 2026-11-06
 image: /images/AI Dirigeants.png
 imageAlt: ''
 categories:
   - work-and-burnout
 lang: en
-slug: Artificial-Intelligence-and-Leadership-Anxiety
-translation: ''
+slug: artificial-intelligence-and-leadership-anxiety
+translation: /fr/blog/l-intelligence-artificielle-et-l-anxiete-des-dirigeants/
 featured: true
 ---
 

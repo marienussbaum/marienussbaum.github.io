@@ -1,6 +1,6 @@
 ---
 title: "Addictions et alcool : ce qui s’anesthésie, ce qui se répète, ce qui cherche à se dire"
-description: "Addictions et alcool : Psy"
+description: "Ce que l’addiction à l’alcool anesthésie, ce qu’elle répète, ce qu’elle cherche à dire : une lecture clinique de ce qui se joue en séance avec le patient."
 date: 2026-06-23
 image: "/images/addiction-alcool.jpg"
 imageAlt: "Addictions et alcool : ce qui s’anesthésie, ce qui se répète, ce qui cherche à se dire"

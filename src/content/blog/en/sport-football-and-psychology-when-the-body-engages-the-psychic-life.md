@@ -1,6 +1,6 @@
 ---
 title: "Sport, Football and Psychology: how the Body Engages the Psychic Life"
-description: "Sport, Football and Psychology"
+description: "The elite athlete is a tightrope walker between power and fragility. What sport and football reveal about the way the body engages psychic life."
 date: 2026-07-14
 image: "/images/foot-et-psy.jpg"
 imageAlt: "Sport, Football and Psychology: how the Body Engages the Psychic Life"

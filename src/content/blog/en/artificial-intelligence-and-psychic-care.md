@@ -1,6 +1,6 @@
 ---
 title: "Artificial Intelligence and Psychic Care"
-description: "A meeting to be questioned"
+description: "AI enters psychic care quietly: a presence without a body, a voice without breath. What this discreet shift changes in the therapeutic relationship."
 date: 2025-07-17
 image: "/images/iaconversation.jpg"
 imageAlt: "Artificial Intelligence and Psychic Care"

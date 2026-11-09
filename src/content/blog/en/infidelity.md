@@ -1,6 +1,6 @@
 ---
 title: "Infidelity: decoding the crisis to evolve and heal"
-description: "Decoding the crisis for growth and healing"
+description: "Infidelity can be a moment of rupture or of revelation. How a couple can decode the crisis, beyond guilt and betrayal, to understand what happened and heal."
 date: 2025-03-03
 image: "/images/infidelite.jpg"
 imageAlt: "Infidelity: decoding the crisis to evolve and heal"

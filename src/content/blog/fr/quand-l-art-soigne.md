@@ -1,14 +1,14 @@
 ---
 title: "Quand l'art soigne : création, psychose, sublimation et santé mentale"
-description: L'art joue un rôle majeur dans la santé mentale en permettant l'expression, la transformation et la symbolisation des expériences psychiques difficiles. À partir des apports de la psychologie, de la psychanalyse, des neurosciences et de l'art-thérapie, cet article explore les liens entre création artistique, résilience et bien-être émotionnel. Les œuvres de Michel-Ange, Baudelaire, Van Gogh, Frida Kahlo, Edvard Munch, Rodin et Camille Claudel illustrent comment la création peut offrir une forme à la souffrance sans la réduire à une pathologie. Les concepts de sublimation chez Freud, de capacité négative chez Bion et de créativité chez Winnicott permettent de mieux comprendre la fonction psychique de l'œuvre d'art. L'article aborde également avec prudence les relations entre psychose et création artistique, en soulignant que l'expression artistique peut parfois favoriser la symbolisation de certaines expériences internes. Une réflexion sur le pouvoir thérapeutique de l'art et sur ce qui demeure profondément humain face à la vulnérabilité, à l'incertitude et à la souffrance.
+description: "L’art permet d’exprimer et de transformer les expériences douloureuses. De Michel-Ange à Frida Kahlo et Munch, ce que la création fait à la santé mentale."
 date: 2026-11-25
 image: /images/Art & thérapie.png
 imageAlt: ''
 categories:
   - corps-et-maladie
 lang: fr
-slug: Quand-l'art-soigne
-translation: ''
+slug: quand-l-art-soigne
+translation: /en/blog/when-art-heals/
 featured: false
 ---
 

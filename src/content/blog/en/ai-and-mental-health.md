@@ -1,6 +1,6 @@
 ---
 title: "Artificial Intelligence in Mental Health"
-description: "A clinical and philosophical perspective"
+description: "AI is becoming a tool in mental health care. A clinical and philosophical look at what it can offer patients where care is scarce — and what it cannot replace."
 date: 2025-03-03
 image: "/images/ai-psychiccare.jpg"
 imageAlt: "Artificial Intelligence in Mental Health"

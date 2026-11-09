@@ -1,6 +1,6 @@
 ---
 title: "Falling in Love via an App"
-description: "Presented at Saint-Anne Colloquium, May 2024"
+description: "Do we meet differently online? A reflection presented at the Sainte-Anne colloquium in May 2024 on dating apps, desire and the encounter with the other."
 date: 2024-05-29
 image: "/images/applove.jpg"
 imageAlt: "Falling in Love via an App"

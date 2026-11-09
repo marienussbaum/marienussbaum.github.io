@@ -1,6 +1,6 @@
 ---
 title: "Burnout: A Clinical Reading, between Exhaustion and Subjective Collapse"
-description: "Between Exhaustion and Subjective Collapse"
+description: "Burnout is more than exhaustion. A psychoanalytic reading of this state of prolonged overload, between physical fatigue and the collapse of the subject."
 date: 2025-06-21
 image: "/images/burnout.jpg"
 imageAlt: "Burnout: A Clinical Reading, between Exhaustion and Subjective Collapse"

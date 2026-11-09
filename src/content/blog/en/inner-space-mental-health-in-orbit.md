@@ -1,6 +1,6 @@
 ---
 title: "Inner Space: Mental Health and Subjectivity in Orbit"
-description: "When outer space meets inner emptiness"
+description: "Isolation, microgravity, separation: what space does to the mental health of astronauts and their families — when outer space meets inner emptiness."
 date: 2025-10-03
 image: "/images/astronaute.jpg"
 imageAlt: "Inner Space: Mental Health and Subjectivity in Orbit"

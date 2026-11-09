@@ -1,6 +1,6 @@
 ---
 title: "The Inner Sea: Psychoanalysis and Sailors"
-description: "Psychoanalysis and Sailors"
+description: "Solitary sailors face the sea and their own unconscious. What solitude, the horizon and hallucinations at sea teach psychoanalysis about the mind."
 date: 2026-08-04
 image: "/images/marin-solitaire-copy-1.jpg"
 imageAlt: "The Inner Sea: Psychoanalysis and Sailors"

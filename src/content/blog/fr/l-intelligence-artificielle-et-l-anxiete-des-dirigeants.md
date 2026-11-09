@@ -1,14 +1,14 @@
 ---
 title: "L'intelligence artificielle et l'anxiété des dirigeants : quand l'avenir s'invite dans le bureau"
-description: 'L’intelligence artificielle transforme les organisations à une vitesse inédite, soulevant autant de défis humains que technologiques. Derrière les enjeux de productivité, d’automatisation et d’innovation se cachent des questions essentielles pour les dirigeants : comment décider dans l’incertitude, accompagner les équipes et préserver le sens du travail ? À la lumière des neurosciences, du neuroleadership et de la psychologie clinique, cet article explore l’impact psychologique de l’IA sur les responsables confrontés à des mutations rapides. Il analyse le rôle de l’incertitude, l’anxiété décisionnelle, le syndrome de l’imposteur et les mécanismes de construction de l’identité professionnelle face à l’émergence de technologies capables de produire analyses et recommandations. Alors que l’avenir des métiers demeure difficile à prévoir, les compétences humaines telles que l’intelligence émotionnelle, la pensée critique, l’empathie, l’éthique et le discernement apparaissent plus stratégiques que jamais. Une réflexion sur le leadership, la résilience organisationnelle et la place irremplaçable de l’intelligence humaine à l’ère de l’IA.'
+description: "L’intelligence artificielle transforme les organisations à une vitesse inédite. Ce que cette incertitude fait à la confiance et aux décisions des dirigeants."
 date: 2026-11-06
 image: /images/AI Dirigeants.png
 imageAlt: ''
 categories:
   - travail-et-burn-out
 lang: fr
-slug: L'intelligence-artificielle-et-l'anxiété-des-dirigeants
-translation: ''
+slug: l-intelligence-artificielle-et-l-anxiete-des-dirigeants
+translation: /en/blog/artificial-intelligence-and-leadership-anxiety/
 featured: true
 ---
 

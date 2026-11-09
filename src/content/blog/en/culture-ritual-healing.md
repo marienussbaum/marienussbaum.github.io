@@ -1,6 +1,6 @@
 ---
 title: "Culture, Ritual and Healing"
-description: "Collective catharsis in the face of trauma"
+description: "From Congo Square to Siberian shamans: a transcultural and psychoanalytic look at how collective rituals can work as therapeutic responses to trauma."
 date: 2025-09-08
 image: "/images/transculturel-copy-1.jpg"
 imageAlt: "Culture, Ritual and Healing"

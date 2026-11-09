@@ -27,7 +27,7 @@ collections:
     sortable_fields: [date, title]
     fields:
       - { name: title, label: Titre, widget: string }
-      - { name: description, label: "Description (Google, ~155 caractères)", widget: text }
+      - { name: description, label: "Description pour Google", widget: text, minlength: 70, maxlength: 165, hint: "Une ou deux phrases qui donnent envie de lire : c’est le texte que Google affiche sous le titre. Visez 120 à 160 caractères (un compteur s’affiche). Pas de liste de mots-clés." }
       - { name: date, label: Date, widget: datetime, format: "YYYY-MM-DD", time_format: false }
       - { name: image, label: Image de couverture, widget: image, required: false }
       - { name: imageAlt, label: "Texte alternatif de l'image", widget: string, required: false }
@@ -47,8 +47,20 @@ collections:
           - { label: "Psychanalyse & société", value: psychanalyse-et-societe }
           - { label: "Expatriation & vies internationales", value: expatriation }
       - { name: lang, label: Langue, widget: hidden, default: fr }
-      - { name: slug, label: "Adresse (slug — ne pas modifier après publication)", widget: string }
-      - { name: translation, label: "Adresse de la version anglaise", widget: string, required: false, hint: "ex. /en/blog/mon-article/" }
+      - name: slug
+        label: "Adresse de la page (ne plus la modifier après publication)"
+        widget: string
+        pattern: ['^[a-z0-9àâäçéèêëîïôöùûüÿœæ]+(-+[a-z0-9àâäçéèêëîïôöùûüÿœæ]+)*$', "Minuscules, chiffres et tirets seulement : pas d’espace, de majuscule ni d’apostrophe. Exemple : quand-l-art-soigne"]
+        hint: "Elle devient l’adresse du texte : marienussbaum.com/fr/blog/votre-adresse/ — par exemple quand-l-art-soigne."
+      - name: translation
+        label: "Version anglaise de ce texte"
+        widget: relation
+        collection: carnets-en
+        value_field: "/en/blog/{{fields.slug}}/"
+        search_fields: [title]
+        display_fields: [title]
+        required: false
+        hint: "Choisissez le texte jumeau dans la liste ; laissez vide s’il n’existe pas encore, et revenez le choisir quand il sera publié. Faites de même côté anglais."
       - { name: featured, label: "Mis en avant (accueil + « Par où commencer »)", widget: boolean, default: false, required: false }
       - { name: body, label: Texte, widget: markdown }
   - name: carnets-en
@@ -62,7 +74,7 @@ collections:
     sortable_fields: [date, title]
     fields:
       - { name: title, label: Title, widget: string }
-      - { name: description, label: "Description (Google, ~155 characters)", widget: text }
+      - { name: description, label: "Description for Google", widget: text, minlength: 70, maxlength: 165, hint: "One or two sentences that make people want to read: this is the text Google shows under the title. Aim for 120–160 characters (a counter is shown). No keyword lists." }
       - { name: date, label: Date, widget: datetime, format: "YYYY-MM-DD", time_format: false }
       - { name: image, label: Cover image, widget: image, required: false }
       - { name: imageAlt, label: "Image alt text", widget: string, required: false }
@@ -82,8 +94,20 @@ collections:
           - { label: "Psychoanalysis & society", value: psychoanalysis-and-society }
           - { label: "Expat & international lives", value: expat-lives }
       - { name: lang, label: Language, widget: hidden, default: en }
-      - { name: slug, label: "URL slug (do not change after publishing)", widget: string }
-      - { name: translation, label: "French version path", widget: string, required: false, hint: "e.g. /fr/blog/mon-article/" }
+      - name: slug
+        label: "Page address (do not change after publishing)"
+        widget: string
+        pattern: ['^[a-z0-9àâäçéèêëîïôöùûüÿœæ]+(-+[a-z0-9àâäçéèêëîïôöùûüÿœæ]+)*$', "Lowercase letters, digits and hyphens only: no spaces, capitals or apostrophes. Example: when-art-heals"]
+        hint: "It becomes the text’s address: marienussbaum.com/en/blog/your-address/ — for example when-art-heals."
+      - name: translation
+        label: "French version of this text"
+        widget: relation
+        collection: carnets-fr
+        value_field: "/fr/blog/{{fields.slug}}/"
+        search_fields: [title]
+        display_fields: [title]
+        required: false
+        hint: "Pick the twin text from the list; leave empty if it isn’t published yet, and come back to pick it once it is. Do the same on the French side."
       - { name: featured, label: "Featured (homepage + “Where to begin”)", widget: boolean, default: false, required: false }
       - { name: body, label: Body, widget: markdown }
 

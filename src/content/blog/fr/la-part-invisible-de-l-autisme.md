@@ -1,14 +1,14 @@
 ---
 title: La part invisible de l'autisme
-description: "Les particularités sensorielles constituent une dimension centrale du Trouble du Spectre de l'Autisme (TSA). Bruits, lumières, mouvements, odeurs ou interactions sociales peuvent être perçus avec une intensité particulière et influencer profondément le bien-être, les apprentissages et la participation sociale. À partir de l'expérience clinique menée au SESSAD de la Fondation l'Élan Retrouvé auprès de jeunes de 5 à 21 ans, cet article explore l'impact concret de la sensorialité dans les transports, les foyers de vie, la famille et les espaces thérapeutiques. Il montre comment des aménagements parfois simples, tels qu'une salle de repos sensorielle, une luminosité adaptée ou l'utilisation de casques anti-bruit, peuvent contribuer à réduire la surcharge sensorielle et soutenir l'autonomie. Appuyé sur les données scientifiques récentes, ce texte invite à déplacer le regard : au-delà des caractéristiques individuelles, comment adapter nos environnements pour les rendre plus accessibles et plus habitables aux personnes autistes ?"
+description: "Bruits, lumières, odeurs, interactions : dans l’autisme, tout peut être perçu avec intensité. Comment les besoins sensoriels façonnent le quotidien."
 date: 2026-11-04
 image: /images/Autism.png
 imageAlt: ''
 categories:
   - enfance-et-parentalite
 lang: fr
-slug: La-part-invisible-de-l'autisme
-translation: ''
+slug: la-part-invisible-de-l-autisme
+translation: /en/blog/the-invisible-side-of-autism/
 featured: false
 ---
 

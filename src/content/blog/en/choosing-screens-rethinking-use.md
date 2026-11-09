@@ -1,6 +1,6 @@
 ---
 title: "Choosing Screens, Rethinking Use"
-description: "Restoring subjective time and creative alternatives"
+description: "Excessive screen use can affect sleep, attention and relationships. How to choose when and how to use screens, and why other activities matter for health."
 date: 2025-09-24
 image: "/images/ecrans.jpg"
 imageAlt: "Choosing Screens, Rethinking Use"

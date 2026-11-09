@@ -1,6 +1,6 @@
 ---
 title: "Parent in Residential Care Facility"
-description: "Navigating guilt, grief, and family dynamics"
+description: "When a parent moves into a care home, family dynamics shift. How siblings renegotiate roles, tensions, guilt and decisions around a dependent parent."
 date: 2025-03-14
 image: "/images/ephad.jpg"
 imageAlt: "Parent in Residential Care Facility"

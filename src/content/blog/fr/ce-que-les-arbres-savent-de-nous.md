@@ -1,14 +1,14 @@
 ---
 title: Ce que les arbres savent de nous
-description: La nature n'est pas seulement un décor apaisant. Les recherches en psychologie, psychiatrie et neurosciences montrent qu'elle favorise la réduction du stress, la régulation émotionnelle et le bien-être. Du bain de forêt japonais à l'éco-anxiété contemporaine, découvrez comment le contact avec les espaces naturels soutient la santé mentale et nous aide à retrouver du temps, du silence et une forme de liberté intérieure.
+description: "La nature réduit le stress et soutient l’équilibre émotionnel. Du bain de forêt japonais à l’éco-anxiété, ce que les arbres font à notre santé mentale."
 date: 2026-10-25
 image: /images/NatureBienfaits1.png
 imageAlt: ''
 categories:
   - psychanalyse-et-societe
 lang: fr
-slug: Ce-que-les-arbres-savent-de-nous
-translation: ''
+slug: ce-que-les-arbres-savent-de-nous
+translation: /en/blog/what-trees-know-about-us/
 featured: true
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Quand un enfant se retire un peu du monde : accueillir l’autisme sans le réduire"
-description: "Psychologie Autisme Enfants Parents Bébés"
+description: "Quand des parents arrivent avec le mot « autisme » déjà posé sur leur enfant : comment accueillir la différence d’un tout-petit sans la réduire."
 date: 2026-03-08
 image: "/images/autisme.jpg"
 imageAlt: "Quand un enfant se retire un peu du monde : accueillir l’autisme sans le réduire"

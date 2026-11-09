@@ -1,6 +1,6 @@
 ---
 title: "Sexual Addiction: Between Pleasure, Suffering, and the Quest for Connection"
-description: "Examining the modalities of pleasure and relationship to others"
+description: "Sexual addiction is not simply an excess of desire. When pleasure becomes the only way to regulate the psyche, at the cost of suffering and isolation."
 date: 2025-02-03
 image: "/images/sexeaddict2.jpg"
 imageAlt: "Sexual Addiction: Between Pleasure, Suffering, and the Quest for Connection"

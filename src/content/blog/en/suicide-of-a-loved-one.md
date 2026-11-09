@@ -1,6 +1,6 @@
 ---
 title: "Suicide of a Loved One"
-description: "Navigating grief after the suicide of a loved one"
+description: "When a loved one dies by suicide, grief is layered with guilt, isolation and a painful search for meaning. How to understand this mourning and find support."
 date: 2025-01-22
 image: "/images/copilot-20260401-141905.jpg"
 imageAlt: "Suicide of a Loved One"

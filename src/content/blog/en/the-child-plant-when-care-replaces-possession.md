@@ -1,6 +1,6 @@
 ---
 title: "The Child – Plant: When Care Replaces Possession"
-description: "Psychology Children Parents"
+description: "When one parent’s care is read by the other as possession: a consultation scene, and what it reveals about separation, projection and the child’s place."
 date: 2024-07-08
 image: "/images/enfantplante-copy-1.jpg"
 imageAlt: "The Child – Plant: When Care Replaces Possession"
